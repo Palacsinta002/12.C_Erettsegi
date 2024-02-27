@@ -1,0 +1,1 @@
+Háborúban elszenvedett vereségért egy másik nemzet ellen irányuló katonai megtorlás, visszafizetés, elégtételvevés, illetve az ezt kísérő bosszúvágy.

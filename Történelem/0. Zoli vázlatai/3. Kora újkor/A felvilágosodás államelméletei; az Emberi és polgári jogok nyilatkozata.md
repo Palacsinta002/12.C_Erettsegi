@@ -1,0 +1,52 @@
+- Francia enciklopédia --> 28 kötet
+	- tartalmazza a korszak tudományos eredményeit
+## Államelméletek:
+- John Locke:
+	- természet jog koncepció:
+		- az ember jogokkal születik, amiket átruház az államra, amelyek törvényeket hoz az érdekében
+	- társadalmi szerződés
+		- szabadság, tulajdon jog
+	- alkotmányos monarchia
+- Montesquieu:
+	- hatalmi ágak szétválasztása
+		- törvényhozó hatalom
+		- végrehajtóhatalom
+		- bírói hatalom
+	- egymástól függetlenek, egymást ellenőrzik, mert ha nem akkor zsarnokság léphet föl
+	- közvetett demokrácia híve
+	- választópolgárok képviselőket választanak --> cenzusos választójog
+	- alkotmányos monarchia híve
+	- földrajzi determinizmus
+		- a földrajzi környezet meghatározott államok, nagyságát és államformáját
+- Rousseau:
+	- magántulajdon megjelenése jelentette az emberi társadalom problémáit
+	- vissza a természetbe
+	- közvetlen demokrácia
+	- köztársaság az ideális államforma
+	- népfelség elve (népszuverenitás)
+		- hatalom a néptől származik
+	- egyéni érdek háttérbe szorul a többség érdekéhez képest
+- Voltaire
+	- ellenzi a vallást
+	- deista
+- fiziokratizmus:
+	- olyan gazdaság politika mely ellenzi(nem tudom mi van oda írva a füzetembe) az állam gazdasági életébe
+	- szabad verseny:
+		- munkaérték elmélet:
+			- az áru értékét az előállításhoz szükséges munka határozza meg
+- merkantilizmus (colbertizmus):
+	- aktív külkereskedelmi mérleg
+	- cél: a hazai ipar védelme
+	- manufaktúrák támogatása
+	- infrastruktúra fejlesztése
+## Az emberi jogok nyilatkozata:
+- 1789 augusztus 29. Emberi és polgár jogok nyilatkozata
+	- szabadság jogok
+	- élet tulajdon
+	- törvény előtti egyenlőség
+	- vallás szabadság
+	- sajtói szólásszabadság
+	- ártatlanság vélelme
+	- népfelség elve
+	- képviseleti rendszer
+	- hatalmi ágak szétválasztása

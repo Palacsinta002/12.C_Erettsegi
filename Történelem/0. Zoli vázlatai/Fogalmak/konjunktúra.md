@@ -1,0 +1,1 @@
+A konjunktúra általában bizonyos eseményeknek és viszonyoknak összetalálkozása és összekapcsolódása; a gazdasági életben ezen az elnevezésen a társadalmi, forgalmi és gazdasági viszonyoknak olyan alakulásait értjük, amelyek a termelés módosítása nélkül idéznek elő a meglevő gazdasági értékekben változást.

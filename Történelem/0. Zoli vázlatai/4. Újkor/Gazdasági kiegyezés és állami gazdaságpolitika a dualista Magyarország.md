@@ -1,0 +1,87 @@
+## A Dualizmus Gazdasága
+- Gazdasági kiegyezés
+- a Monarchia közös piaca
+- I. és II. ipari forradalom egyszerre jelenik meg
+- ipart támogató törvények
+### Mezőgazdaság
+- folyószabályozás, gátépítések
+- kubikusok --> zsellérek, akiknek nincs földje
+- nő a szántó terület nagysága
+- hajózható folyók
+- gépesítés
+- modernizáció
+- vetésforgó
+- műtrágyázás
+- kapás növények termesztése (kukorica, burgonya)
+- ipari növények termesztés (cukorrépa)
+- jelentős a gabona termesztés --> [[konjunktúra]] --> malmok alapítása --> iparág fellendül
+- istállózó állattartás
+- új szarvasmarhák terjesztése
+	- svájci, holland, hízékonyabb ,gyorsabban nő
+- angol hússértés tenyésztés
+- aránytalan a magyar birtok struktúra
+- a parasztág jelentős részének csak törpebirtoka van, nem tud modernizálni
+- zöldség, gyümölcs termesztés
+	- szesz gyártás
+	- élelmiszer ipar
+	- cél a városok ellátás
+- specializálódó termelés
+- makói hagyma, kecskeméti barack
+### Közlekedés
+#### Vasúthálózat
+- nyersanyag szállítása
+- export
+- 1867 után vasútépítési láz kezdődik
+- először a fővonalak épülnek meg Pesttől a nagy városokig
+- aztán a szárny vonalak kisebb városokig
+- összeköti a nyersanyag lelő helyet a feldolgozó iparral
+- Baross Gábor közlekedési miniszter
+- az igények nőnek -->keresletek
+- MÁV --> Baross Gábor
+	- magánvonalak felvásárlása
+- Baross --> egységes tarifa rendszer bevezetése
+- húzóágazat
+	- gépgyártás, munkahelyek
+#### Hajózás
+- Duna-Tisza --> folyami hajózás
+- folyószabályozás
+- Fiume --> tengeri kikötő
+#### Posta
+- Hálózat kialakítása
+	- kereskedelem
+- úthálózat fejlesztése
+- hidak építése
+- távirodák
+#### Ipar
+- állami ipar támogató törvények
+- nagykorú állampolgárok vállalkozást alapíthatnak
+- adókedvezmény, vagy adómentesség, illetve illeték mentességet nyújt
+	- a modern technikát alkalmazó gyáraknak
+	- támogatják a textilipart, gépgyártást
+	- ösztönzik a modern és új iparcikkek gyártását
+- verseny hátrány ellensúlyozása a cél
+#### Hitelszervezetek fejlesztése
+- kezdetben a külföldi tőke jelentős, majd a magyar tőke aránya nő
+- iparba, kereskedelembe, építkezésekbe fektetnek
+- Bankokat építenek
+	- hitelt nyújtanak a vállalkozásoknak
+- 1872 - céhek megszűnése
+- modern gyáripar létrejötte
+- könnyűipar:
+	- textilipar
+	- cukoripar
+	- szeszgyártás
+	- élelmiszeripar
+	- malomipar
+- bányászat (szén, vas, kősó)
+- nehézipar
+- vaskohászat
+- acélgyártás
+- gépipar
+- iparközpontok (Borsod, Budapest, Vajdahunyad)
+- Ganz Villamossági Művek
+- Richter Gyógyszertár
+- Nyomdaipar (Kner)
+- Goldberger család - textilipar
+- Mo. felzárkózott a Monarchia nyugati feléhez, de nem Nyugat Európához
+- közepesen fejlett agráripari ország lett

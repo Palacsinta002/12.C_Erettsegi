@@ -1,0 +1,150 @@
+#### 1703-1711
+- Kitörés okai:
+	- sérelmek:
+		- 1. 
+			- szabad vallásgyakorlás korlátozása
+			- protestánsok üldözése
+			- mindenkit érint, minden réteget
+		- 2. 
+			- A Hódoltság területére a Habsburgok új szerzeményként tekintettek
+			- a birtokért a nemesektől, mint tulajdonért fegyverváltságot örököltek (nemesség sérelme)
+		- 3. 
+			- a magyar vitézetek elbocsátják a várokból
+				- félnek a lesüllyedéstől, jobbággyáválástól
+				- idegen katonákat állítanak helyükre
+			- felrobbantanak várakat
+		- 4.
+			- Megemelik a parasztság adóit
+			- plusz adók katonai felszerelésekre
+		- további sérelmek:
+			- Az uralkodó (I. Lipót) nem egyesítette Erdélyt Magyarországgal
+			- Nem hívta össze az országgyűlést
+-  II. Rákóczi Ferenc:
+	- Édesanyja: Zrínyi Ilona
+	- felmenői: Erdélyi felmenők
+	- katolikus
+	- Lengyelországban keresik fel a jobbágyok képviselői --> Esze Tamás
+	- brezáni kiáltvány --> harc élére áll
+		- felszólítja a nemeseket és a nemteleneket a csatlakozásra
+	- Jelmondat Cum Deo pra Patria el Libertate
+		- "Isten a hazáért és a szabadságért"
+- Nemzetközi háttér:
+	- Franciaország(XIV. Lajos támogatta Rákóczit (fegyverek, pénz, tisztek, katonák)) <-> Habsburgok harcolnak (császári sereget leköti a harc)
+	- kurucok <-> labancok
+- kuruc hadsereg:
+	- fegyverek: könnyű lovasság, gyalogság, tűzerőség
+	- lesből támadó -> portyázás
+	- nem fegyelmezett
+	- tapasztalan
+	- hiányos kiképzés
+	- kevés és elavult fegyver
+	- várak bevételéhez és nyílt ütközetekben sikertelenek
+- Kezdeti sikerek:
+	- Tiszántúl, Felvidék, Duna-Tisza köze, Erdély
+	- Erdély fejedelem lett
+	- vetési pátens -> nyílt parancs
+		- a hadba vonult jobbágyakat mentesítette közterhek és a földesúri szolgáltatások alól
+- 1705 Szécsényi országgyűlés:
+	- államforma: rendi konföderáció
+	- Rákóczi vezérlő fejedelem
+	- Bercsényi Miklós főgenerális
+	- Nemzeti abszolutizmus
+- Dunántúl felszabadítása:
+	- Vak Battyán János
+	- Károly Sándor
+- Gazdasági háttér:
+	- kezdetben Rákóczi vagyona
+	- francia támogatás
+	- adóemelés
+	- pénzverés -> Libertás -> Rákóczi pénze
+		- rézpénz hamar elértéktelenedik (inflálódik)
+	- manufaktúra létrehozása
+		- fegyvergyártás
+		- textilipar beindítása -> egyenruha
+		- tárház: a katonaság élelmezése
+- Ónodi országgyűlés (1707):
+	- A Habsburg-ház trónfosztása
+	- közteherviselés bevezetése (mindenkinek, még a nemeseknek is)
+- Sárospataki országgyűlés (1708):
+	- parasztok mentesítése a közterhek alól
+- A bukás okai:
+	- A Francia vereség hatására a Habsburg sereget átcsoportosították
+	- elhúzódnak a harcok
+	- pestis járvány
+	- a nemesség a katonáskodó jobbágyokat haza kényszeríti
+- __1711__:
+	- Rákóczi az orosz cárral tárgyal, teljhatalmat ad Károlyi Sándornak és ő békét köt a Habsburgokkal
+		- __Szatmári béke megkötése__
+			- a majtényi síkon teszik le a zászlókat
+			- hűségkegyében közkegyelmet (__amnesztiát__) kapnak a kurucok
+			- vallásszabadság szabadsága
+			- rendi jogok tiszteletben tartása
+			- birodalmon belüli önállóság
+			- önálló országgyűlés: Pozsonyban
+		- Emigráció:
+			- Rodostó
+			- 1906 Kassa, maradványait haza hozzák
+# Magyarország benépesülése a 18. században
+- népesség pusztulás / csökkenés okai:
+	- háborúk (törökök, Rákóczi Szabadságharc)
+	- járványok
+	- éhezés (termelés elmaradás)
+	- legnagyobb pusztítás, a volt Hódoltság alföldi területén
+- század végére eléri a 10M főt:
+	- okok:
+		- éhezés és járványok visszaszorulása
+		- természetes népszaporulat
+- belső vándorlás:
+	- peremvidék felől a belső területek felé érkeznek --> zsúfoltság
+	- kevés és rossz minőségű föld
+	- Románok: völgyekbe és alföldre (oláh)
+	- Horvátok: északra vonulnak (Pozsony)
+	- Szerbek (rácok): Duna mentén telepednek le, kereskedők (Ráckeve)
+	- Szlovákok (tótok): evangélikusok (Békéscsaba, Tótkomlós)
+	- Magyarok
+	- ruszinok
+- Bevándorlás:
+	- öntevékeny betelepülés:
+		- szlovákok
+		- lengyelek
+		- ruszinok
+		- románok
+		- cigányok, zsidóság : nincs letelepedési mozgásaik, központi szervezés nélkül érkeznek, peremvidékre telepednek le
+	- Vonzás:
+		- kevesebb adó
+		- béke
+	- szervezett betelepülés
+		- svábok - birodalmi németek
+			- szervezők:
+				- a királyi udvar, uralkodók:
+					- okok:
+						- adó fizetők száma nő
+						- hadsereg száma nő
+						- katolikus vallás és német nyelv terjesztése
+				- földbirtokosok:
+					- okok: munkaerő növelése
+- a svábok kedvezményei:
+	- adómentesség
+	- vámmentesség
+	- felépített falvak és eszközök várják a betelepülőket
+	- Békésmegye (Gyula)
+	- Baranyamegye
+	- Pest és Buda környéke
+	- Bácska, Bánát
+- szerb betelepítés:
+	- határőrvidékre érkeznek
+	- törökök elől menekülnek
+- következményei:
+	- népesség a század végére: ~10 millió fő
+	- népsűrűség^ a belső területeken
+	- soknemzetiségű ország
+	- magyar az ország 40-45%-a
+		- relatív többség
+	- kevert nemzetiségű nemzetek (pl.: Temesköz)
+	- békében élnek a nacionalizmus előtt
+	- hungaris tudat
+	- magyarok és horvátok teljes társadalmat akarnak, van nemességük 
+	- többi nemzetiségnek csonka társadalmat alkot (nincs nemességük)
+	- cigányság: vándorló életmód, nincs jellemző letelepedési területük, letelepítésük sikertelen
+	- zsidóság: kereskedők, gazdagok, létszámuk nő, szegényebb zsidók érkeznek keletről, mészárszék
+	- asszimiláció: beolvadás, nem erőszakosan

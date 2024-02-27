@@ -1,0 +1,138 @@
+### A háború kitörése és a furcsa háború
+- Hitler korridort követelt a Lengyel területeken
+	- Lengyelek tiltakoznak
+- Hitler egyezséget köt Sztálinnal 1939. augusztus 23-án
+	- Molotov-Ribbentrop paktum
+		- nem támadják meg egymást (Német-Szovjet)
+		- így a szovjetek nyugodtan tudtak terjeszkedni a Nyugat felé (ideológilag ellentét)
+		- 10 évre kötik
+- 1939 szeptember 1.
+	- A Franciák és a Britek a Lengyelekkel kötött szerződés miatt hadat üzen Németországnak
+		- kitör a II. Világháború --> 1939 szeptember 1. - 1945 szeptember 2.
+- a lengyelek rosszul vannak felszerelve
+	- a Németek átmentek rajtuk mint fing a gatyán
+	- lebombázták a központokat, pályaudvarokat, repülőket
+- A lengyel kormányt emigrálták
+- A Szovjet-Finn háború és a Balti Államok
+	- Finnek területet követelnek ás a Szovjeteknek lakatlan területet ajánlanak
+		- Szovjetek megtagadják
+			- 1939 novemberében megtámadja a Finneket
+- Szeptember 17.
+	- Vörös hadsereg megtámadja Lengyelországot
+	- nem kényszerülnek két frontos háborúba - furcsa háború(nyugaton nem támadnak)
+### A Nyugat lerohanása
+- 1940-ben Hitler elfoglalja Dániát és Norvégiát
+	- így Észak felől ne zavarja a nyugati hadműveletekben
+	- elzárták a svéd vasércbányákat az angoloktól
+		- német fegyverek
+- az elfoglalt területeken nemzetszocialista kormány
+	- az ellenséggel együttműködő politikusok, kollaboránsok kormány
+		- quisling
+- Német hadsereg - Wehrmacht
+- Dunkirk
+	- lerohanják Belgiumot 1940
+- Franciaország kapitulál, 1940 július 22.
+	- kollaboráns kormány a Vichy városban
+- Charles de Gaulle
+- Winston Churchill
+	- brit miniszterelnök 1940-45-ig
+- Angliai csata 1940 augusztus
+	- Luft waffe németlégierő
+	- kiépítik a radar rendszer
+- 1940 szeptember
+	- 3 hatalmi egyezmény megkötése
+	- No. + Olaszo. + Japán
+		- 10 évre érdekszféra elhatárolása egymástól
+- Tengelyhatalmak vs. Szövetségesek
+- Észak-Afrika hadszintér (1940 szeptember)
+	- Olasz támadás
+		- Sikertelen offenzíva
+		- Görögöket is támadja (szintén sikertelen)
+- Afrikakorps
+	- Erwin Rommel (Sivatagi Róka)
+		- Sikeres ellentámadás
+- Jugoszlávián keresztül elfoglalják Görögöket (1941 április)
+
+- Kölcsön bérleti törvény (1941 március)
+- Lend-Lease
+- Az USA bármilyen nyersanyagot, utánpótlást biztosít azon oszágoknak akik számára fontos, akár kölcsönként vagy ingyen
+	- Az USA izonacionalista (elzárkózott)
+### Barbarossa Hadművelet (1941 június 22.)
+- Németország megtámadja Szovjetuniót
+- Sztálingrád, Leningrád, Moszkva lesz a front
+- hosszú az utánpótlási útvonal a Náciknak
+- Szovjet T-34, Katyusa (Sztálin Orgona)
+- Partizán  tevékenység Szovjetunióban, Balkánon
+	- sok veszteség a németnek
+
+### Atlanti Chata(1941 augusztus)
+- Roosevelt, Churchill + Sztálin
+- háború után rendezés szerepel benne
+	- demokrácia az elfoglalt helyeken
+	- nemzeti önrendelkezés - az országok maguk dönthetnek
+	- szabad kereskedelem
+	- anneció nélküli béke
+		- terület elcsatolás
+- Csendes óceáni hadminiszter (1941 december 7.)
+	- Pearl Harbor
+		- Japán támadja USA-t
+			- ezzel az USA belép a háborúba
+	- Japán diadalmas 100 napja
+		- Japán terjeszkedik az óceánon (Atlanti + Indiai)
+	- repülőgép hordozó anyahajók
+### 1942 a fordulat éve
+- mind a 3 fontos hadszintér sikerül a tengelyhatalmak megállítani
+- Csendes óceán (1942 júniustól)
+	- Midway-szigetek
+		- USA győzelem, ok: mind a 4 Japán anyahajó elsüllyesztik
+	- Kamikaze
+	- Amerikaiak szigetről szigetre haladva foglalja vissza a szigeteket (Békaugrás taktika)
+- Keleti front
+	- Sztálingrád - Sztálin nevét viseli, közlekedési csomó út az alapanyaghoz 1942 szeptembertől
+	- városi hadviselés
+	- Paulus (német tábornok)
+	- nagy szovjet ellentámadás indul
+		- bekerítik a németeket
+			- megadják magukat
+- Észak-Afrikai hadszintér (1942 október)
+	- El-Alamein (Egyiptomi terület)
+	- Montgomery --> brit túlerő, nagy angol győzelem
+	- Rommel --> német --> visszavonulás --> Észak-Afrikán keresztül, Tunisz-on át kerülnek
+- 1942 november
+	- Szövetségesek partra szálnak Afrikában (valami M betűs városban), Eisenhower tábornokkal
+- Csigaoffenzíva
+	- Olaszországban nagyon lassan nyomulnak a Szövetségesek
+- Atlanti csaták
+	- német tengeralattjárók(U-boat) süllyesztenek el Amerikai hajókat
+- Farkas falka taktika
+	- Konvoj oda gyűlnek a német U-boat-ok, hogy hadihajókat elsüllyesztenek
+- Kurszk (Keleti front)
+	- legnagyobb tank csata
+	- 1943 március
+	- folyamatos német visszavonulás
+- 1943 november: Teherán (Iránban)
+	- Churchill, Roosevelt, Sztálin találkozása
+	- második front megnyitására Észak-Franciaországban (Overlord)
+	- A Szu. ígérete No. legyőzése után csatlakozik a Japán elleni háborúban
+	- No. bombázása megindul (Drezda)
+- 1944. június 6.
+	- Overlord hadművelet (D-day) (A leghosszabb nap)
+	- Normandiai partaszállás
+		- Eisenhower vezetésével
+	- Augusztus vége - Párizs felszabadítása
+- Arden-nek utolsó német ellentámadás
+- Ivo Jina - Fülöp-szigetek
+- Jalta - Churchill + Roosevelt + Sztálin
+	- a győzelem után 4 övezetre fogják osztani, háborús bűnösök megbüntetése, nácitlanítás
+	- Szovjet területi követelések Lengyelországtól
+- 1945 április - Elba folyó
+	- Berlint felszabadítják
+	- április 30 Hitler öngyilkos lesz
+	- május 8. fegyverszüneti megállapodás
+	- május 9. Győzelem Napja
+	- Potsdam 1945 június
+		- Attlee - brit
+		- Truman - Amerika
+		- Sztálin
+- 1945 augusztus 6. Hirosima, augusztus 9. Nagasaki
+- 1945 szeptember 2. Japán kapitulál

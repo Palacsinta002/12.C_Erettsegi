@@ -1,0 +1,1 @@
+ideiglenes vagy átmeneti állapot

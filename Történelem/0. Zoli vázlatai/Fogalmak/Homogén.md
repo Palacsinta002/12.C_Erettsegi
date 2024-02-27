@@ -1,0 +1,1 @@
+népesség etnikai szempontból egyforma

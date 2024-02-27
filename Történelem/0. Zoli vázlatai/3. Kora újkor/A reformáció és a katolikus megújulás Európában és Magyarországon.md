@@ -1,0 +1,172 @@
+# A reformáció kibontakozása
+- A római katolikus egyház történetében sok és sokféle válság és kihívás volt
+	- világias, fényűző élet
+	- reneszánsz humanizmus
+		- skolasztikus teológia elleni támadások
+	- elmélyült vallásosság iránti igény
+- Megújulás, reformok = problémák megoldása
+- Reneszánsz pápák
+	- 15. század vége: tekintélyvesztés
+- Szimónia - egyházi méltóságok vásárlása
+- X. Leó búcsúcédulái
+	- a Szent Péter székesegyház építésére (+ német egyházfők méltóságuk megvásárlására) árulta
+- Búcsú:
+	- A katolikus vallásban a bocsánatos bűnökért vezekelni (bűnhődni) kell a túlvilágon
+	- rövidíthető: ha a hívő meggyónja bűnét + lerója a bűnbánati cselekedetet (ima, böjt, vezeklés, zarándoklat stb.)
+	- a búcsúcédulákkal pénzért lehetett bűnbocsánatot venni / kiváltani a penitenciát (büntetést), akár előre is (!) így megmenekül a purgatóriumtól
+- Luther Márton szerzetes (Ágoston-rendi)
+	- Róma fényűzés, pazarlás
+	- visszaélés a búcsúcédulákkal
+- 1517. október 31.-én közzé tette öt pontját Wittenbergben (itt volt egyetemi tanár) - legenda
+	- bírálta az egyházat
+	- javaslatokat tett a megújításra
+	- Ez a reformáció kezdete
+		- lutheránus / evangélikus felekezet
+- Luther a Bibliához tért vissza
+	- elvette a katolikus dogmákat és a középkori teológiát
+		- bűnt csak Isten bocsáthatja meg
+		- az ember csak Isten kegyelméből, a hit által üdvözülhet
+		- a Biblia a mérvadó a hívő számára
+	- elvesztette az egyház közvetítő szerepét ember és Isten közt
+		- szükségtelen gazdaság, fényűzés
+		- szekularizációt hirdetett (az egyházi birtokok eladása)
+		- tagadja a pápa különleges hatalmát
+		- elvette a szerzetesrendek létét
+		- elvette a cölibátust (papi nőtlenség) - meg is nősül (Luther)
+		- elvette a gyónást, a szentek tiszteletét
+	- támogatta
+		- a két szín alatti áldozást
+		- a nép Biblia-olvasását (lefordította)
+		- a katolikusok hét szentségéből (kereszténység, bérmálás, oltáriszentség, bűnbocsánat, egyházi rend, házasság, utolsó kenet)
+		- csak kettőt tartott meg:
+			- kereszténység
+			- úrvacsora (jelképes szertartásként értelmezte)
+# A reformáció elterjedése
+- A pápa és V. Károly császár is ellene fordult
+	- egyházi + birodalmi átok
+	- nem tudták megakadályozni a reformáció terjedését
+	- A Luthert támogató fejedelmek ==tiltakoztak / protestáltak==
+		- Protestánsok
+		- megtiltották a hitük terjesztését
+	- Bölcs Frigyes szász választófejedelem oltalma alatt fordította le a Bibliát Wartburgban
+	- kidolgozták a hittételeket, 1530 (augsburgi / ágostai hitvallás)
+	- Protestánsok vs. Katolikusok:
+		- vallásháború
+		- Augsburg, 1555: vallásbéke
+			- a fejedelmek szabadon választhattak vallást, alattvalóik követik őket vagy elköltöznek
+			- CSAK az evangélikus és a katolikus vallás közül választhattak!
+# Kálvin és a református egyház
+- Jean Calvin / Kálvin János - követői: kálvinisták (reformátusok)
+	- Genfben szervezete új felekezetet
+	- Svájcban menekült francia reformátorok
+	- a Bibliához tért vissza, de radikálisabban eltávolodott a katolikus hagyományoktól
+		- szigorú erkölcsiség
+		- eleve elrendelés (predesztináció):
+			- Isten előre kiválasztotta, ki üdvözül, és ki kárhozik el
+			- az embereknek hinniük kell, hogy üdvözülésre választotta őket Isten, ezért tisztes, dolgos élettel kell megfelelni ennek
+			![[Pasted image 20231120175818.png|300]]
+- A polgárság lelkesen fogadta
+	- elvetette a fényűzést = puritán templomok (nincsenek képek)
+	- nem tiltotta a munkával szerzett pénz kölcsönzését és tisztes kamatot
+	- nincs egyházi hierarchia
+		- demokratikus egyházi-szervezet
+		- önálló közösségek: világiak (presbiterek) is szerepet kapnak
+		- tanácsok (konzisztórium)
+	- a polgári erények előtérbe kerültek
+		- mértéktartás, szorgalom, munka, szellemi- és anyagi gyarapodás
+	- "genfi pápa" - beleszól a magánéletbe
+# Az unitáriusok / antitrinitáriusok / szentháromság-tagadók
+- Szervét Mihály (Kálvin máglyán égettette el)
+	- őskeresztény hagyományok
+	- elvesztette a Szentháromságot
+		- tagadta a Szentlélek létezését, és hogy Jézus Krisztus isten volt
+	- Erdélyben vált egyházzá
+		- unitáriusok
+- Az Atya, A Fiú, A Szentlélek
+# Az anabaptisták
+- Münzer Tamás radikális programja alapján (kivégezték)
+	- az ember csak felnőttként dönthet a hitéről
+		- újrakeresztelkedés
+	- társadalmi követelések: vagyonközösség + államhatalom megszüntetése + krisztusi szegénység - eretnek jellegű
+- Jobbágyok tömegei követték őket Németországban
+	- parasztháború (1524-1526): a fejedelmek leverték
+- Luther elítélte minkét oldal kegyetlenkedéseit
+# A katolikus megújulás - ellenreformáció (16-17. század)
+- A római katolikus egyház válaszokat keresett a kihívásokra
+	- a reformáció látványos térnyerése gyorsította a folyamatot
+	- ellenreformáció + katolikus megújulás
+	- tridenti zsinat, 1545-1563
+		- dogmák áttekintése
+			- pápai főség, 7 szentség, Mária tisztelet, szentkultusz, Purgatórium stb. maradtak
+			- búcsúcédulák: elvetik
+		- szigorítások
+			- pl.: papok oktatása, életmódja, cölibátus, ruházat, prédikációk rendje stb.
+- Index (tiltott könyvek listájának) összeállítása
+- inkvizíció felújítása (Szent Törvényszék) - eretnekek elleni erőszakos fellépés
+- Loyoali (Szent) Ignác
+	- jezsuita rend (Jézus Társasága) alapítása, 1540
+		- központosított szervezet, élén: generális
+		- katolicizmus védelme, erősítette, terjesztette
+		- lakossággal kapcsolat: prédikációk, hitviták, élményszerű hitélet
+		- oktatás: magas színvonal
+			- uralkodók, főnemesek, egyszerű emberek tömegeit térítik vissza (rekatolizáció)
+		- tudományos munkák
+		- missziók
+- A művészeti háttér
+	- Barokk:
+		-  díszes, hatalmas, mozgalmas, lenyűgöző
+		- szenvedélyesség, érzelmi túlfűtöttség
+		- freskók, aranyozott szobrok, csigavonalak monumentális
+		![[Pasted image 20231120182105.png|100]]![[Pasted image 20231120182120.png|300]]
+- Az ellenreformáció hatása
+	- megállította a reformáció terjedését
+# A reformáció Magyarországon
+- Luther tanításai hamar elterjedtek
+	- főurak, városi polgárok (németek), külföldön tanult prédikátorok
+	- török sikerek = "Isten büntetése"
+- Felvidék (magyarok, németek, szlovákok), Erdély
+- Bárói családok is: Nádasdy Tamás, Perényi Péter
+- Ágostai hitvallás elfogadása
+### Kálvini reformáció:
+- az ország jelentős része ehhez csatlakozott (Hódoltságban is)
+- önkormányzati felépítés
+- uralkodóval való szembeszállas joga
+- hitviták
+- Debrecen, a "kálvinista Róma" - kollégium
+- református egyházszervezet kiépítése - Méliusz Juhász Péter
+- Erdély - vallási sokszínűség jellemezte
+- Vallási tolerancia, türelem
+- antitrinitáriusok / unitárius egyház – Dávid Ferenc (Egy az Isten)
+- Tordai ogy. (1557) – a lutheránusok egyenrangúak a katolikusokkal
+- Tordai ogy. (1564) – kimondták a lutheránusok és kálvinisták vallásszabadságát
+- ==Tordai ogy. (1568) - szabad vallásgyakorlat négy bevett vallásnak (római
+katolikus, evangélikus, református, unitárius) - az ortodox csak megtűrt vallás==
+# A reformáció sikere
+- A kultúra
+	- anyanyelvűség - összetartó kapocs, nyomdák
+		- hitviták iratai, imakönyvek, prédikációk stb.
+		- Károli Gáspárt: Biblia (Vizsoly, 1590)
+	- Káté: kérdés-felelet formában magyarázza a el a hittételeket (katekizmus)
+	- iskolahálózat - magas színvonalú oktatási rendszer
+	- Református iskolák: Gyulafehérvár, Kolozsvár, Várad, Debrecen, Sárospatak - kollégiumok
+## Iskoláztatás, oktatás: felekezeti sokszínűség
+![[Pasted image 20231120194357.png|300]]
+- A felsőfokú oktatás - külföldön (peregrináció)
+	- protestánsok
+		- egyetemjárás (Németország - Wittenberg, Hiedelberg, Hollandia)
+	- Katolikusok
+		- Bécs, Krakkó, Padova, Bologna
+		- Nagyszombat, 1635
+## A katolikus megújulás Magyarországon
+- A Királyi Magyarország a 17. században
+	- vallási változások
+	- katolikus megújulás
+	- Pázmány Péter esztergomi érsek (kálvinista volt, a kolozsvári jezsuitáknál tért át) - Zrínyi Miklós nevelője, prédikációk
+	- erőszakmentes reformáció
+	- vitairatok magyar nyelven
+	- papnevelés
+	- egyetem, 1636
+## A barokk Magyarországon
+- Templomok (Nagyszombat)
+- Kastélyok (Esterházy-kastély - Kismarton, Grassalkovich-kastély - Gödöllő)
+- Irodalom (Zrínyi Miklós: Szigeti veszedelem)

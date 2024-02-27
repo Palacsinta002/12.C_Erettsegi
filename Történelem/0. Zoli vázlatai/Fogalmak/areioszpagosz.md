@@ -1,0 +1,1 @@
+Athénban az Akropolisztól északnyugatra emelkedő domb ókori görög elnevezése, tkp. ’Arész dombja’. Ez volt az a hely ahol a vének tanácsa ülésezett.

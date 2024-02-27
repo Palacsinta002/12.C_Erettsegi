@@ -1,0 +1,102 @@
+## A Holokauszt (Égő áldozat)
+- népirtás (pl.: indiánok, holodomor, Örmény)
+	- genocidium - népirtás
+	- 'Soá' = katasztrófa (Németül)
+	- porrajmos - roma holokauszt (II. vh alatt)
+- Gettó
+	- elkülönített városrész
+	- nagy a zsúfoltság
+	- éhínség, járványok
+- Tömegkivégzés
+	- SS bevetési csapatok
+		- tömegesen lőtték agyon a zsidókat
+		- elgázosító teherautók
+- 1992. január Wannsee-i konferencia
+	- Endlösung - végső megoldás
+	- Koncentrációs táborok - láger
+	- Kezdet: Gettósítás
+	- Elszállítás: Vonatok, marhavagonok
+		- Deportálás(transzport)
+	- Szelektálás
+		- csoportosítás: munkaképes
+	- Átvizsgálnak
+		- leborotválják a hajat
+		- tetoválás (számot), billog
+		- rab ruha
+	- "zuhanyzás" (gázkamra)(nők, idősek)(ciklon-b)
+	- krematórium
+- 1945 január 27. Holokauszt emléknapja
+	- szovjetek felszabadítják Auschwitz-ot
+- Április 16.-a (1944)
+	- akkor kezdik felállítani a magyar gettót
+	- 6 millió halt meg a 11 millióból
+- Magyarország-i Holokauszt
+	- letartóztatják a német elleneseket
+	- kihasználják Magyarországot
+	- frontra küldik a magyarokat
+	- VÉSZKORSZAK
+		- Jaross Andor --> belügy miniszter
+			- állam titkárai: Endre László és Baky László
+			- csendőrség: Ferenczy László
+- 1944
+	- Április elején össze írták a zsidókat
+	- Sárgacsillag viselése a zsidóknak
+		- megtiltják az utazást
+		- teljes vagyon össze írás (bankban zárolják)
+		- gettórendelet
+		- május 15. a deportálások kezdete
+		- Kassától Auschwitz
+		- Július 6. Horty leállítja a deportálást
+			- a Pesti zsidók megmenekülnek
+		- 450.000 főt deportálása (Vidéki zsidóság)
+- 1944 augusztus Román átállás a szovjetekhez
+	- ezáltal a szovjetek elérik Magyarországot a augusztus végén
+- Lakatos Géza: új miniszerelnök
+	- feladata: kiugrási kísérlet (a háborúból)
+- 1944 október 15.
+	- Horty Miklós beszéde a rádióban
+		- itt jelentette be a fegyverszünetet
+			- nem egyértelmű az utasítás
+				- Sikertelen
+	- fia meghal (István)
+		- repülő baleset
+	- családját elrabolják
+- A kormányzó lemond (Horty)
+	- kinevezik Szálasi Ferencet
+		- nemzetvezető lesz (állam és kormányfő)
+			- diktátori teljhatalom
+				- Nyilaskereszt hatalom átvétel
+					- szélső jobb
+					- nacionalista
+					- minta: náci ideológia
+					- rend betartása
+					- tekintély elviség
+					- nincs liberalizmus
+- totális mozgósítás
+	- magyar férfiakat küldenek a frontra
+	- gazdasági értelemben is kiszolgálják No.-t
+	- No. vissza vonulása során kirabolják Mo.-t
+- Nyilasok célja
+	- Budapest zsidóság kiirtása
+	- felállítják a gettókat
+	- Dunába lőnek embereket
+- 1945 január 18.
+	- a gettó felszabadítása
+		- szovjetek által
+- Harcok Magyarországon
+	- Debrecen-i tank csata 1944 október 9-20
+		- létre jön egy ideiglenes nemzetgyűlés
+- 1944 december 25
+	- bezárul az ostrom gyűrű Budapest körül
+- 1945 január 18.ig tart Pest-i ostrom
+- 1945 február 14 Buda-i ostrom
+	- sok civil áldozat
+	- Duna hidak felrobbantása
+- Tavaszi ébredés
+	- utolsó német offenzíva
+	- Székesfehérvár és a Zalai olajmezők védelmére
+- Április 4.
+	- Szovjet felszabadítás ünnepe
+- Szovjet hadsereg kegyetlenségek, megerőszakolók, rablások
+	- málenkij robot
+	- áldozat Magyarországon: kb. 500.000 zsidó, kb. 200.000 katona a fronton, kb. 50.000 civil áldozat, kb. 800.000-900.000 került fogságba --> kb. 400.000 halott

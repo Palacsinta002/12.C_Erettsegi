@@ -1,0 +1,3 @@
+- Összefüggő és kiépített állásrendszerekben folyik a hadi tevékenység
+- Cél az áttörés
+- A két lövészárok-rendszer között a *senkiföldje* van

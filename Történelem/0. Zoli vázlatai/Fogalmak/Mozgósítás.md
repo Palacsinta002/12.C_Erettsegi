@@ -1,0 +1,1 @@
+Az általános hadkötelezettség miatt tömegeket hívnak be katonának

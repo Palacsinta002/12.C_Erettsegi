@@ -1,0 +1,30 @@
+## Alkotmányos Monarchia Angliában:
+- polgárháború: 1640-től
+- dicsőséges forradalom 1688
+- Jognyilatkozat (1689)
+	- korlátozza a királyt
+	- alkotmányos monarchia / alkotmányos királyság létrejötte
+	- a parlement jogkörét szélesítik
+- a király uralkodik, de nem kormányoz
+- törvényhozó hatalom: parlament
+	- 2 háza van:
+		- felsőház: lordok háza
+		- alsóház: képviselők --> cenzusos választójog
+- toryk - konzervatívok
+- whijek - liberálisok
+- a törvényeket a király (államfő) szentesíti (írja alá)
+- a végrehajtó hatalom:
+	- kormány - miniszterek
+	- kormányfő - miniszterelnök
+## Az Amerikai Egyesült államok létrejötte
+- 1776 Július 4.
+	- Függetlenségi nyilatkozat
+	- Thomas Jefferson
+- 1787: USA alkotmánya
+	- George Washington (1. elnök)
+- törvényhozás:
+	- Szenátus
+- végrehajtó hatalom: elnök
+- független bíróság
+- érvényesülnek a felvilágosodás gondolatai
+	- pl.: hatalommegtartás képviseleti rendszer

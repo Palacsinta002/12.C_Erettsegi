@@ -1,0 +1,2 @@
+
+A **metoikosz** („együttlakó”) az ókori Athénban generációk óta ott élő, betelepült idegen (de görög) vagy felszabadított rabszolga származású egyén volt, aki életmódjában a teljes jogú polgárok (politész) életét élte, gazdaságilag és kulturálisan asszimilálódott, de politikai jogokkal nem rendelkezett.

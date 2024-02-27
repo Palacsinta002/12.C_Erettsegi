@@ -1,0 +1,1 @@
+Ha lelősz 5 ellenséges repcsit, akkor megkapod az ász achimentet

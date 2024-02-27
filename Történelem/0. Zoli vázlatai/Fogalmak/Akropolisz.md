@@ -1,0 +1,2 @@
+
+Jelentése: Fellegvár

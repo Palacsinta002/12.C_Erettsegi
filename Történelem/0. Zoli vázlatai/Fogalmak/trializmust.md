@@ -1,0 +1,1 @@
+politikai mozgalom a 19. század derekán azért, hogy a Habsburg Birodalmat kettős helyett hármas államalakulattá alakítsák át, melynek tagjai Ausztria, Magyarország, ill. a monarchia szláv népei lettek volna

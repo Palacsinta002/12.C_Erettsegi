@@ -1,0 +1,1 @@
+Az állami igazgatás szerveinek, hivatalainak, intézményeinek, valamint az itt dolgozó személyeknek összessége; államgépezet

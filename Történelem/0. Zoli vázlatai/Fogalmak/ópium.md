@@ -1,0 +1,1 @@
+Olyan eszme, tanítás vagy rendszer, amely az ember értelmét bódulatba, bűvöletbe ejti, illetve figyelmét a valóságról eltereli; szellemi kábítószer, mákony.

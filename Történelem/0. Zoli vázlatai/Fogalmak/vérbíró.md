@@ -1,0 +1,1 @@
+Vértörvényszéki bíró, ki az illető vádlottak élete vagy halála fölött ítél.

@@ -1,0 +1,95 @@
+- NSDAP (Náci Párt)
+- Nemzetszocialista Német Munkás Párt - 1922 program
+	- föld terület adózás
+	- zsidó nem néptárs
+	- államosítás
+	- érdek képviselés
+	- német közjog közvetítése
+	- szociális ígéretek
+	- Nagy-Németország
+	- antiszemitizmus
+	- demagóg ígéretek(túlzó ígéretek)
+	- Szakszervezetek megígérése --><-- a tőkések támogatása (szakszervezetek háttérbe szorulnak)
+- tőrdöfés elmélet
+		- zsidók a hibások
+- 1923: sörpuccs
+	- München
+	- Adolf Hitler börtönbe kerül
+		- megírja a Meinkampf-t (A harcom)
+			- a náci párt ideológiája
+- élettér-elmélet (Lebenslauf)
+- Cél: a Harmadik birodalom (erőszakkal)
+- fajelmélet-árják
+	- felsőbbrendű jog
+	- vannak kiirtandók
+	- fajak (zsidók, cigányság, fogyatékosok, buzik, ellenzék)
+- 20-as években kiépül a Pártapparátus
+	- SA - rohamosztag
+		- Ernst Röhm
+- propaganda eszközök felhasználása
+- propaganda: rádió, mozi, plakátok, tömeggyűlések
+- tömeglélek tan, jó szónoki képességek, ellenség kép kialakítása
+	- erre épít Hitler
+- gyerekek manipulálás
+- 1933 - Hitler hatalomra kerül
+- személyi kultusz kiépítése
+	- Führer a megnevezés
+	- jelkép a horogkereszt
+	- náci karlendítés
+- Hindenburg --> Német birodalmi elnök, államfő, köztársasági elnök
+- koalíciós kormányt hoz létre, és új választásokat ír ki
+- februárban leég a Reichstag (Birodalmi Tanácsszékhely)
+	- kommunista párt betiltása
+- koncentrációstábor létrehozása
+	- politikai ellenfeleknek
+- 1934-ben meghal Hindenburg(államfő, köztársasági elnök)
+	- Hitler lett a kancellár, kormányfő, párt főnök
+- szakszervezetek betiltása
+- felhatalmazási törvény
+- rendeletekkel irányít
+- SS
+- hosszú kések éjszakára 1934 június 29-30
+	- megölik az SA-t
+		- Gestapo és az SS
+- Nürnbergi törvények 1935
+	- a zsidók ellen
+	- megválasztják a német állampolgárságot
+	- hagyják el No.-t
+- kristály éjszaka 1938 november 9-10
+	- program --> valamilyen kisebbség elleni elkövetett erőszakos akció
+- 1939 Berlini olimpia
+- válság megoldás No.-ban
+	- infrastruktúra építése
+		- autópálya
+		- vonatsínek
+	- fegyverkezés
+- Nemzetközi kapcsolatok az 1930-as években
+- II. világháború előzményei
+	- No. kilép a népszövetségből
+	- bevezetik az általános hadkötelezettséget
+	- modern fejlett fegyverek gyártása
+	- felrúgja a Versailles-i békét
+- 1935
+	- Saar-vidék népszavazás
+		- Németországra szavaz (ide akar tartozni a terület)
+- 1936
+	- Rajna-vidék remilitarizálása
+- 1938 március
+	- Anschluss
+		- Bevonul No. Ausztriába
+	- Szudán-vidék megszerzése
+		- németek élnek ott
+		- sok ipar
+- 1938
+	- Müncheni konferencia
+	- Chamberlain(NBR) (Békepárti = Pacifista)
+	- Daladier(FRO)
+	- Hitler
+		- Szudéta-vidék No.-hoz csatolják
+	- Mussolini
+- 1939 március
+	- No. bevonul Prágába
+	- Cseh-Morva Protektorátus
+		- No.-hoz csatolják
+	- Szlovákiából bábállam
+- Lengyelország veszélybe kerül, de a britek és a franciák ígéreret tesznek a megvédésére

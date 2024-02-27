@@ -1,0 +1,78 @@
+## 1848-49-es szabadságharc
+- cél: hadsereg megszervezése
+	- 1848 június: népképviseleti választások
+		- összeül az országgyűlés
+		- Kossuth beszéde:
+			- 200.000 fős hadsereget kér + a fenntartásához pénzt az országgyűléstől ==> megadják neki
+- Kossuth-bankó
+	- az első magyar papír pénz
+- Az osztrákok a nemzetiségieket használják fel a magyarok ellen
+	- Délvidék - szerb felkelés
+	- szeptember 11.: [Josip Jelačić](https://en.wikipedia.org/wiki/Josip_Jela%C4%8Di%C4%87) (horvát) átkel a Dráván
+- Szeptember 29.: Pákozd
+	- magyar győzelem
+	- [Móga János](https://hu.wikipedia.org/wiki/M%C3%B3ga_J%C3%A1nos) a magyar csapatok fővezére
+	- Jelačić a csapataival nyugat felé hagyja el az országot
+	- a magyar sereg a határnál megáll
+- Október 6.: 2. Bécsi forradalom
+	- leverik
+- Október 30.: Schwechat
+	- magyar vereség
+	- [Windisch-Grätz](https://hu.wikipedia.org/wiki/Alfred_Candidus_Ferdinand_zu_Windisch-Gr%C3%A4tz) az osztrák főparancsnok
+- A magyar kormány lemond
+	- --> Országos Honvédelmi Bizottmány ==> feladata védelem megszervezése 
+	- elnök: Kossuth Lajos
+- Erdélyben Bem József vezeti a magyar sereget
+	- 49 márciusára Erdély felszabadul
+- 1848 December
+	- lemondtatják V. Ferdinándot
+	- Ferenc József az uralkodó
+	- megindulnak a császári seregek, átlépik a határt
+	- Görgei Arthúr vezetésével a fel-Dunai hadsereg nem vállal csatát, hanem visszavonul
+		- képzetlen hadsereg
+		- nagy túlerő
+		- Konfliktus Kossuthal
+	- Perczel Mór: Mórnál harcolók vereséget szenvednek
+	- Debrecenbe költözik a kormányzat
+- 1849 január - Váci kiáltvány (Görgei)
+	- cél: a tisztek lelkiismeretének válságának megoldása
+	- hangsúlyozza a harc törvényes jellegét
+	- a hadsereg szakszerű irányítását követelik
+#### Felvidéki hadjárat
+- cél: a császári főerőket elvonni Debrecen felől
+	- észak felé a felvidék irányába követik Görgei seregét
+- Branyiszkói-hágó (február 5.)
+	- [Guyon Richárd](https://hu.wikipedia.org/wiki/Guyon_Rich%C3%A1rd), dél felé tudnak átkelni
+- Kápolnánál egyesül a három magyar sereg test
+- Damjanics János, Klapka György
+- február 26-27 Kápolnai csata (vereség)		
+- Dembinszky Henrik fővezér
+- Windisch jelentés: eltúlozza a győzelem jelentőségét
+- olmützi alkotmány:
+	- Magyarország csak egy tartománya
+#### Tavaszi hadjárat
+- Tápióbicske, Hatvan, Komárom, Isaszeg, Vác
+- Május 4-21 Buda felszabadul
+- Függetlenségi nyilatkozat 1849 április 14.
+	- függetlenség kimondása
+	- Habsburgház trónfosztása
+	- Kossuth Lajos lesz a kormányzó
+- 1849 május 9. I. Miklós cár kiáltványa, a szövetség értelmében 200.000 fős sereg érkezik Magyarországra (orosz)
+- Paskievics - ruszki
+- Hajnau - császári
+#### 1849 július. Szeged: Nemzetiségi törvény:
+- szélesebb körű nyelv használat, de nincs területi autonómia
+- marad a magyar az államnyelv
+#### 1849 nyara
+- két lehetőség a magyarok előtt:
+	1. Nagysallónál, Komáromnál csapást mérni a császári seregre
+	2. Erők egyesítése Szegedtől Délre
+- Július 31. Segesvár: Erdélyi sereg veresége
+- Augusztus 9. Temesvár: magyar vereség
+	- Kossuth átadja a teljhatalmat Görgeinek
+	- Kossuth emigrál
+- Augusztus 13. Világos: Görgei lerakja a fegyvert az oroszok előtt ==> hogy amnesztiát kapjanak
+	- De végül csak Görgei-t hagyják meg, a többiek go 13 aradi vértanú
+- Október 2. Bevehetetlen erőd (Komárom), Klapka György
+	- Szabad elvonulásért cserébe átadja az osztrákoknak
+- Vidini levél: Kossuth Görgeit nevezi árulónak

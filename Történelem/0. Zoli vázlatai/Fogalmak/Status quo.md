@@ -1,0 +1,1 @@
+A dolgok jelenlegi állása
