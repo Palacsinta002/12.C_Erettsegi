@@ -4,5 +4,5 @@
 2. Nyiss egy cmd-t ott, ahova szeretnéd letölteni a mappát
 3. Írd be ezt: git clone https://github.com/Palacsinta002/12.C_Erettsegi.git
 4. Kész is van
-### A mappákon belül elég a Commit.bat és a Pull.bat parancsok használata. Commit a feltöltéshez, Pull a letöltéshez
+### A mappákon belül a Commit.bat-tal lehet feltölteni a módosításokat, a Pull.bat-tal pedig letölteni a változtatásokat
 ### Obsidian az elején kérni fog vault-ot, csak menj rá a megnyitásra, és nyisd meg a letöltött mappát
