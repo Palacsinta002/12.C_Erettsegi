@@ -1,0 +1,65 @@
+### Őszirózsás forradalom
+- polgári demokratikus forradalom
+	- 1918 október 30-31
+		- Tisza István meggyilkolják
+		- Károlyi Mihályt kinevezik miniszterelnöknek
+- IV. Károly november 4.-én lemond
+- november 16.-án kijelentik a Népköztársaságot
+### Károlyi Mihály kormányzása
+- Föld törvény
+	- 500 feletti birtokok felosztása a cél (5-20 holdra)
+	- ezt a parasztoknak kiosztani
+	- nem maradt idő a parcellázásra
+- Választójogi törvény
+	- általános, titkos, egyenlő, nőkre is kiterjed
+	- Károlyi köztársasági elnök lett (1919 január)
+	- a szerb, a román és a cseh hadsereg megszállja Magyarország egy részét
+- Vix-jegyzék
+	- Antanti utasítás a Tiszántúl kiürítése
+- Károlyi egy szociáldemokrata kormányt szeretne
+	- de ők egyesülnek a kommunistákkal és átveszik a hatalmat --> 1919 március 21, Tanácsköztársaság(Kommün, 133 nap)
+### Forradalomi Kormányzó Tanács (Tanácsköztársaság)
+- Népbiztosok a tagja
+- Külügyi népbiztos: Kun Béla
+- Egy párt rendszer jellemzi
+- önkormányzatok helyett --> tanácsok irányítják a településeket
+- megkezdődnek az államosítások
+	- barakkok, üzemek, gyárak, bányák állami kézbevétele
+- Kollektivizálás
+	- a magántulajdonban lévő földek állami gazdaságokhoz kerülnek
+- Terror
+	- Vörös Őrség - rendvédelem
+	- különítmények, terror csapatok
+		- Lenin fiúk --> Vörös Terror, Páncél vonat
+	- kb.: 500-1000 fő halt meg
+- Szociális intézkedések
+	- 8 órás munka idő
+	- munkabérek növelése
+		- nincs idő ezeket bevezetni
+	- egyházi iskolák államosítása
+	- egyház üldözés
+- Vörös Hadsereg (200.000 fő)
+	- felvidék egy részét visszafoglalják
+	- viszont a románok Tiszáig nyomulnak előre
+- Antant távirat érkezik
+	- vissza kell vonulni az elfoglalt területekről
+	- románok átlépik a Tiszát
+- Augusztus 1. a Tanácsköztársaság bukása
+### Ellenforradalom
+- Szegeden egy ellen kormány jön létre
+- Hadügy minisztere volt Horty Miklós --> ő kiválik ebből a kormányból és székhelyét Dunántúlra teszi
+	- mögötte áll a nemzeti hadsereg (30.000 fő)
+- a románok kivonulása után (Tiszántúlról is) Horty-ék bevonulnak Budapestre 1919 november 16.-án
+#### Kormányzó jogköre
+- 60 napon belül kell szentesíteni
+- nem napolhatja el a nemzetgyűlést
+	- kihirdeti a törvényt
+	- visszaküldheti a törvényt
+- hadüzenet, hadsereg határon túlra vezérlése, viszont ehhez már nemzetgyűlés engedélye kell
+- nemességet nem adományozhat
+- felelősségre lehet vonni
+- főhegyúri joga nincsen
+#### Fehér terror
+- jobb oldali különítményes csapat
+- kommunisták ellen követtek bűncselekményeket
+- Prónay Pál volt a vezér alak
