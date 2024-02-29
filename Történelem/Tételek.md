@@ -7,7 +7,7 @@
 7. A Kádár-korszak mindennapjai - (12. TK: 57-70. o.) - [Zanza1](https://youtu.be/UO6fEIlyqZM) [Zanza2](https://youtu.be/1Jc09o67XGM) [M5](https://youtu.be/6z944ILwh4Y)
 8. [A reformkor -> Széchenyi](https://www.nkp.hu/tankonyv/tortenelem_10_nat2020/lecke_06_019) - (10. TK: 147-149; 154. o.) - [Zanza](https://youtu.be/LunaNmx7SpY)
 9. [Társadalmi változások a dualizmus korában](https://www.nkp.hu/tankonyv/tortenelem_11_nat2020/lecke_02_005) - (11. TK: 55-58. o.) - [Zanza](https://youtu.be/tS7zBxsulYw) [M5](https://www.youtube.com/watch?v=1Eoq1MAy6OA&t=512s&ab_channel=M5)
-10. A trianoni békediktátum ***következményei*** - (11. TK: 140-148; 189-190.  o.) - [Zanza](https://youtu.be/bGJWEaWW8Sk) [M5](https://www.youtube.com/watch?v=3y3OZXz1Yyg&ab_channel=M5)
+10. [A trianoni békediktátum ***következményei***](https://www.nkp.hu/tankonyv/tortenelem_11_nat2020/lecke_06_021) - (11. TK: 140-148; 189-190.  o.) - [Zanza](https://youtu.be/bGJWEaWW8Sk) [M5](https://www.youtube.com/watch?v=3y3OZXz1Yyg&ab_channel=M5)
 11. [A kiegyezés és a dualizmus](https://www.nkp.hu/tankonyv/tortenelem_11_nat2020/lecke_02_003) (kiegyezési törvény, monarchia működése) - (11. TK: 29-31. o.) - [Zanza](https://youtu.be/hsb2CijBBkw) [M5](https://www.youtube.com/watch?v=qhqaeGkzcmI&t=79s&ab_channel=M5)
 12. [Bethlen konszolidáció](https://www.nkp.hu/tankonyv/tortenelem_11_nat2020/lecke_06_020) - (11. TK: 183-188. o.) - [Zanza](https://youtu.be/u18_oh10Nhg)
 13. [Mária Terézia és II. József uralkodása](https://www.nkp.hu/tankonyv/tortenelem_10_nat2020/lecke_04_014) - (10. TK: 115-120. o.) - [Zanza](https://youtu.be/0nHhmYoQp9k) [M5](https://www.youtube.com/watch?v=uFRDXrFPKbI&t=103s&ab_channel=M5)
