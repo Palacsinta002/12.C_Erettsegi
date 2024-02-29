@@ -1,0 +1,82 @@
+## Horty-korszak (1920-44)
+- kormányzó --> államfő
+- Teleki Pál (1920-21)
+	- miniszterelnök
+	- Vörös Térkép elkészítése
+### Teleki Pál miniszterelnöksége
+1. Rend törvény
+	- Ez a különítmények felszámolását jelenti
+	- A jobb oldali (Fehérek) különítmények a hadseregbe olvasztása
+	- A bal oldali (Vörösek) különítmények, bírósági tárgyalás
+	- A Kommunista Párt betiltása
+2. Numerusclausus (zárt szám)
+	- A felső oktatásban, az országos arányszámnak megfelelően nyernek felvételt a nemzetiségiek
+		- Zsidók esetén 6%
+		- Antiszemita jellegű törvény
+		- Bevezetés oka: menekültek érkezése
+3. Föld törvény
+	- Nagyatádi Szabó István: törpebirtokokat osztanak a parasztás körében maximum 5 hold --> nem elég a megélhetéshez, nagybirtok rendszer érintetlen marad
+- 1921 március, IV. Károly megpróbál visszatérni, Király puccs
+	- tárgyal Horty-val Budapesten, de a visszatérése háborúhoz vezetne és elhagyja az országot
+- 1921 október, Második Király puccs
+	- Budaörsi csata, hadsereggel szálnak szembe IV. Károllyal --> sikertelen a puccs
+- 1921 november, Habsburg-ház trónfosztás
+## A Bethlen-Konszolidáció
+- a konszolidáció célja a helyreállítás, és az irányítás felügyelése
+- Bethlen István (1921-1931)
+	- arisztokrata, miniszterelnök, gróf, konzervatív politikus, keresztény vállaság, nemzeti politikus
+### Gazdasági konszolidáció
+- piac szerzés
+- munkahely teremtés
+- szerkezet váltás --> könnyűipar, életipar, textipar
+	- import kiváltó gazdaság politika 
+- infláció letörése
+- 1922 Magyarország belép a Népszövetségbe
+	- Népszövetségi kölcsön 250 millió aranykorona
+	- Magyar Nemzeti Bank megnyitása
+		- jegybank
+- 1927 pengő bevezetése
+- gépek vásárlása mezőgazdaság terén
+- zöldség, gyümölcs termesztés
+- vegyipar, műtrágya gyártás
+- közlekedési eszköz gyártás
+	- infrastruktúra
+	- Budapest - Hegyeshalom
+	- vasút hálózat
+- vízszabályozás
+- Csepeli kikötő kialakítása
+- turizmus
+### Politikai konszolidáció
+- Bethlen - Peyer paktum
+	- Keresztény Nemzeti Egyesülés Pártja
+	- Károlyi
+		- Szociáldemokrata Párt
+- gyűlések, felvonulások tilosak
+	- gyülekezési jog korlátozása
+- politikailag független szakszervezetek működhetnek
+- kommunisták és terroristák korlátozása
+- dolgok újra gondolása
+- Szocdem párt nem fogja szervezni a közalkalmazottak, postások, vasutasok, tüntetéseket nem szervezhetnek sztrájkot
+	- ezért bekerülnek a parlamentbe
+- Bethlen a párt társaival belép a Kis-Gazda pártba, így létre hozzák az Egységes Pártot
+- Új választó jogi törvény
+	- cenzust vezetnek be
+	- a falvakban és a kisebb városokban nyílt szavazást vezetnek be
+		- ez is segíti hogy a kormány párt hatalmon maradjon
+	- a felsőház visszaállítása
+		- a törvény javaslatokat vissza küldheti a képviselő háznak, így lassítva a folyamatot
+- Népjóléti intézkedések
+	- kiszélesítik a kötelező betegség és balesetbiztosítást
+		- a munkásság körében
+		- bevezetik az öregségi, rokkantsági, özvegy és árvasági biztosítást
+		- Korlátozott Parlamentáris Demokrácia
+			- nincs politikai váltó gazdaság (4 évente nincs)
+			- korlátozott ellenzéki működés
+			- társadalom nagy részének nincs szavazati joga és képviselete
+- Külpolitika:
+	- ki kell lépni az elszigeteltségből
+	- Népszövetség
+	- örök Olasz-Magyar, gazdasági kapcsolat
+	- Békés revíziót szeretne, de emiatt konfliktus a Kis-Antanttal
+- 1931 Bethlen bukása
+	- a gazdasági válság miatt
