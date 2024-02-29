@@ -1,0 +1,52 @@
+## Oktatás és kultúra a két világháború között
+- Klebelsberg Kuno (1922-31)
+	- kultusz miniszer (vallás ás közoktatás ügyi miniszer)
+- A költségvetés 10%-át költik oktatásra
+	- oka: a Békeszerződés miatt korlátozott a katonai hadsereget
+- A kultusz tárca az honvédelmi tárca
+	- szellemi honvédelem
+- munkásság, parasztság írni, olvasás bevezetése
+	- analfabetizmus csökkentése
+		- népiskola építés
+		- tanítói lakások
+- középfokú iskolák --> természettudományok, idegennyelv oktatása
+- külföldi felsőfokú iskolák létrehozása
+- Kolozsvári Egyetem --> Szegedre költöztetése
+- Pozsonyi Egyetem --> Pécsre költöztetése
+- kultur fölény --> a magyarság kulturális szintje emelésével lehet kiharcolni a vezető szerepet
+#### Neonacionalizmus
+- oktatással erősíteni a magyar nemzet tudatot
+- ideológiai nevelés
+	- revízió
+- testedzés --> Levente-mozgalom
+- könyvkiadás --> Herceg Ferenc
+#### Társadalom
+- torlódó társadalom (Dualizmus)
+	- hierarchia
+- társadalom mobilitás --> csekély
+	- kevés az esély a felemelkedéshez
+- "3 millió koldus országa"
+	- 3 millió paraszt
+- havi 200 pengő kereset
+- Gömbös Gyula (1932-36)
+	- jobbra tolódás (fasiszta)
+		- olaszországi minta , Mussolini a példakép
+- Győri program - 1938
+	- 1 milliárd pengő fordítás fegyverkezésre
+	- a Kis-Antant elismeri (hagyja az országot fegyverkezni, nem tesz ellene semmit)
+- Nyilaskereszt Párt - Szálasi Ferenc (1939)
+	- hungarista mozgalom
+		- nacionalizmus
+		- elutasítja a liberalizmust
+		- rend teremtés
+	- német orientáció
+	- Imrédy Béla (1938-39)
+	- I. Bécsi döntés 1938 november 2.
+		- előzménye a Müncheni konferencia (Németország és Olaszország)
+			- dönt a magyar igényekről
+			- Csehszlovákia kerül visszacsatolásra a felvidék déli részéről
+				- etnikai határ meghúzása történik
+	- 1. Zsidó törvény
+		- vallási alapon határozza meg hogy ki a zsidó
+		- egyes értelmiségi pályákon, 20%-ban határozza meg a zsidók arányát
+		- az egzisztenciájukat sodorják veszélybe a zsidókkal
