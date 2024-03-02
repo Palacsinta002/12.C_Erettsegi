@@ -4,7 +4,7 @@
 4. [Az uradalom és a mezőgazdasági technika](https://www.nkp.hu/tankonyv/tortenelem_9_nat2020/lecke_04_010) - (9. TK: 83-85. o.) - [Zanza](https://youtu.be/XKn3a8DbG9E)
 5. [IV. Béla és a tatárjárás](https://www.nkp.hu/tankonyv/tortenelem_9_nat2020/lecke_05_018) - (9. TK: 138-141. o.) - [Zanza](https://www.youtube.com/watch?v=TeYrQOwRNaE)
 6. [A középkori város](https://www.nkp.hu/tankonyv/tortenelem_9_nat2020/lecke_04_014) (pl.: céhek, kommunamozgalom) - (9. TK: 109-111. o.) [Zanza](https://youtu.be/FU7ZAAYV0SM) [M5](https://youtu.be/HFeZefQd9tc) [M5](https://youtu.be/XmS0LlvgJtQ)
-7. A Kádár-korszak mindennapjai - (12. TK: 57-70. o.) - [Zanza1](https://youtu.be/UO6fEIlyqZM) [Zanza2](https://youtu.be/1Jc09o67XGM) [M5](https://youtu.be/6z944ILwh4Y)
+7. [A Kádár-korszak mindennapjai](https://www.nkp.hu/tankonyv/tortenelem_12_nat2020/lecke_03_007) - (12. TK: 57-70. o.) - [Zanza1](https://youtu.be/UO6fEIlyqZM) [Zanza2](https://youtu.be/1Jc09o67XGM) [M5](https://youtu.be/6z944ILwh4Y)
 8. [A reformkor -> Széchenyi](https://www.nkp.hu/tankonyv/tortenelem_10_nat2020/lecke_06_019) - (10. TK: 147-149; 154. o.) - [Zanza](https://youtu.be/LunaNmx7SpY)
 9. [Társadalmi változások a dualizmus korában](https://www.nkp.hu/tankonyv/tortenelem_11_nat2020/lecke_02_005) - (11. TK: 55-58. o.) - [Zanza](https://youtu.be/tS7zBxsulYw) [M5](https://www.youtube.com/watch?v=1Eoq1MAy6OA&t=512s&ab_channel=M5)
 10. [A trianoni békediktátum ***következményei***](https://www.nkp.hu/tankonyv/tortenelem_11_nat2020/lecke_06_021) - (11. TK: 140-148; 189-190.  o.) - [Zanza](https://youtu.be/bGJWEaWW8Sk) [M5](https://www.youtube.com/watch?v=3y3OZXz1Yyg&ab_channel=M5)
@@ -17,7 +17,7 @@
 17. [A szabadságharc](https://www.nkp.hu/tankonyv/tortenelem_10_nat2020/lecke_07_021) -> 49-es események a bukásig - (10. TK: 178-184. o.) - [Zanza](https://youtu.be/w2bXuUi3F3c) [M5](https://www.youtube.com/watch?v=2Xym-OWNBF0&ab_channel=M5)
 18. [Az első világháború](https://www.nkp.hu/tankonyv/tortenelem_7_nat2020/lecke_03_005) (hátország, fegyverek, frontok, helyszínek, új jelenségek, világ változása) - (11. TK: 76-92. o. (nem mind)) - [Zanza1](https://youtu.be/kB4Xjgtb-yE) [Zanza2](https://youtu.be/dduoYgBBznY)
 19. [A második világháború előzményei](https://www.nkp.hu/tankonyv/tortenelem_11_nat2020/lecke_07_027) -> 1930-as események - (11. TK: 174-178. o.) - [Zanza](https://youtu.be/NrrGAKXI0WE)
-20. A hidegháború kezdete - (11. TK: 265-273. o.) - [Zanza](https://youtu.be/Nn5xrXqMjNU) [M5](https://www.youtube.com/watch?v=-B-2lE6wZtY&ab_channel=M5)
+20. [A hidegháború kezdete](https://www.nkp.hu/tankonyv/tortenelem_11_nat2020/lecke_08_030) - (11. TK: 265-273. o.) - [Zanza](https://youtu.be/Nn5xrXqMjNU) [M5](https://www.youtube.com/watch?v=-B-2lE6wZtY&ab_channel=M5)
 
 [Történelem 9.](https://www.tankonyvkatalogus.hu/pdf/OH-TOR09TB__teljes.pdf) 
 [Történelem 10. ](https://www.tankonyvkatalogus.hu/pdf/OH-TOR10TB__teljes.pdf) 
