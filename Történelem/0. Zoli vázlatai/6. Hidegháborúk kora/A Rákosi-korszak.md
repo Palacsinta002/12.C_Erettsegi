@@ -1,0 +1,131 @@
+## Rákos-korszak 1949-53/56
+- Magyar Függetlenségi Népfront létrehozása
+	- a pártok temetője
+	- később: Hazafias Népfront
+- proletár diktatúra létrejötte
+- civil szervezetek megsemmisítése
+- 1949 augusztus 20.: Új alkotmány elfogadása
+	- Magyarország: 2. Népköztársaság
+	- köztársasági intézmény --> helyett elnöki tanács
+	- önkormányzat --> helyett tanács rendszer
+	- nem biztosítja az alapvető emberi jogokat
+	- törvényhozó hatalom formája formálissá válik
+	- nem érvényesül a hatalom megosztás elve
+	- szovjet mintának követése
+	- kenyérünnepe
+### Egyház politika
+- Egyházak elleni támadás
+	- iskolák államosítása
+	- egyházak visszaszorítása, ideológiák elnyomása
+	- egyházakat együttműködésre kényszerítették
+		- ellenőrzik az egyházakat
+		- papok főpapok (Mindszenty József esztergomi érsek) börtönbüntetés
+	- felosztották a szervezetes rendeket
+	- felekezetek vezetői meghurcolták
+	- 1951-ben Állam- és Egyházi Ügy Hivatal létrehozása
+- Személyi kultusz
+	- Rákosi dicsőítésé
+	- kikell tenni a képeket épületekben
+	- nevének kimondásához felállni és tapsolni
+	- versek
+	- szobrok, festmények készülnek
+	- 60. születésnap nagy népünnep
+- Kultúr politika
+	- szocialista realizmus
+	- sematizmus
+		- valóság leegyszerűsítése, munkásság, parasztság ábrázolása
+	- propaganda agitációs eszköz
+		- filmben, plakátokon
+	- építkezés: funkcionalizmus
+- Terror
+	- Állam Védelmi Osztály (ÁVO)
+	- Belügyminiszter ÁVO --> ÁVH (hatóság)
+		- Péter Gábor
+		- Andrássy út 60. --> Székháza
+	- koncepciós per
+		- Rajk László --> kivégzik
+	- besúgóhálózat
+	- aki reakciós (népellenes) kivégezhetik
+	- Recsk
+		- kőbánya
+		- munkatáborok
+		- internálás és kitelepítés
+### Rákosi-korszak gazdasági politikája
+- életszínvonal romlik
+- államosítás
+	- bankok, bányák, vállalatok, üzemek államikézbe kerülése
+		- nagyoktól a legkisebbekig
+- tervgazdálkodás
+	- Első 3 éves 1947-49-ig
+	- első 5 éves 1950-54
+	- politikai célokhoz igazították a terveket
+	- irreálisan magas tervszámok (rossz minőség)
+	- termelés visszaesés, ==hiánygazdaság==
+	- hamisított adatok	
+- munkaversenyek, sztahanovizmus, élmunkás, brigádverseny
+		- munkaerő kizsákmányolása
+			- nem kapsz több pénzt
+		- kiváltságokkal jár --> irreális eredmények
+- nehézipar erőszakos fejlesztése
+	- cél: "A vas és acél ország"
+	- nyersanyaghiány, gyártókapacitás hiánya
+		- rossz minőség, alacsony hatékonyság
+	- indoklás: 3. világháborúra készülni
+- Az újiparváros: Sztálin város (most Dunaújváros)
+- Békekölcsön
+- Mezőgazdaság
+	- kollektivizálás (erőszakosan)
+		- Téeszesítés
+		- magánföldek államikézbe kerülnek
+		- kulák perek
+			- kulák lista
+			- ellehetetlenítik, zaklatják (magasabb adók, beszolgáltatás)
+		- tagosítás --> másik földet kapnak akiknek a földjét elveszik
+		- padlósöprés
+- Életszínvonal romlása
+	- élelmiszer hiány, éhezés
+	- gazdasági visszaesés
+		- ellátási nehézségek
+	- jegyrendszer
+	- gabona behozatal
+- Társadalom átalakítása
+	- parasztság, nők munkába állása
+		- nők egyenjogúságot kapnak
+		- munkaerő hiány pótlás
+	- traktoros lány propaganda plakát
+	- "kettős teherviselés"
+		- munka + gyerek
+	- csökken a reálbér
+		- nem éra pénzed annyit mint tavaly
+	- csökkennek az alapvető vásárlási cikkek
+	- mezőgazdaság helyett iparban dolgoznak
+	- vagyon helyett bérből élnek
+	- Jelmondat: "Aki nincs velünk az ellenünk"
+	- csasztuska: énekek, ismert dal átírása
+		- cél: agitáció (meggyőzés)
+	- kisdobos --> kék nyakkendő
+	- úttörő --> piros nyakkendő
+		- gyerekeknek mozgalmak
+	- sportok
+		- olimpia, focit támogatják
+- Sztálin halála után leváltják Rákosit (1953 március 6.)
+		- Nagy Imrére miniszterelnök
+		- nem teljesen váltják le, főtitkár marad
+### "Új-szakasz" - 1953-55 Nagy Imre
+- új változások
+	- több országgyűlés
+	- felesleges hadiipar erőszakos fejlesztését leállítja
+	- erőszakos téeszesítés leállítása
+	- törvénytelenség
+	- koncepciós perek felülvizsgálata
+	- béremelése
+	- közellátás javítása
+	- könnyűipar fejlesztése
+	- parasztság terhei csökkentése
+	- internálás megszüntetése (táborok)
+- 1955 menesztik Nagy Imrét
+- 1956 február: SZKP XX. kongresszusa
+	- nyarán leváltják véglegesen leváltják Rákosit
+	- helyette Gerő Ernő
+- 1956 október 6.
+	- Rajk László újratemetése

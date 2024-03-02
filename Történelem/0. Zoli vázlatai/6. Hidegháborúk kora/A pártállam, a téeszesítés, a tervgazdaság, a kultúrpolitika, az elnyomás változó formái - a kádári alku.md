@@ -1,0 +1,180 @@
+## Kádár-korszak (1956-1988/89)
+- Kádár János - november 4. Munkás-Paraszt Kormány
+	- MSZMP: főtitkár
+- disszidálás (emigrál)
+- megtorlás élére áll Kádár
+- pufajkások --> karhatalmi fegyveres erők
+- Munkás őrség --> félkatonák
+- Nagy Imrét perbe fogják és kivégzik 1958 június 16.
+- tilos beszélni a forradalomról (csak ellenforradalomként említették)
+- 1962 lekerül az ENSZ napirendi pontjáról a forradalom
+- 1963 amnesztia rendelet
+	- fogjok jelentős részét kiengedik
+- 1963-ig kemény diktatúra, 63 után puha diktatúra
+- politikai konszolidáció
+- nem épít ki személyi kultuszt
+- Jelmondat: "Aki nincs ellenük, az velünk van"
+- életszínvonal alku
+	- ígéret, növeljük az életszínvonalat viszont cserében a társadalom nem politizálhat
+- Gulyás kommunizmus
+	- mindenki számára elérhető alapvető ételek
+- Fridzsider szocializmus
+	- tartós fogyasztási cikk --> annak az elérhetősége
+- a legvidámabb barakk
+	- legélhetőbb a keleti blokk országihoz képest
+### Gazdaság
+- tervgazdálkodás
+- erőszakos iparosítás, nehézipar
+- mezőgazdaság kollektivizálása TSZ
+- háztáji gazdálkodás megjelenik
+- zöldség és gyümölcs termesztés
+- sertés, baromfi tenyésztés
+- piacra termelnek
+- + munka
+	- másodállás jellemző
+	- maszekolás, fusizás
+	- Második gazdaságban is dolgoznak
+- gmk: gazdasági munka közösség
+	- vállalaton belül többletmunka
+- vgmk: vállalati gazdasági munka közösség
+	- vállalaton belül többletmunka
+- teljes foglalkoztatottság
+	- nincs munkanélküliség
+	- megbüntették a KMK-kat
+		- kapun belüli munkanélküliség
+- 1968: Új gazdasági mechanizmus (reform program)
+	- a piacgazdaság elemeit vezették be a szocialista gazdasági rendszerbe
+	- központi tervezésen lazítanak
+	- nő a vállalati önállóság
+	- árrendszer reformja
+	- változtattak a termék árán
+		- rögzített árú termékek
+		- sávosan mozgó árak (van minimum és maximum)
+		- szabad árus termékek
+	- a cégek szabadon differenciálhatják a munkavállalók bérét
+	- fék a teljes foglalkozottság
+- 1972-ben leállítják a reformot
+- 1973: kőolaj árrobbanás
+	- nőnek az energiaárak
+	- nőnek a nyugatról (importált termékek ára)
+	- csere arány romlás
+	- az állam hiteleket vesz fel
+	- szerkezeti változásra kellett volna költeni
+		- De életszínvonalra költi
+	- adósság spirál --> Hitel válság
+- 1979: ár rendezés
+	- általános áremelés minden terméket
+- az emberek másodállást vállaltak
+	- így tettek többlet jövedelemre
+		- csak így tudják az életszínvonalat megtartani
+	- következményei
+		- alkoholizmus
+		- romlanak az egészségügyi mutatók
+			- szív és érrendszeri betegségek
+				- társadalmi devianciák
+		- mentális betegségek
+		- válások száma nő
+		- népesség fogyás (mai napig tart)
+		- nulla empátia
+		- elszegényedés
+### Mindennapi élet a Kádár-korszakban
+- Televíziózás:
+	- tömegízlést és szabadidőt befolyásoló tényező
+	- 80'-től színes TV-k
+- Külföldre utazás:
+	- 2 évente rokonlátogatás, egyéb célból 3 évente
+	- korlátozott volt
+	- piros útlevél: szocialista országok
+	- kék útlevél: nyugati országok
+	- engedélyhez kötötték az utazást
+	- bevásárló turizmus
+		- bevásárlási célból
+- Turizmus: (Balaton part)
+	- üdülők, kempingek, szakszervezeti- és vállalati üdülők
+	- telkek
+		- üdülésre kellett volna használni, de még ott is termesztettek
+		- (pl.: aki városi volt, panelben élt)
+- Művelődés:
+	- művelődésiházak
+	- mozi, színház, koncert
+	- olvasás, múzeumok
+	- sport
+	- gyűjtés(kártyanaptárak, gyufa címke)
+- Ünnepek:
+	- április 4.: Magyarország felszabadítása
+	- május 1.: majális
+	- november 7.: nagy októberi szocialista forradalom
+	- augusztus 20.: alkotmány ünnepe, kenyér ünnepe
+	- március 21.: Tanácsköztársaság kikiáltása
+- Lakásállomány:
+	- a "Kádár Kocka" világa
+	- az 1960-as évektől a kockaházak váltották a hagyományos háztípusok (kuláka)
+	- polgárias lakóbér használat, fürdőszoba, komfortfokozat nő
+	- cserépkályha, villanyos gáztűzhely, vezetékes víz
+	- Az urbanizáció - lakáshiány
+		- körülbelül fél millió panel házgyári technológiával készült lakást építettek
+	- lakótelep (szanálják az ott élőket)
+		- korszerűbb lakások
+			- komfortfokozat (víg, gáz, csatornázás)
+		- állami programok
+		- az 1960-as énektől nőtt a magánerős építkezések száma
+	- A "kivetkőzés"
+		- az 1960-as évektől megváltozott a vidéki öltözet
+- A közlekedés, infrastruktúra változása:
+	- motorizáció
+	- Volán - buszjáratok hálózata
+		- a falvak bekapcsolása a közösségi közlekedésbe
+	- autózás elterjedése: (keleti autók)
+		- új autó: több éves várakozás + előre fizetés (Wartburg, Zsiguli, Trabant, Skoda, Lada)
+	- kevés rossz állapotú autóút
+		- lassan nő az autók elterjedése
+	- autópályák kialakítása (M1, M7)
+	- Vasútvonalak államosítása
+		- olcsó
+		- komfort lassan javul
+		- ingázók sokat használják, zsúfoltság
+		- Malév (Magyar Légi Társaság)
+	- Budapesti metró, trolibusz, villamos hálózat
+	- telefon hálózat hiánya
+		- telefon igénylés - 5-10 év várakozás
+		- magánlakásokban alig volt telefon
+- A fogyasztás nő
+	- az önkiszolgáló ABC-hálózatok
+		- sok féle tartós élelmiszer + háztartási cikk
+		- gasztronómia változások: túlsúly probléma kezdete
+	- változatosabb étrend
+- a fogyasztás:
+	- általánossá vált a sör fogyasztás
+		- korábban: bor + tömény szeszes italok
+	- üdítőitalok:
+		- Bambi, Márka, Traubisoda
+		- Coca-Cola
+- Az átalakuló divat:
+	- az 1950-es években korlátozott kínálat + ideológiai elutasítás
+	- "rehabilitálták" a női divatot 1957-től
+		- változatos kínálatok
+		- rendezett megjelenés
+	- trapper farmer
+- 3T - TŰR-TILT-TÁMOGAT
+	- Aczél György
+	- művelődéshez kapcsolódik
+- Jóléti intézkedések:
+	- cél a születés elősegítése
+	- bevezetik a gyest és a családipótlékot
+	- munkaidő csökkent
+	- ingyenes orvosi ellátás mindenkinek (TB)
+	- oktatási rendszer fejlesztése
+	- MINDENT HITELBŐL
+### Külpolitika
+- A Mindszenty ügy
+- Szent Korona hazatérése
+	- 1978
+	- az emigráns magyarok ellenezték
+	- feltételek, pl.: Kádár nem vehetett részt az átadásán
+- az életszínvonal-emelés háttere hiányzott
+	- az eladósodás árán is fenntartották a növekedést
+	- a megjelenő infláció - árrendezés
+		- kötött árak feloldozása
+- foglalkozási szektor átalakul
+	- mezőgazdaságban dolgozóké csökken
+	- szolgáltatás nő
