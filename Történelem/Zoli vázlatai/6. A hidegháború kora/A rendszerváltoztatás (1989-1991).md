@@ -1,0 +1,84 @@
+## Rendszerváltás - Rendszerváltozás - Rendszerváltoztatás
+- Egypártrendszer --> Többpárt rendszerre váltás
+- magántulajdon
+- 80-as évek
+	- szamisztad: titkosan nyomtatják, cenzúrázatlan
+	- illegális ellenzéki csoportok jelennek meg
+- liberális ellenzék (urbárusok)
+	- polgári viszonyok kialakítása, alkoholizmus
+- népi-nemzeti írók (népiek)
+	- a paraszti világ felbomlásának jelenségei
+	- népesség fogyás
+	- határon túli magyarok helyzete
+- Monor, 1985: ellenzéki találkozó
+- 1986 március 15.
+	- Lánchídi csata
+- Bás-nagymarosi vízlépcső
+	- tiltakozás
+		- rendőri fellépés
+- romániai falu rombolás
+- 1989 január
+	- Pozsgay Imre Rádió beszéde
+	- megemlíti Nagy Imrét
+	- megkérdőjelezi az 56-ot
+		- népfelkelésnek nevezi
+- 1989 március 15
+	- ellenzék 12 pontja
+		- 56 követeléseire utal, de egyben 1848-as forradalomra
+		- Magyar TV-nél mondják a beszédet
+- Nagy Imre és mártír társai exhumálása (kihantolása) és újratemetése
+- MSZMP volt az egyetlen párt eddig
+- új pártok:
+	- MDF: Magyar Demokrata Fórum
+	- SZDSZ: Szabad Demokraták Szövetsége
+	- FIDESZ
+	- Kisgazdapárt
+	- MSZMP --> MSZP
+- miniszter tanács elnöke
+	- Grósz Károly (1987) --> főtitkári pozíció (1988)
+		- így leváltják Kádárt
+- vérbírók
+	- indok nélkül halálra ítélők
+- 1989 június 16.
+	- Nagy Imre újratemetése
+- Július 6.
+	- Bíróság kimondja, hogy felmentik a bűncselekményei alól
+	- aznap meghal Kádár
+- 1989 nyarán kezdődik
+	- Nemzeti kerekasztal tárgyalások
+		- tárgyalásos forradalom
+		- MSZP + az ellenzéki + civil szervezetek
+- Sarkalatos törvények alapelvei
+	- alkotmánymódosítás
+	- alkotmánybíróság felállítása --> Sólyom László elnök
+		- pártok működése
+		- választási törvény
+		- büntető törvénykönyv és büntető eljárási törvény
+	- parlamenti képviselők választása
+- 1989 október 23.
+	- A Magyar 3. Köztársaság kikiáltása
+		- Szűrös Mátyás
+		- Kossuth tér
+	- Német Miklós --> ideiglenes miniszterelnök
+	- "Négyigenes népszavazás"
+- 1990 országgyűlési választások, tavasz
+	- MDF nyer
+		- Antal József
+		- jobbközép koalíciós kormány: MDF-FKgP-KDNP
+	- köztársasági elnök az SZDSZ-es Göncz Árpád lett(paktum)
+	- az új alkotmány bíróság elnöke Sólyom László lett
+- 1991 nyarán végleg elhagyták az országot a szovjetek
+- 1991 július 1.-én megszűnt a Vársói Szerződés
+- taxis blokád
+	- 1990 október 25-28
+	- benzin ár emelkedés miatt
+- magyar címer kérdés
+	- Kossuth-címer
+		- koronával vagy anélkül
+- ügynök kérdés (1990)
+	- felelősségre vonás
+- igazságtétel kérdés
+	- bűncselekmények feltárása
+- 1990 ősze - szabad önkormányzat választások
+	- tanács rendszer vége
+	- nép válassza meg
