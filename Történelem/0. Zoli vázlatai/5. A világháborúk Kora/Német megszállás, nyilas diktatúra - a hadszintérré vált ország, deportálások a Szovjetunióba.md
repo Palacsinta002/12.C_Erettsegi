@@ -1,0 +1,51 @@
+- 1944 augusztus Román átállás a szovjetekhez
+	- ezáltal a szovjetek elérik Magyarországot a augusztus végén
+- Lakatos Géza: új miniszerelnök
+	- feladata: kiugrási kísérlet (a háborúból)
+- 1944 október 15.
+	- Horty Miklós beszéde a rádióban
+		- itt jelentette be a fegyverszünetet
+			- nem egyértelmű az utasítás
+				- Sikertelen
+	- fia meghal (István)
+		- repülő baleset
+	- családját elrabolják
+- A kormányzó lemond (Horty)
+	- kinevezik Szálasi Ferencet
+		- nemzetvezető lesz (állam és kormányfő)
+			- diktátori teljhatalom
+				- Nyilaskereszt hatalom átvétel
+					- szélső jobb
+					- nacionalista
+					- minta: náci ideológia
+					- rend betartása
+					- tekintély elviség
+					- nincs liberalizmus
+- totális mozgósítás
+	- magyar férfiakat küldenek a frontra
+	- gazdasági értelemben is kiszolgálják No.-t
+	- No. vissza vonulása során kirabolják Mo.-t
+- Nyilasok célja
+	- Budapest zsidóság kiirtása
+	- felállítják a gettókat
+	- Dunába lőnek embereket
+- 1945 január 18.
+	- a gettó felszabadítása
+		- szovjetek által
+- Harcok Magyarországon
+	- Debrecen-i tank csata 1944 október 9-20
+		- létre jön egy ideiglenes nemzetgyűlés
+- 1944 december 25
+	- bezárul az ostrom gyűrű Budapest körül
+- 1945 január 18.ig tart Pest-i ostrom
+- 1945 február 14 Buda-i ostrom
+	- sok civil áldozat
+	- Duna hidak felrobbantása
+- Tavaszi ébredés
+	- utolsó német offenzíva
+	- Székesfehérvár és a Zalai olajmezők védelmére
+- Április 4.
+	- Szovjet felszabadítás ünnepe
+- Szovjet hadsereg kegyetlenségek, megerőszakolók, rablások
+	- málenkij robot
+	- áldozat Magyarországon: kb. 500.000 zsidó, kb. 200.000 katona a fronton, kb. 50.000 civil áldozat, kb. 800.000-900.000 került fogságba --> kb. 400.000 halott

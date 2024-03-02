@@ -1,0 +1,119 @@
+## Magyarország a II. világháború időszakában
+- Teleki Pál a miniszerelnök (1939-41)
+	- szélső jobb oldaliak megakadályozása/visszaszorítása
+	- revízió --> Trianon újragondolása
+	- fegyveres semlegesség politikát folytat
+- Németország megtámadja Lengyelországot
+	- háború kitörésekor lengyel menekültek fogadása
+	- nem engedik át a német csapatokat Magyarországon keresztül
+- 1939 március 
+	- Kárpátaljai-i bevonulás (Magyarország) --> a lakosság 9%-a magyar (nem etnikai határ)
+- 2. Zsidó törvény (1939)
+	- faji alapon határozza meg ki a zsidó (tehát felmenőket figyelembe veszik)
+	- elbocsájtják a zsidókat a közigazgatásból, oktatásból
+	- 6%-os arányban nyerhetnek felvételt egyetemre
+	- értelmiségi pályákban is 6% (pl.: orvosok, újságírók)
+	- iparban és a kereskedelemben szintén 6%
+- 1940 augusztus 30. II. Bécsi döntés
+	- Észak-Erdély és Székelyföld Magyarországhoz csatolása történik meg
+		- bevonul a magyar honvédség
+		- lakosság fele
+- 1940 december
+	- Magyarország + Jugoszlávia örökbarátsági szerződés
+		- "Az ablak nyugat felé" - Jugoszlávia
+- 1941 tavasza
+	- Német hadsereg áthaladást kér Jugoszláviába és magyar katonai segítséget, cserébe területeket ígér
+- 1941 április 3.
+	- Teleki öngyilkos lesz
+- új miniszterelnök: Bárdossy László --> április 11.
+	- áthaladást ad a németeknek és átlépik a határt
+		- Bácska, Baranyaiháromszög, Muraköz, Muravidék kerül visszacsatolásra
+			- Muraköz lakossága 36%-a magyar
+		- Angolok megszakították a diplomáciai kapcsolatot
+		- 1941 július 22. Barbarossa hadművelet
+- Werth Henrik (1941 június 14.)
+	- németekkel megállapodni, együttműködni
+	- szerinte a németekkel fogjuk a háborút megnyerni
+	- az oroszok ellen is nyerni fogunk
+	- magyaroknak kb. semmi dolga lesz
+	- keresztény > bolsevizmus
+	- revíziós döntések (II. Bécsi döntés)
+	- Henrik agymosott, fanatikus a nácik felé
+		- vezérkari főnök
+	- német gyors győzelemben hisz
+	- vörös hadsereg gyenge
+	- a revízió és a kommunista veszélyek miatt kell belépni a háborúba
+- románia belép a háborúba
+- 1941 június 26. Kassa bombázása
+	- ismeretlen felségjelzésű gépek bombázták
+		- ürügy a háború belépéséhez
+- 1941 június 27.
+	- Bárdossy bejelenti a hadiállapotot a Szovjetunió ellen
+- Versenyfutás a németek kegyeiért
+- III. Zsidó törvény (1941 augusztus)
+	- fajvédelmi törvény
+	- faji alapon határozza meg ki a zsidó
+	- tiltja a házasságot a zsidó nem zsidó között
+- 2. magyar hadsereg felállítása
+	- munkaszolgálat - zsidó férfiak
+		- nincs megfelelő felszereltség
+		- keretlegények örzik fegyverrel őket
+		- aknákat szedettnek fel velük, árkokat ásnak
+- Bárdossy-t leváltják (kivégzik)
+	- Kállay Miklós lesz a miniszerelnök (1942 március)
+		- hinta politikát folytat (kettős politika)
+		- 2. magyar hadsereg keleti-frontra küldés (1932 nyarán)
+- Don kanyar
+	- 200 km széles szakaszt kell védeni
+	- Voronyezs a helyszín
+	- hídfőállás (védőipontok)
+	- télig maradnak, hosszú utánpótlási idő, utak
+	- nem megfelelő felszerelés
+	- nincs elég élelem
+	- szinte megoldhatatlan higiénia
+- Sztálingrád
+	- szovjet győzelem a hadművelet Don-nál
+	- 1943 január 12. szovjetek Don-hoz érnek
+		- kb. 2 hét alatt nyernek a szovjetek
+	- németek, olaszok, magyarok visszavonulás
+	- visszavonulás során sokan meghalnak, hadifogságba kerülnek
+		- 200.000 emberből 60.000 ember éli túl
+- 1944 március 19.
+		- Magyarország német megszállása
+			- mert kiakartak lépni a háborúból a magyarok
+- 1944 október 15.
+	- Horty Miklós beszéde a rádióban
+		- itt jelentette be a fegyverszünetet
+			- nem egyértelmű az utasítás
+				- Sikertelen
+	- Horty Németországban tartózkodik a megszálláskor
+		- kormányzó marad
+	- a magyar hadsereg nem szál szembe a németekkel
+	- szövetséges bombázások történnek ekkor
+	- tisztek jelentős része német barát marad
+	- Kállay-t leváltják
+		- új miniszerelnök: Sztójay Döme
+	- fia meghal (István)
+		- repülő baleset
+	- családját elrabolják
+- A kormányzó lemond (Horty)
+	- kinevezik Szálasi Ferencet
+		- nemzetvezető lesz (állam és kormányfő)
+			- diktátori teljhatalom
+				- Nyilaskereszt hatalom átvétel
+					- szélső jobb
+					- nacionalista
+					- minta: náci ideológia
+					- rend betartása
+					- tekintély elviség
+					- nincs liberalizmus
+- totális mozgósítás
+	- magyar férfiakat küldenek a frontra
+	- gazdasági értelemben is kiszolgálják No.-t
+	- No. vissza vonulása során kirabolják Mo.-t
+- Nyilasok célja
+	- Budapest zsidóság kiirtása
+	- felállítják a gettókat
+	- Dunába lőnek embereket
+- Szombathelyi Ferenc
+	- német ellenes magatartás
