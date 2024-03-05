@@ -4,15 +4,16 @@
 	- felesége Sarolt --> így megszerezte az ország keleti rész támogatását
 - 973-ban kiküldte követeit a német-római császárhoz I. Ottóhoz Quedlingburg-ba
 - fia Vajk, Szent István
-	- sikerült feleségül venni Gizella bajor hercegnőt
+	- feleségül veszi Gizellát, bajor hercegnőt
 		- így házasságuk után rokonságba kerültek a Szász-dinasztiával
 			- erősítették a lovagok a magyar haderőt
 ### A királyi hatalom megszerzése
+
 - Géza halála után az Árpádok kezében volt az ország nagy része
 	- viszont Koppány hatalmi igényekkel lépett fel Szent Istvánnal szemben --> aki akart az uralkodó lenni
 		- István megváltoztatja az öröklési rendet és 997-ben legyőzte Koppányt, így hatalma megszilárdult
 - I. Szent István (997/1000-1038)
-- István új állam formán gondolkozott
+- István új állam formán dolgozott
 	- több tekintélyt nyerne az ország
 	- frank-német koronázó várost választotta, Székesfehérvárat
 		- 997-1000 között felépítette a Szűz Mária-bazilikát
@@ -21,7 +22,7 @@
 - István megteremtette a területi alapú közigazgatást, bevezette a törvények írásába foglalását
 ### A királyi vármegyerendszer
 
-- földek jelentősége királyi birtok lett (kb.: 2/3-a)
+- földek jelentős része királyi birtok lett (kb.: 2/3-a)
 - vármegyék létrehozása
 	- A király területi alapon nyugvó közigazgatási egységeket hozott létre
 	- először a térség közepén majd később a peremvidékeken is
