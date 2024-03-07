@@ -6,7 +6,7 @@
 1. Telepítsd a [Git](https://git-scm.com/download/win)et
 2. Nyiss egy cmd-t ott, ahova szeretnéd letölteni a mappát
 > [!TIP]
-> Windowson írd be a fájlkezelő path címsorába hogy "cmd"
+> Windowson írd be a fájlkezelő path címsorába hogy "cmd", így a megnyitott mappába nyitja meg a cmdt
 3. Írd be ezt: `git clone https://github.com/Palacsinta002/12.C_Erettsegi.git`
 4. Kész is van
 ## Method 2
