@@ -1,0 +1,109 @@
+
+## Nyomatott sajtó
+
+- a következő táblázat azt foglalja össze, hogy mi alapján szokták kategóriákba sorolni az nyomtatott sajtó kiadványait
+
+|Szempont|Kategóriák|
+|---|---|
+|megjelenés helye|országos, határon túli, helyi, regionális, intézményi|
+|formája|írott, elektronikusa|
+|tartalma|politikai-közéleti, szórakoztató, vegyes|
+|nyelve|egynyelvű, kétnyelvű, többnyelvű|
+|célzott közönség|életkor, szakmai, művészeti, műsorlapok|
+|típus|tájékoztató (információs), véleményközlő (publicisztikai)|
+- jellemzői:
+	- időszerűség (nap, havi, heti, időszaki kiadványok)
+	- közérdekűség
+	- rendszeresen megjelenő
+- 4 nagyobb típus, melyeknél a tartalmi és formai tulajdonságaik határozzák meg:
+	- közéleti/politika (pl. HVG)
+	- bulvárlap: hírek, pletykák a sztárvilágból, nincsenek komolyabb elemzések (pl.: Best)
+	- magazin: színes, képes, változatos tartalom (Nők Lapja, Múlt-kor, Mondo)
+	- folyóirat: tudományos, művészeti, gazdasági stb. (Valóság)
+
+## Műfajok
+- tájékoztató
+	- hír: időszerű (aktuális), közérdekű eseménnyel kapcsolatos rövid, tárgyilagos tényközlés
+		- legfontosabb kérdései: mikor, hol, ki, mit, hogyan, miért
+		- a tényhír foglalkozik a mikor, hol, ki, mit kérdésekkel
+		- a kifejtett hír pedig mind a hattal 
+	- tudósítás: az újságíró helyszínről, saját élményei alapján számol be 
+		- nem lehet túl személyes
+		- nem értelmezheti az eseményeket
+		- követelményei: tárgyszerűség, pontosság
+- véleményközlő (érvényesülhet a saját vélemény megnyilatkozása)
+	- publicisztikai
+		- cikk
+			- témaválasztása sokféle
+			- tájékoztatás és elemzés egyszerre
+			- ábrákkal, illusztrációkkal, fényképekkel ellátott
+		- kommentár. egy aktuális hír hátterének ismertetése, magyarázata
+		- jegyzet: személyes hangvételű írásmű, tömör, kötetlen téma 
+		- glossza: politikai, közéleti, kulturális visszásság, hiba leleplezése
+	- kritikai: szellemi alkotást mutatnak be, értékelnek
+		- recenzió: tájékoztató, figyelemfelhívó, kismértékben nyilvánít véleményt
+		- bírálat: sokoldalú elemzés és értékelés
+- átmeneti: a tájékoztatás igénye + véleményközlés érvényesülése
+	- riport: egyéni nézőpontból megírt, életből merített beszámoló, az újságíró által fontosnak ítélt eseménysor leírása, ok-okozati összefüggések feltárása
+	- interjú: párbeszéd, a feltett kérdésekre (rövid, pontos, lényegre tapintó) válaszoló fél kifejti véleményét
+
+## Rádió
+### Közszolgálati adók (MR1, Kossuth Rádió)
+- lehetnek tematikusak
+	- hírműsorok 
+	- politikai, gazdasági, közéleti, szociálpolitikai
+	- kisebbségi, vallási
+	- tudományos, ismeretterjesztő
+	- művészeti-irodalmi
+	- szórakoztató
+	- sportműsorok
+- legelterjedtebb rádiós műsorok:
+	- krónika: jellegzetes rádiós hírműsor (rövid interjú, tudósítások, hírmagyarázatok)    
+	- dokumentum: stúdió-beszélgetések    
+	- magazinműsorok: zenei betétekkel tarkított stúdió-beszélgetések
+
+### Kereskedelmi rádiók
+- szórakoztató funkciót látnak el elsősorban
+- rövid hírblokkot tartalmazhat
+- zeneközpontú
+
+## Televízió
+- a nyomtatott sajtó műfajaiból alakultak ki a tévés műfajok
+
+### Információs
+- tényszerű, kiegyensúlyozott, hiteles, világos, tömör megfogalmazás jellemzi
+- műfajok:
+	- híradó
+		- apró történetek
+		- figyelemfelkeltő felütés (lead)
+		- időrendben közli az eseményeket
+		- okokat és hatásokat vizsgál
+		- fényképek, filmes bejátszások
+		- néhány mondatos interjúblokk (az egész beszélgetést a tömörsége miatt nem közli)
+	- háttérműsor: a hírekben szereplő események okait tárja fel és értelmezi részletesen
+	- stúdió-beszélgetések
+	- riportműsorok
+
+### Sportműsorok
+- sportesemények kommentálása
+- élő közvetítések
+- szünetben stúdió-beszélgetések, összegzések
+
+### Filmműsorok
+- filmek és sorozatok közvetítése (vannak olyan filmek, melyeket csak a televízióban adnak le, moziban nem)
+
+### Szórakoztató műsorok
+- vetélkedő
+- show-műsorok
+- tehetségkutatók
+
+## **Internet**
+- a felhasználó nemcsak befogadó, hanem feladó 
+- a kétirányúság leggyakoribb előfordulása (interakció kommentárok, megosztások által)
+- nehézsége: hitelesség, a jogi ellenőrzés kérdései 🡪 konkrétan ellenőrizhetetlen
+- átfogó médium: képes a nyomtatott sajtót, rádiót, televíziós tartalmakat megjeleníteni
+- Miben más akkor? 
+	- néhány sajátos műfaj vagy felület, melyek nem fordulhatnak elő a többi médiumnál:
+		- blogok
+		- közösségi odalak
+		- videómegosztók
