@@ -19,3 +19,6 @@
 
 > [!IMPORTANT]
 > Obsidian az elején kérni fog vault-ot, csak menj rá a megnyitásra, és nyisd meg a letöltött mappát
+
+> [!TIP]
+> Letöltheted a [GitHub Desktop](https://desktop.github.com/)ot hogy gombnyomásra tudj pusholni és pullolni
