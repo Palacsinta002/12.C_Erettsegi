@@ -1,0 +1,142 @@
+## A kétpólusú világ
+- Enyhülés: 1963, Szovjet-USA közötti konfliktus továbbra is fenn áll
+- Brezsnyev (főtitkár, miatt enyhülés, pangás)
+- SALT-1: meghatározták a rakéták maximum mennyiségét, fegyverkezési verseny megállítása (1972)
+- Helsinki konferencia: megtárgyalták egymás közötti  viszonyokat, jogokat, diplomáciai egyezmény volt (1975)
+- II. Vatikáni zsinat: az egyház megújítása, anyanyelvi igehirdetés
+- VI. Pál Pápa, jótékonykodás
+- prágai tavasz: Csehszlovákia - 1968
+	- reformokat akartak bevezetni
+	- 1969 augusztusában bevonul a Varsói Szerződés hogy megállítsa a reformokat
+	- Brezsnyev-doktrína
+		- a kommunista országok szuverenitása csak addig tart, amíg nem sérti a keleti blokk érdekeit
+- baby boom 2. világháború után
+- 60-as években ~20 évesek
+	- fogyasztói társadalomban élnek
+		- lázadnak ellene
+- 1968 diák lázadások Párizsban
+	- jóléti államok
+- hippi mozgalmak (főként Amerika)
+- Jóléti állam jellemzői:
+	- GDP növekedés
+	- több ember tudott a középosztályba kerülni
+	- életszínvonal nő
+	- többlet fogyasztás
+	- bérek nőnek
+	- tovább tanulás
+	- jogi egyenlőség nők és férfiak közt
+	- munkanélküli-segély, nyugdíj, egészség védelem
+	- tartós fogyasztási eszközök
+		- az utóbbi kettő, általánossá válik
+- Polgár jogi mozgalom az USA-ban
+	- 1963 Kennedy meggyilkolása
+	- eltörli a faji megkülönböztetést
+	- feketék szavazati jogáról rendelkezik
+	- szegregáció déli álamokban
+		- szórakozó helyek
+		- iskolában
+- Tito - Jugoszlávia
+	- önálló, külön utas politika
+	- szembeszáll a Szovjetunióval
+- Dél-Afrikai Köztársaság
+	- Nelson Mandela
+		- faj cucc (ide nem tudom mit írtunk a füzetbe)
+- Új pártok
+	- zöld pártok
+- Zene
+	- rock
+	- Elvis Presley
+	- The Beatles
+- Sport
+	- Beleszól a politika
+	- 1980 Moszkva, nem vettek részt a nyugati országok az olimpián
+	- 1980 Los Angeles, keleti blokk országai nem vettek részt
+	- 1972 Müncheni olimpia
+		- terror támadás, Izrael küldöttség
+		- sok sportoló meghalt
+- Kőolaj árrobbanás
+	- 1973-1979
+	- Nyugat-Európa és USA alkalmazkodik
+		- új iparágak megjelnnek
+			- számítás technika
+			- kommunikációs eszközök gyártása
+			- energia hatékonyság
+	- a keleti blokk nem tud alkalmazkodni
+		- romlik a cserearány, elmarad a szerkezet váltás, romlik az életszínvonal
+	- OPEC országok
+		- kőolaj termelő országok
+### A kis hidegháború (1979-1989)
+- 1979 - Szovjetunió megtámadta Afganisztánt
+- A szovjet blokk összeomlásának gazdaságon és külpolitikán túli tényezők: belső erjedés
+- Szolidaritás szakszervezet 1980 Cech Walesa
+	- Gdansk
+		- hajógyár munkások sztrájkja
+			- országos sztrájk lett belőle
+		- az állampárt elismerte a Szolidaritás szakszervezetnek
+		- leverik a mozgalmat, majd betilttatja
+- A szovjet pártvezetés kísérletei
+	- Mihail Gorbacsov
+		- reformok meghirdetése
+			- Peresztrojka és Glasznoszty
+- reformprogram
+	- peresztrojka (átépítés, átalakítás)
+		- tervgazdálkodás oldása: önállóság az állami vállalatoknak
+		- hatékonyság és versenyképesség javítása a cél
+	- glasznoszty (nyitottság, nyilvánosság)
+		- a média szabadabbá vált
+		- hátulütő: felszínre kerültek a problémák
+- Csernobil
+	- 1986
+	- Atomerőmű baleset
+	- A szovjet hatóságok tiltották a baleset felszínre hozását
+		- így máris megbukott a glasznoszty reform
+- Gorbacsov és Reagan
+	- csúcstalálkozókon egyeztettek: Moszkva engedni kényszerült
+		- 1987. decemberi egyezmény: közép-hatóságú nukleáris fegyverek megsemmisítése
+	- George Bush folytatja a kapcsolatot
+- A békés átmenet - 1989
+	- Lengyelország
+		- megállapodás
+		- Szolidaritás: megerősödött
+		- szabad választójog
+	- "bársonyos forradalom" - Csehszlovákia
+		- tömegtüntetés 1989. novemberében
+		- Václav Havel választották köztársasági elnökké
+		- 1993 január 1.
+			- csehek és szlovákok
+- románia (nem békés)
+	- fegyveres felkelés
+	- elzárkózás, életkörülmények elképesztő romlása
+	- alapvető létfeltételek nincsenek biztosítva
+	- Ceausescu és feleségét kivégzik
+- A leszerelés
+	- csapatok kivonulások
+		- Brezsnyev-doktrína feladása: önrendelkezés lehetősége
+### A német egység
+- kelet német turisták és a vasfüggöny
+	- Magyarországról Ausztriába akartak jutni, 1989 nyarán
+	- a magyar kormány megnyitotta a határokat
+- Az NDK vezetése megrendült
+- Páneurópai piknik
+	- kinyitották a kaput egy napra
+- Magyarországon keresztül menekülnek a németek
+- 1989 november
+	- a berlini fal lebontása
+	- újraegyesítés
+- 1990 október
+	- az NSZK beolvasztotta az NDK tartományt
+- 1991 december 7.
+	- Szovjetunió megszűnése
+- A Független Államok Közössége (FÁK) - a balti államok nem csatlakoznak
+	- lazább, katonai és politikai szövetség
+- A Varsói Szerződés és a KGST
+	- 1991-ben felosztották
+- új célok: EU-hoz, NATO-hoz való csatlakozás
+- A nyugati világ reakciója
+	- stabilitás fenntartása
+	- Az USA vált az egyetlen szuperhatalommá
+- Kína
+	- látványosan bővülő gazdaság
+	- diák megmozdulások, 1989
+		- tüntetés a tienanmeni téren
+			- katonai beavatkozás
