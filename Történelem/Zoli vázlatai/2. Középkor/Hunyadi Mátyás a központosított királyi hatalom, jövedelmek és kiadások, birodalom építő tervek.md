@@ -1,6 +1,6 @@
 ### A központosított királyi hatalom
 - A Hunyadi-párt köznemesei támogatásával (a Rákos mezei országgyűlésen) Hunyadi Mátyás került trónra (1458-1490)
-- felesége (Podjebrád György lánya) Katalin
+- felesége Katalin (Podjebrád György lánya)
 - Szent korona III. Frigyesnél volt ekkor
 	- 15 éves korában szembeszállt Erdéllyel
 	- a köznemességre támaszkodva fellépett a régi bárói elittel szembe
@@ -12,7 +12,7 @@
 - Mátyás bárói rétegre támaszkodott
 ## Mátyás gazdaságpolitikája
 - Új adórendszer
-	- ==füstpénz==: a kapuadó újragondolása, ha egy jobbágyporta mögött többen laktak, akkor arányosan többet fizettek, azaz házanként adóztak
+	- ==füstpénz==: a kapuadó újragondolása, ha egy jobbágyportán többen laktak, akkor arányosan többet fizettek, azaz házanként adóztak
 	- ==koronavám==: harmincadvám helyett, így a harmincadvámra szerzett mentesség érvényét veszítette
 	- ==rendkívüli hadiadó==: (háborús költségek), évi egy aranyforinttal növelte meg a jobbágyi terheket
 	- sójövedék
