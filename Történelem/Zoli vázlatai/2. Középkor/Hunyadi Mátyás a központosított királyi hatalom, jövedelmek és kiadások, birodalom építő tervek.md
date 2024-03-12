@@ -20,7 +20,7 @@
 	- erdélyi szászok és szabad királyi városok adója
 	- pénzverő- és bányakamarák haszna
 		- A királyi jövedelmek megháromszorozódtak
-- Viszont ezek az adók még így sem voltak, hogy az Oszmán birodalommal szembe lehessen szállni
+- Viszont ezek az adók még így sem voltak elegek, hogy az Oszmán birodalommal szembe lehessen szállni
 	- hadikiadások
 	- várrendszer fenntartásának költsége
 	- fekete sereg fenntartásának költsége
