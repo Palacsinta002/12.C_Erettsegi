@@ -1,0 +1,21 @@
+## Az Aranybulla
+- II. András uralkodik ekkor (1205-1235)
+	- birtokadományozások
+	- új berendezkedés politika
+		- pénzjövedelmek növelése, bevételi források és a bérleti rendszer kiterjesztése
+- nagybirtokos réteg megerősödik
+	- jelentős befolyás az ország irányításában
+- szerviensek (királyi szolgáló)
+	- a bárói hatalmak megrendítették a szervienseket
+- királyi birtokok magánföldesúri kézbe kerültek --> több birtok volt a bárók kezében mint a királyéban
+	- a gazdaság nem volt elég fejlett ahhoz, hogy a kiadások a regáléjövedelmek fedezzék
+- a király sikertelen hadjárataival jelentős adósságot halmozott fel
+- 1222-ben adják ki az Aranybulla egyezményt
+	- 3 csoportra sorolhatóak a rendelkezések
+		- biztosították a szerviensek érdekeit (adómentesség, személyi szabadság, hadviselés szabályozása, szabad végrendelkezés)
+			- később ezek a köznemesség jogai lettek
+		- kedveztek a báróknak
+			- külföldiek háttérbe szorítása, birtokadományozás leállítása
+		- új berendezkedés politika beszüntetése
+			- bérleti rendszer felszámolása, pénzrontás tilalma
+	- Az Aranybulla **ellenállási záradékot** is tartalmazott, amely feljogosította az egyházi és világi főurakat a királlyal szembeni fellépésre, ha az uralkodó nem tartaná be az ígéreteit.
