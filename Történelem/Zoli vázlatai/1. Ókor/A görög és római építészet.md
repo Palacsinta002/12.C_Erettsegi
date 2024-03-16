@@ -1,0 +1,32 @@
+## Görög építészet
+- Három fő korszak: archaikus, klasszikus, hellenisztikus.
+- A klasszikus stílus a leghíresebb, a hellenisztikus a legbefolyásosabb.
+- Legfontosabb épület a templom:
+    - Lépcsőzetes alapzat
+    - Domborműves oromzat (tümpanon)
+    - Domborműves szalag (fríz)
+    - Oszlopsor a cella körül
+- Oszloprendek:
+    - Dór: zömök, lábazat nélküli
+    - Ión: karcsúbb, lábazaton álló, csigavonallal díszített
+    - Korinthoszi: díszes, akantuszlevelekkel
+- Híres épületegyüttesek:
+    - Athéni Akropolisz: Parthenón, Erekhtheion
+    - Olümpia: Zeusz temploma
+## Színház
+- Görög eredetű
+- A dráma és a színjátszás Athénban alakult ki
+- Dionüszosz-színház mintája
+- Lépcsőzetes nézőtér, színpad, oszlopsor
+- A polisz lakossága befért
+- Erkölcsi és politikai nevelés eszköze
+## Római építészet
+- Etruszk, görög, hellenisztikus hatások
+- Köztársaságkor: tümpanonos oromzat, dór/ión oszloprend
+- Császárkor: új városi épületek, fórumok
+- Legfontosabb újítás: a boltív
+- Dongaboltozat, kupola
+- Pantheon: kupola, boltíves fülkék
+- Római városok: fórum, templomok, Colosseum, színházak, cirkuszok, fürdők
+- Bérházak, villák
+- Vízvezetékek

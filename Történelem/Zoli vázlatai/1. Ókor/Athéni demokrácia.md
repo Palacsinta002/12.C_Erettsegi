@@ -1,15 +1,44 @@
-
-
 [[Akropolisz]]
 
-Athén a közép-görögországi Attikában található. A dór vándorlás után kialakult új típusú államban, a poliszban a Kr. e. 8. században jött létre a köztársaság. Az államot választott tisztségviselők irányították. Kezdetben a vezetők, az [[arkhónok]] csak az [[arisztokraták]] közül kerülhettek ki. A [[démosz]] elégedetlensége miatt Szolón arkhón Kr. e. 594-ben új alkotmányt dolgozott ki. A lakosságot négy vagyoni osztályba sorolta, és a politikai jogokat az alsóbb vagyoni osztályokra is kiterjesztette, mégis fenntartotta az arisztokrácia politikai súlyát. Az állam ügyeiben a népgyűlés döntött, amelynek ülésein minden athéni polgár részt vehetett. Az újonnan létrehozott 400 fős tanács (bulé) tagjai azonban csak az első három vagyoni osztályból kerülhetett ki. A szintén új esküdtbíróságoknak a legszegényebbek is tagjai lehettek. 
-
-Szolón reformjai nem teremtettek társadalmi egyensúlyt, ami lehetőséget adott a személyi hatalom, a türannisz kiépítésére. A köztársasági forma fennmaradt, de a tisztségviselők Peiszisztratosz hívei közül kerültek ki. A zsarnokuralom biztosította a démosz anyagi gyarapodását, és háttérbe szorította az arisztokráciát, Peiszisztratosz fiai azonban nem tudták fenntartani a rendszer népszerűségét. Athénban Kr. e. 510-ben megdöntötték az egyeduralmat. 
-
-Kr. e. 508-ban új alkotmány elkészítésével az arisztokrata politikust, Kleiszthenészt bízták meg. Az ő nevéhez kötötte a hagyomány a cserépszavazás bevezetését. Akire a legtöbb szavazat érkezett, azt tíz évre száműzték, de javait megtarthatta. Bár a cserépszavazás eredeti célja a türannisz megakadályozása volt, a politikai ellenfelekkel való leszámolásra is alkalmazták.
-
-Kleiszthenész új, területi alapú választási, közigazgatási és katonai rendszert is kidolgozott. Attikát városi, tengerparti és belső területekre osztotta, ezeket pedig tíz-tíz részre. A harminc egységből háromféle részt egymáshoz rendelve tíz phülét hozott létre, amelyek területe nem volt összefüggő. A tíz [[phülé]] 50-50 tagot küldött az 500 fős buléba. Ezzel a beosztással az arisztokraták kisebbségbe kerültek a politikai intézményekben, a tengerparton és a városban ugyanis a démosz tagjai voltak többen. A lakosság vagyoni osztályozása továbbra is fennmaradt, de a politikai jogokat kiterjesztették. A legszegényebbek is bekerültek a buléba, amelynek tagjait sorsolással választották ki. Kleiszthenész egy új, tíz sztratégoszból (katonai vezető) álló testületet is létrehozott. A Kr. e. 5. században ezek a sztratégoszok lettek az athéni politika irányítói. Békében ugyan nem járt hatalommal ez a tisztség, de mivel gazdag és tekintélyes férfiakat választottak meg, az őket övező tisztelet révén keresztül tudták vinni akaratukat a népgyűlésen. Az arkhónok és az [[areioszpagosz]] feladatköre és politikai befolyása csökkent, különösen azután, hogy az arkhónokat is sorsolták. Feladataik nagy része a naponta sorsolt és fizetett bizottságokkal működő esküdtbírósághoz került. 
-
-Kleiszthenész reformjai következtében demokrácia, azaz népuralom valósult meg Athénban. Az állam ügyeiben a népgyűlés döntött. A teljes jogú polgárok politikailag egyenlők voltak, mivel a népgyűlésben mindannyian rendelkeztek szavazattal, és személyesen vehettek részt a döntésekben. Az ilyen rendszert közvetlen demokráciának nevezzük. Attika lakosságának jelentős része, a nők, a betelepült [[metoikoszok]] és a rabszolgák viszont nem rendelkeztek politikai jogokkal. Az athéni demokrácia tehát korlátozott volt. 
-
-A Kr. e. 5. század második fele az athéni demokrácia kiteljesedésének ideje. A polisz legtekintélyesebb politikusa ekkor Periklész volt, akit Kr. e. 444-től tizenötször választottak meg sztratégosznak. A Periklész-kori demokrácia lényegében Kleiszthenész alkotmánya szerint működött. A legfontosabb változás a napidíj kiterjesztése volt. Periklész javasolta, hogy napidíjat a bulé tagjainak és a népgyűlés résztvevőinek is fizessenek. Mivel a napidíj elég volt egynapi megélhetésre, a legszegényebbek is élhettek politikai jogokkal. Ugyanakkor a szegények szavazatait arisztokrata politikusok is megvásárolhatták, akik így a saját akaratukat érvényesítették a démoszon keresztül.
+### Közép-Görögország
+- Attika: dór vándorlás után polisz jött létre a Kr. e. 8. században
+- Köztársaság: választott tisztségviselők
+- Kezdetben arisztokraták uralma (arkhónok)
+### Szolón reformjai (Kr. e. 594)
+- [[démosz]] elégedetlensége miatt születtek meg ezek a reformok
+- Négy vagyoni osztály
+	- Alsóbb vagyoni osztályok is kapnak politikai jogokat
+- Arisztokrácia befolyása megmarad
+- Népgyűlés (eklészia): minden athéni polgár részt vehet
+- Bulé (tanács): 400 tag az első három osztályból
+- Esküdtbíróságok: legszegényebbek is részt vehetnek
+### Peiszisztratosz türannisza (Kr. e. 561-527)
+- Zsarnokuralom, de démosz gyarapodása
+- Arisztokrácia háttérbe szorul
+- Fiai nem tudják fenntartani a népszerűséget
+- Kr. e. 510-ben megdöntötték az egyeduralmat
+### Kleiszthenész reformjai (Kr. e. 508)
+- Cserépszavazás bevezetése (osztracizmus)
+	- 10 évre száműzték
+	- célja: a türannisz megakadályozása, a politikai ellenfelek ellehetetlenítése
+- Területi alapú választási, közigazgatási és katonai rendszer
+	- Attikát városi, tengerparti és belső területekre osztotta
+- Tíz phülé (30 egységből)
+- Bulé: 500 tag phülékből
+	- Arisztokrácia befolyása csökken, kisebbségbe kerültek --> mivel több a démoszok száma a városokban és a tengerparton
+	- sorsoláson alapon kerültek be az emberek, még a szegényebb rétegekből is bekerülhettek
+- Sztratégoszból (katonai vezetők)
+- Arkhónok és Areioszpagosz befolyása csökken
+### Demokrácia Athénban
+- Népuralom lett jelen, azaz demokrácia Kleiszthenész reformjai miatt
+- Az állam ügyeiben a népgyűlés dönt
+- Teljes jogú polgárok egyenlősége, mivel mindenki rendelkezett szavazattal és személyes dönthettek
+	- Közvetlen demokrácia
+- Korlátozott: nők, metoikoszok, rabszolgák nem szavazhatnak
+### Periklész kora (Kr. e. 5. század második fele)
+- Kleiszthenész alkotmánya alapján
+- Napidíj bevezetése:
+    - Bulé tagjainak
+    - Népgyűlés résztvevőinek
+    - Szegények is élhetnek politikai jogokkal
+    - Szegények szavazatainak megvásárlása
