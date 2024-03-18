@@ -26,8 +26,8 @@
 - Tíz phülé (30 egységből)
 - Bulé: 500 tag phülékből
 	- Arisztokrácia befolyása csökken, kisebbségbe kerültek --> mivel több a démoszok száma a városokban és a tengerparton
-	- sorsoláson alapon kerültek be az emberek, még a szegényebb rétegekből is bekerülhettek
-- Sztratégoszból (katonai vezetők)
+	- sorsolásos alapon kerültek be az emberek, még a szegényebb rétegekből is
+- Sztratégosz (katonai vezetők)
 - Arkhónok és Areioszpagosz befolyása csökken
 ### Demokrácia Athénban
 - Népuralom lett jelen, azaz demokrácia Kleiszthenész reformjai miatt
