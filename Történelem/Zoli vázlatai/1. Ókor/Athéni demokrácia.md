@@ -25,16 +25,16 @@
 	- Attikát városi, tengerparti és belső területekre osztotta
 - Tíz phülé (30 egységből)
 - Bulé: 500 tag phülékből
-	- Arisztokrácia befolyása csökken, kisebbségbe kerültek --> mivel több a démoszok száma a városokban és a tengerparton
+	- Arisztokrácia befolyása csökken, kisebbségbe kerültek --> mivel a démosz létszáma nő a városokban és a tengerparton
 	- sorsolásos alapon kerültek be az emberek, még a szegényebb rétegekből is
 - Sztratégosz (katonai vezetők)
-- Arkhónok és Areioszpagosz befolyása csökken
+- Arkhónok és Areioszpagosz (törvényhozó és ítélő tanács) befolyása csökken
 ### Demokrácia Athénban
 - Népuralom lett jelen, azaz demokrácia Kleiszthenész reformjai miatt
-- Az állam ügyeiben a népgyűlés dönt
+- Az állam ügyeiben az eklészia (népgyűlés) dönt
 - Teljes jogú polgárok egyenlősége, mivel mindenki rendelkezett szavazattal és személyesen dönthettek
 	- Közvetlen demokrácia
-- Korlátozott: nők, metoikoszok, rabszolgák nem szavazhatnak
+- Korlátozott: nők, rabszolgák, metoikoszok (felszabadított rabszolgák, betelepült idegenek) nem szavazhattak
 ### Periklész kora (Kr. e. 5. század második fele)
 - Kleiszthenész alkotmánya alapján
 - Napidíj bevezetése:
