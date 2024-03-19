@@ -32,7 +32,7 @@
 ### Demokrácia Athénban
 - Népuralom lett jelen, azaz demokrácia Kleiszthenész reformjai miatt
 - Az állam ügyeiben a népgyűlés dönt
-- Teljes jogú polgárok egyenlősége, mivel mindenki rendelkezett szavazattal és személyes dönthettek
+- Teljes jogú polgárok egyenlősége, mivel mindenki rendelkezett szavazattal és személyesen dönthettek
 	- Közvetlen demokrácia
 - Korlátozott: nők, metoikoszok, rabszolgák nem szavazhatnak
 ### Periklész kora (Kr. e. 5. század második fele)
