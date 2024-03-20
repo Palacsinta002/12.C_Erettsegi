@@ -26,7 +26,7 @@
 
 ## II. Szerzők, művek, korszakok a régi magyar irodalomból a 18. század végéig
 
-11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (klasszicizmus, szentimentalizmus, rokokó, népiesség) (10. szvgy.)
+11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (klasszicizmus, szentimentalizmus, rokokó, népiesség) (10. szvgy.) - [[11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (klasszicizmus, szentimentalizmus, rokokó, népiesség)|Vázlat]]
 	- [A reményhez](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=A%20reményhez#section-62728497260)
 	- [Tartózkodó kérelem](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=Tartózkodó%20kérelem#section-62728497258)
 	- [Az estve](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=Az%20estve#section-62727272442)
@@ -58,9 +58,9 @@
 
 ## VII. Színház és dráma
 
-18. Shakespeare: [Rómeó és Júlia](https://mek.oszk.hu/00400/00492/00492.htm) (Kötelező olvasmány)
+18. Shakespeare: [Rómeó és Júlia](https://mek.oszk.hu/00400/00492/00492.htm) (Kötelező olvasmány) - [[18. Shakespear - Rómeó és Júlia|Vázlat]]
 19. Örkény István: [Tóték](https://mek.oszk.hu/06300/06350/06350.htm) (Kötelező olvasmány)
 
 ## VIII. Regionális irodalom
 
-20. A Bárka című folyóirat bemutatása (?)
+20. A Bárka című folyóirat bemutatása
