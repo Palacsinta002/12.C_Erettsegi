@@ -48,7 +48,7 @@
 	- Temesvár: Losonczy István
 	- Egervára: Dobó István
 - 1566:
-	- Szigetvár: Zrínyi Miklós
+	- Szigetvár: Zrínyi Miklós ---> kifut a várból, hősi halált hal
 		- Szulejmán meghal betegségben
 		- török győzelem
 - 1568:
