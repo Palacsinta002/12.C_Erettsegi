@@ -52,8 +52,8 @@
 
 -          Nagy László: „Adjon az Isten”
 
-**4.**       **Téma: Életbölcsélet, tanítás, életvezetés lehetőségei
-**
+**4.**       **Téma: Életbölcsélet, tanítás, életvezetés lehetőségei**
+
 -          Horatius: „Licinius Murenához”, „Thaliarchushoz”
 
 -          Kosztolányi Dezső: „Halotti beszéd és Könyörgés”
@@ -70,8 +70,8 @@
 
 -          Nagy László: „Ki viszi át a szerelmet?”
 
-**5.**       **Téma: Az út, utazás toposz
-**
+**5.**       **Téma: Az út, utazás toposz**
+
 -          Hunor és Magor mondák
 
 -          Arany János: „Rege a csodaszarvas”
@@ -98,8 +98,8 @@
 
 -          Szerb Antal: „Utas és holdvilág”
 
-**6.**       **Téma: Zárt ember, történelmi folyamatokba kényszerített (abban esetleg szerepet vállaló), a történelmet megélő egyén helyzetének és lehetőségeinek ábrázolása
-**
+**6.**       **Téma: Zárt ember, történelmi folyamatokba kényszerített (abban esetleg szerepet vállaló), a történelmet megélő egyén helyzetének és lehetőségeinek ábrázolása**
+
 -          Zrínyi Miklós: „Tábor kis tracta”, „török áfium ellen való orvosság”, „Szigeti veszedelem”
 
 -          József Attila: „A Dunánál”
@@ -124,8 +124,8 @@
 
 -          Pilinszky János: „Halak a hálóban”
 
-**7.**       **Téma: Az egyén társadalmi szerepvállalása, társadalmi helyzet felvállalás
-**
+**7.**       **Téma: Az egyén társadalmi szerepvállalása, társadalmi helyzet felvállalás**
+
 -          Zrínyi Miklós: „Szigeti veszedelem”
 
 -          Bessenyei György: „Ágis tragédiája”
