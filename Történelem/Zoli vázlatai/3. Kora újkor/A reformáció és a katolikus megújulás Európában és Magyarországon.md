@@ -161,6 +161,7 @@ katolikus, evangélikus, református, unitárius) - az ortodox csak megtűrt val
 - A Királyi Magyarország a 17. században
 	- vallási változások
 	- katolikus megújulás
+	- 1626 első katolikus Biblia fordítás (Káldi György)
 	- Pázmány Péter esztergomi érsek (kálvinista volt, a kolozsvári jezsuitáknál tért át) - Zrínyi Miklós nevelője, prédikációk
 	- erőszakmentes reformáció
 	- vitairatok magyar nyelven
