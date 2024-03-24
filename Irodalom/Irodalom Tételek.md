@@ -12,11 +12,11 @@
 3. Babits Mihály: [Jónás könyve](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_003?w=Jónás%20könyve#section-76993530624) (11. szvgy.)
 4. Herczeg Ferenc: [Az élet kapuja](https://mek.oszk.hu/02500/02523/02523.htm) (Kötelező olvasmány)
 5. Jókai Mór: [Az arany ember](https://mek.oszk.hu/00600/00688/html/index.htm) (Kötelező olvasmány)
-6. József Attila utolsó vershármasa (12. szvgy.)
+6. József Attila utolsó vershármasa (12. szvgy.) - [[6. József Attila utolsó vershármasa|Vázlat]]
 	- [(Karóval jöttél...)](https://www.nkp.hu/tankonyv/irodalom_12_szoveggyujtemeny_nat2020/lecke_03_007?w=(Karóval%20jöttél...)#section-93691519300)
 	- [(Talán eltünök hirtelen...)](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/jozsef-attila-1EE20/versek-1EE25/1937-1FC5C/talan-eltunok-hirtelen-1FDE1/)
 	- [(Ime, hát megleltem hazámat...)](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/jozsef-attila-1EE20/versek-1EE25/1937-1FC5C/ime-hat-megleltem-hazamat-1FDF2/)
-7. Kosztolányi Dezső: [Édes Anna](https://mek.oszk.hu/04700/04772/04772.htm) (Kötelező olvasmány)
+7. Kosztolányi Dezső: [Édes Anna](https://mek.oszk.hu/04700/04772/04772.htm) (Kötelező olvasmány) - [[7. Kosztolányi Dezső - Édes Anna|Vázlat]]
 	- lélektani regény jellemzői
 8. Mikszáth Kálmán: [Az a fekete folt](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_002?w=Az%20a%20fekete%20folt#section-76990868898) (11. szvgy.)
 9. Petőfi Sándor: [Az apostol](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/petofi-sandor-DFB2/1848-F625/az-apostol-F9A0/) (Kötelező olvasmány)
@@ -53,7 +53,7 @@
 
 ## VI. Művek a világirodalomból
 
-16. Puskin: [Anyegin](https://mek.oszk.hu/00400/00467/00467.htm) (Kötelező olvasmány)
+16. Puskin: [Anyegin](https://mek.oszk.hu/00400/00467/00467.htm) (Kötelező olvasmány) - [[16. Puskin - Anyegin|Vázlat]]
 17. Thomas Mann: [Mario és a varázsló](https://mek.oszk.hu/00400/00438/00438.htm) (Kötelező olvasmány)
 
 ## VII. Színház és dráma
