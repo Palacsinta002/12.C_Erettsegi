@@ -10,7 +10,7 @@
 
 -          „Ómagyar Mária-siralom”,
 
--          Janus Pannonius: „Búcsú Váradtól”
+-          Janus Pannonius: „Búcsú Váradtól”.
 
 -          Ballasi Bálint: „Búcsúja hazájától”
 
