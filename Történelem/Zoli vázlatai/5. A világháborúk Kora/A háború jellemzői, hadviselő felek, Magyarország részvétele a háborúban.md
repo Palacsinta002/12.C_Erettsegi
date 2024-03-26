@@ -6,7 +6,6 @@
 
 ### Franciaország
 - [[Reváns]] politika
-
 ### 1908.: Bosznia-Hercegovina annexiója
 
 ### Németország
