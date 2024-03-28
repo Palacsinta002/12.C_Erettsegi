@@ -1,0 +1,25 @@
+.theme-light .mermaid {
+    --color-red: #ff7777;
+    --color-orange: #ffbb99;
+    --color-yellow: #ffeeaa;
+    --color-green: #bbffbb;
+    --color-cyan: #bbffee;
+    --color-blue: #aaccff;
+    --color-purple: #ddbbff;
+    --color-pink: #ffcccc;
+}
+
+.theme-dark .mermaid {
+    --color-red: #7352b3;
+    --color-orange: #4684ad;
+    --color-yellow: #5771a1;
+    --color-green: #3843aa;
+    --color-cyan: #4666be;
+    --color-blue: #4a5c8b;
+    --color-purple: #406aa1;
+    --color-pink: #3840af;
+}
+
+.mermaid .section-root text {
+    fill: inherit !important;
+}
