@@ -19,7 +19,7 @@
 - bányavárosok: Körmöcbányán, Selmecbányán, Besztercebányán
 - Európa fő aranytermelője volt Magyarország
 - aranyforintot vertek firenzei mintára
-- 1336 kapuadó bevezetése, mert a király elvesztette az évenkénti pénzbeváltásból származó bevételét
+- 1336 kapuadó bevezetése, mert a király elvesztette az évenkénti pénzbeváltásból származó bevételét az aranyforint értékállósága miatt
 	- 18 dinárt fizettek a királyi kincstárnak
 - harmincadvám nagy jövedelmet hozott (távoli kereskedelemből jövő pénz)
 #### I. Károly külpolitikája
