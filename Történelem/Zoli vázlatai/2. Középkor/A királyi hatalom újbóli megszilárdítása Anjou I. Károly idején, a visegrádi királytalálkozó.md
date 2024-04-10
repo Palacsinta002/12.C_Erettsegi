@@ -18,7 +18,7 @@
 - be kellett szolgáltatni a nemesfémeket (nyersen) ==> vert pénzt kaptak érte (kevesebb a nemesfém tartalma)
 - bányavárosok: Körmöcbányán, Selmecbányán, Besztercebányán
 - Európa fő aranytermelője volt Magyarország
-- aranyforintot vertek
+- aranyforintot vertek firenzei mintára
 - 1336 kapuadó bevezetése, mert a király elvesztette az évenkénti pénzbeváltásból származó bevételét
 	- 18 dinárt fizettek a királyi kincstárnak
 - harmincadvám nagy jövedelmet hozott (távoli kereskedelemből jövő pénz)
