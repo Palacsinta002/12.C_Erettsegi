@@ -10,12 +10,12 @@
 	- hatalom biztosítására
 - Az ország hadereje a királyi had mellett a báriói és a vármegyei bandériumokból és a kun könnyűlovasságból állt
 #### Károly gazdasági reformjai
-- regálék emelése
+- regálék emelése (király jövedelme)
 - arany, sóval való gazdálkodás
 - nemesfémbányászat
 - földesurak területén lévő bányából urburát kaptak (bányabért, 1/3-ad része volt a földesúré és 2/3-ad a királyé)
 - a nemesfémmel csak a király kereskedett
-- be kellett szolgáltatni a nemesfémeket (nyersen) ==> vert pénzt kaptak érte
+- be kellett szolgáltatni a nemesfémeket (nyersen) ==> vert pénzt kaptak érte (kevesebb a nemesfém tartalma)
 - bányavárosok: Körmöcbányán, Selmecbányán, Besztercebányán
 - Európa fő aranytermelője volt Magyarország
 - aranyforintot vertek
