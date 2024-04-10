@@ -2,6 +2,7 @@
 - Nápolyi Anjou-házból I. Károly (Róbert) került ki győztesen
 - 1308-1342-ig uralkodott
 - tartományok megszerzése minden áron (fegyverrel, csalással, háborgatással)
+- Legfontosabb tartományurak (kiskirályok): Felvidéken Csák Máté, É-Kelet-en Aba Amádé
 #### A királyi hatalom politikai alapjai
 - Tartományurak leverése után megnövelte a királyi birtokállományt
 - bárói réteg létrehozása(Garaiak, Lackfiak)
