@@ -1,5 +1,7 @@
 ## Ipari forradalom
 - Az a folyamat amikor a manufaktúrákból kézmű ipar felváltja a gyárakban folyó gépekkel történő tömegtermelést
+- Gazdaság, társadalmi, technológiai változás. Lényege az új erőforrásokkal működtetett gépek megjelenése, gyárak elterjedése, tömeges munkaerő beáramlása
+a mg-ból az iparba.
 - 18. század másodikfele - 19. század közepéig tartó folyamat
 	- Anglia
 		- Nyugat-Európa
