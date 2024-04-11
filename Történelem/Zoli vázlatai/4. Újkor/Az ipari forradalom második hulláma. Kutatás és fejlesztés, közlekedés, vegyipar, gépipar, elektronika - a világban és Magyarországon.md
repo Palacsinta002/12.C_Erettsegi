@@ -24,7 +24,7 @@
 #### Közlekedés
 - robbanó, otto motor -> autó
 - Benz - benzinmotor gépkocsi
-- Ford - tömeggyártás, T-modell
+- Ford - tömeggyártás (futószalag), T-modell
 - Tömeggyártás -> húzóágazat
 	- gépgyártás, vegyiipar, kőolaj, üveg, gumi
 - Léghajó - Zeppelin
