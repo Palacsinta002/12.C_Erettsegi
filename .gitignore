@@ -1,1 +1,3 @@
-.obsidian/
+.obsidian/*
+!.obsidian/snippets
+!.obsidian/appearance.json

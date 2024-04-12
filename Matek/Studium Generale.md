@@ -1,1 +1,0 @@
-[Studium Generale](https://www.studiumgenerale.hu/matek-erettsegik/)

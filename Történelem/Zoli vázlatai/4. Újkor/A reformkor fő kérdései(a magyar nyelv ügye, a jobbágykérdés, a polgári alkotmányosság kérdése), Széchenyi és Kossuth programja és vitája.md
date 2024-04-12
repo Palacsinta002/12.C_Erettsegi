@@ -39,8 +39,8 @@
 	- gőzhajózás a Balatonon, Dunán
 	- Lánchíd (1849 után nyitja meg Hajnau)
 	- vasútépítés
-	- hajógyár
-	- malmok
+	- Óbudai hajógyár
+	- (Pesti hengermalom) malmok
 	- textilipar
 	- selyemhernyó tenyésztés
 	- részvénytársasági forma: más befektetőket is kell keresni
