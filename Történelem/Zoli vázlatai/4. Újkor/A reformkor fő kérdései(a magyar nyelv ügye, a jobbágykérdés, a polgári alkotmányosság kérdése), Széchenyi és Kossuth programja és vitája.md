@@ -1,4 +1,6 @@
 ## 1830-1848
+-Célkitűzés: Magyarország birodalmon belüli alkotmányos önállóságának kivívása, polgári átalakulás előmozdítása.
+
 - Széchenyi Hitel --> cél a polgári átalakulás
 	- reformok útján
 #### Széchenyi István (Gróf):
