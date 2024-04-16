@@ -1,4 +1,5 @@
 ## 1880-1900-ig tart
+- a 19. század utolsó harmadában bontakozott ki, a fejlődés centrumai: USA és Németország
 - meghatározza a 20. század elejét
 - nagy segítség a világháborúkban
 	- erőgépek:
@@ -31,6 +32,7 @@
 - repülőgép - Wright - testvérek
 #### Vegyipar
 - üzemanyaggyártás
+- gógyszergyártás
 - műtrágya- és növényvédő szerek gyártása -> mezőgazdaság
 	- népesség növekedés
 #### Hadiipar
