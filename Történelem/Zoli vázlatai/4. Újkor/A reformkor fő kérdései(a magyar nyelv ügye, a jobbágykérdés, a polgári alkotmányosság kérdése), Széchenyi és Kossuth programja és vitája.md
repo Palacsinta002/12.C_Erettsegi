@@ -12,7 +12,7 @@
 	- 1825: A Pozsonyi országgyűlés, felajánlja 1 évi jövedelmét az MTA-létrehozásához
 - Elméleti munkái
 	- Hitel (1830):
-		- Széchenyi hitelt szeretne felvenni, birtokai modernizálásához, de a bank nem ad --> az ősiség miatt
+		- Széchenyi hitelt szeretne felvenni, birtokai modernizálásához, de a bank nem ad --> az ősiség miatt (el kell törölni!)
 			- a birtok a férfiág kihalása után visszaszáll a királyra (háramlási jog)
 - ellenzi a robotot mert nem elég hatékony, helyette a bérmunkát kéne bevezetni
 - jobbágyfelszabadítás
