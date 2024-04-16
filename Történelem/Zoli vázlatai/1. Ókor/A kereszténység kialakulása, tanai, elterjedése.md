@@ -25,6 +25,6 @@
 ## A kereszténység hittételei és ünnepei
 - A Szentháromság tana (niceai zsinat, 325)
 - Jézus születése (karácsony), feltámadása (húsvét), az egyház megalakulása (pünkösd)
-- Szeretetlakomák, alamizsnaosztás
+- Szeretetlakomák, alamizsnaosztás (adomány)
 ## Az egyházszervezet kialakulása
 - Plébánosok, püspökök, metropoliták
