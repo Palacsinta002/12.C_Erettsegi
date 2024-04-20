@@ -67,7 +67,7 @@
 	- írással kommunikálnak egymással
 - Hadsereg:
 	- császári és királyi hadsereg (k.u.k., azaz kainserlich und königlich)
-	- uralkodó a főparancsnok
+	- uralkodó a főparancsnok (Irányítási és vezényleti jog)
 - Gazdaság (10 évente megújítják):
 	- Várszövetség
 	- Valuta --> valami korona szerű dolog
