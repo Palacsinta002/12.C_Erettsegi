@@ -21,6 +21,8 @@
 8. Nemzeti Színház (előadják a korábban betiltott Bánk Bánt, ezzel ünnepelték a forradalom győzelmét)
 Első felelős magyar minisztérium létre jötte
 ![[Pasted image 20231219105503.png|500]]
+Vér nélkül zajlott le a forradalom. Irányítók a radikális ifjak, de utána átadták a vezetést a liberális politikusoknak.
+
 ## Az áprilisi törvények
 #### III. tc.: Végrehajtó hatalom
 - a király jogköre szűkül
