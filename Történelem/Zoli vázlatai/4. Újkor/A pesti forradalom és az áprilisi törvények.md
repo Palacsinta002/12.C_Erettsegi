@@ -18,7 +18,7 @@
 	- ne vessék be a katonákat
 7. József laktanya
 	- Táncsics kiszabadítása
-8. Nemzeti Színház
+8. Nemzeti Színház (előadják a korábban betiltott Bánk Bánt, ezzel ünnepelték a forradalom győzelmét)
 Első felelős magyar minisztérium létre jötte
 ![[Pasted image 20231219105503.png|500]]
 ## Az áprilisi törvények
