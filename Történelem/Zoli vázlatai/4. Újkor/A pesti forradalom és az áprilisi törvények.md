@@ -6,7 +6,7 @@
 	- Az itáliai és párizsi forradalmak hírére az ellenzék vezérszónoka, Kossuth Lajos 1848. mác. 3-án azonnali reformokat sürgető felirati javaslatot fogalmazott meg. ---> Követelések: kötelező 			örökváltság, közteherviselés, felelős kormány, alkotmány a Habsburg birodalom örökös tartományainak is.
 	- Márc. 13-i bécsi forradalom hatására a felsőtábla is elfogadta a javaslatot. A feliratot küldöttség vitte Bécsbe.
 
-1. Pilvax Kávéház - márciusi ifjak
+1. Pilvax Kávéház - márciusi ifjak (Pl: Petófi, Jókai, Vasvári Pál)
 	- 12. pont
 	- Nemzeti dal
 2. Egyetemek - tömeg növelése
