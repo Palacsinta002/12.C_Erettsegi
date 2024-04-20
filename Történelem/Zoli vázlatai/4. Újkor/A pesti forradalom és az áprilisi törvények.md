@@ -1,4 +1,11 @@
 ## Pesti Forradalom
+
+1) Előzmények:
+	- 1848 tavaszán forradalmi hullám söpör végig Európán („népek tavasza”). Liberalizmus és nacionalizmus eszméi mozgatják.
+	- 1848 tavaszán ülésezett az országgyűlés Pozsonyban.
+	- Az itáliai és párizsi forradalmak hírére az ellenzék vezérszónoka, Kossuth Lajos 1848. mác. 3-án azonnali reformokat sürgető felirati javaslatot fogalmazott meg. ---> Követelések: kötelező 			örökváltság, közteherviselés, felelős kormány, alkotmány a Habsburg birodalom örökös tartományainak is.
+	- Márc. 13-i bécsi forradalom hatására a felsőtábla is elfogadta a javaslatot. A feliratot küldöttség vitte Bécsbe.
+
 1. Pilvax Kávéház - márciusi ifjak
 	- 12. pont
 	- Nemzeti dal
