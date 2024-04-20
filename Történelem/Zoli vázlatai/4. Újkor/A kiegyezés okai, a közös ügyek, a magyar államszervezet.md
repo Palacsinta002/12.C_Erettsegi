@@ -70,8 +70,10 @@
 	- uralkodó a főparancsnok (Irányítási és vezényleti jog)
 - Gazdaság (10 évente megújítják):
 	- Várszövetség
+   	- Egységes mértékrendszer
 	- Valuta --> valami korona szerű dolog
-	- Szabad tőke, szakszerű áru áramlása
+	- Szabad tőke, szakszerű áru áramlása, szabad munkaerő áramlása
+ 	- A Monarchia egységes vámterületet alkot
 ### Király jogköre:
 - Miniszerelnök kinevezése
 - Kormánytagok kinevezése
