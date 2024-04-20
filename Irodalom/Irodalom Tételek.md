@@ -10,7 +10,7 @@
 	- [V. László](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_001?w=V.%20László#section-76921819983)
 	- [Szondi két apródja](https://nat2012.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny/lecke_01_002)
 3. Babits Mihály: [Jónás könyve](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_003?w=Jónás%20könyve#section-76993530624) (11. szvgy.)
-4. Herczeg Ferenc: [Az élet kapuja](https://mek.oszk.hu/02500/02523/02523.htm) (Kötelező olvasmány)
+4. Herczeg Ferenc: [Az élet kapuja](https://mek.oszk.hu/02500/02523/02523.htm) (Kötelező olvasmány) - [[4. Herczeg Ferenc - Az élet kapuja|Vázlat]]
 5. Jókai Mór: [Az arany ember](https://mek.oszk.hu/00600/00688/html/index.htm) (Kötelező olvasmány)
 6. József Attila utolsó vershármasa (12. szvgy.) - [[6. József Attila utolsó vershármasa|Vázlat]]
 	- [(Karóval jöttél...)](https://www.nkp.hu/tankonyv/irodalom_12_szoveggyujtemeny_nat2020/lecke_03_007?w=(Karóval%20jöttél...)#section-93691519300)
