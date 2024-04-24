@@ -1,6 +1,6 @@
 ## I. Kommunikáció
-1. A kommunikációs folyamat tényezőinek, funkcióinak megértése, bizonyítása beszédhelyzetek elemzésével, szövegértelmezéssel, szövegalkotással - [[1. tétel - A kommunikáció|Vázlat]]
-2. Az emberi kommunikáció nem nyelvi jelei és kifejezőeszközei
+1. A kommunikációs folyamat tényezőinek, funkcióinak megértése, bizonyítása beszédhelyzetek elemzésével, szövegértelmezéssel, szövegalkotással - [[1. A kommunikáció|Vázlat]]
+2. Az emberi kommunikáció nem nyelvi jelei és kifejezőeszközei - [[2. Az emberi kommunikáció nem nyelvi jelei és kifejezőeszközei|Vázlat]]
 3. A reklámok funkciója, működése, hatása
 
 ## II. A magyar nyelv története
@@ -39,4 +39,4 @@
 
 ## VIII. Digitális kommunikáció
 
-20. Az elektronikus média hagyományos (rádió, televízió) és új közlésmódjai (honlap, blog, vlog, közösségi platformok), az új közlésmódok társadalmi hatása - [[20. tétel - A média műfajai|Vázlat]]
+20. Az elektronikus média hagyományos (rádió, televízió) és új közlésmódjai (honlap, blog, vlog, közösségi platformok), az új közlésmódok társadalmi hatása - [[20. A média műfajai|Vázlat]]
