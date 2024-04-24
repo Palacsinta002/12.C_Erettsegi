@@ -1,7 +1,7 @@
 ## I. Kommunikáció
 1. A kommunikációs folyamat tényezőinek, funkcióinak megértése, bizonyítása beszédhelyzetek elemzésével, szövegértelmezéssel, szövegalkotással - [[1. A kommunikáció|Vázlat]]
 2. Az emberi kommunikáció nem nyelvi jelei és kifejezőeszközei - [[2. Az emberi kommunikáció nem nyelvi jelei és kifejezőeszközei|Vázlat]]
-3. A reklámok funkciója, működése, hatása
+3. A reklámok funkciója, működése, hatása - [[3. A reklámok funkciója, működése, hatása|Vázlat]]
 
 ## II. A magyar nyelv története
 
