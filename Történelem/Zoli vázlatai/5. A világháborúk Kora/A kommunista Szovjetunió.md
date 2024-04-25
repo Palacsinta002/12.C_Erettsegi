@@ -4,10 +4,10 @@
 - 1922. Szovjetunió létrejötte
 - Lenin után hatalmi harc
 
-| Sztálin | Trockij | 
- | -------: | -------: |
- | Győz | elmenekül|
- | Főtitkár | Mexikóban kivégzik |
+|     |  Sztálin | Trockij            |
+| --: | -------: | ------------------ |
+|     |     Győz | elmenekül          |
+|     | Főtitkár | Mexikóban kivégzik |
 ### Mezőgazdaság
 - kollektivizálás
 	- termelőszövetkezetekbe kényszerítik a parasztságot
