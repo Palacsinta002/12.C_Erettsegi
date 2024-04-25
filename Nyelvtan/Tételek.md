@@ -11,7 +11,7 @@
 
 ## III. Ember és nyelvhasználat
 
-7. A nyelv mint jelrendszer - 
+7. A nyelv mint jelrendszer - [[7. A nyelv mint jelrendszer|Vázlat]]
 8. Anyanyelvünk rétegződése I. Csoportnyelvek, szaknyelvek, rétegnyelvek, hobbinyelvek, a szleng és az argó - 
 9. Nyelvünk helyzete a Kárpát-medencében - 
 10. A mai magyar nyelvművelés - 
