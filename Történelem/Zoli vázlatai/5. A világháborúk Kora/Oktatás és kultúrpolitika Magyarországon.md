@@ -6,7 +6,7 @@
 - A kultusz tárca az honvédelmi tárca
 	- szellemi honvédelem
 - munkásság, parasztság írni, olvasás bevezetése
-	- analfabetizmus csökkentése
+	- analfabetizmus csökkentése + kommunizmus terjedésének visszaszorítása
 		- népiskola építés
 		- tanítói lakások
 - középfokú iskolák --> természettudományok, idegennyelv oktatása
