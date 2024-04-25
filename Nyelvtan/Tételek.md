@@ -7,7 +7,7 @@
 
 4. A magyar nyelv történetének fő korszakai - [[4. A magyar nyelv történetének fő korszakai|Vázlat]]
 5. A nyelvújítás lényege és jelentősége példák alapján - [[5. A nyelvújítás lényege és jelentősége példák alapján||Vázlat]]
-6. A szókészlet rétegei: ősi örökség, belső keletkezésű elemek, jövevényszavak, nemzetközi műveltségszók, idegen szavak - 
+6. A szókészlet rétegei: ősi örökség, belső keletkezésű elemek, jövevényszavak, nemzetközi műveltségszók, idegen szavak - [[6. A szókészlet rétegei - ősi örökség, belső keletkezésű elemek, jövevényszavak, nemzetközi műveltségszók, idegen szavak|Vázlat]]
 
 ## III. Ember és nyelvhasználat
 
