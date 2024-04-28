@@ -10,7 +10,7 @@
 	- Vereckei-hágó (60.000 fő)
 	- Lengyelországon keresztül észak-nyugatról
 	- Erdélyen keresztül
-- tatár kémek legyilkolták a kun fejedelmet
+- magyarok legyilkolták a kun fejedelmet, mert azt hitték hogy tatár kémek
 - Muhi csata 1241. április 11
 	- megsemmisítő támadást mértek a magyar hadseregre
 	- ország vezetői is meghaltak

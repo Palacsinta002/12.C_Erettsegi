@@ -84,3 +84,6 @@
 
 ### Gépfegyverek
 ![Yeah](https://www.historynet.com/wp-content/uploads/2014/07/WeaposnWWI_2000x577-e1647023041887.jpg)
+### Frontvonalak
+![[Pasted image 20240428105030.png]]
+![[Pasted image 20240428104840.png]]

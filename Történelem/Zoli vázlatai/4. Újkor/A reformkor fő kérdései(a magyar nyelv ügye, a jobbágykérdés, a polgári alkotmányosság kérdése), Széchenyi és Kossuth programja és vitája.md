@@ -30,7 +30,7 @@
 	- Stádium (1833)
 		- 12 pontos program
 		- törvény előtti egyenlőség
-		- monopóliumok és céhek eltörlése
+		- manufaktúrák és céhek eltörlése
 		- magyar legyen a hivatalos nyelv
 		- szólás és sajtó szabadság
 - Gyakorlati tevékenysége:

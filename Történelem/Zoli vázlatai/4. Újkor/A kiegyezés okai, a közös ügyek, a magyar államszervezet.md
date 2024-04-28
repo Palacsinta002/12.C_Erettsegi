@@ -32,7 +32,6 @@
 	- teljes függetlenséget, demokráciát akarnak
 	- nem ismerik Ferenc Józsefet uralkodónak
 	- radikális csapat
-	- Teleki László öngyilkos lesz
 	- Felirat Párt javaslata győz, de! Bécs elutasítja, az ogy.-t felosztották ==> Schmerling: [[provizórium]]
 - 1865: Húsvéti cikk
 	- Pesti napló; a magyarok hajlandóak a kompromisszumra, külügy tekintetében a 48-ból javaslatot tesz egy úgy alkotmányos rendelethez ==> Schmerling menesztelése
