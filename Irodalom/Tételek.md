@@ -1,17 +1,17 @@
 ## I. Életművek (Tudni kell a személyek háttértörténetét)
 
-1. Ady Endre: Léda-versek (11. szvgy.)
+1. Ady Endre: Léda-versek (11. szvgy.) - [[1. Ady Endre - Léda versek|Vázlat]]
 	- [Héja-nász az avaron](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_002?w=Héja-nász%20az%20avaron#section-76993480904)
 	- [Lédával a bálban](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_002?w=Lédával%20a%20bálban#section-76993480914)
 	- [Elbocsátó szép üzenet](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_002?w=Elbocsátó%20szép%20üzenet#section-76993480918)
-2. Arany János nagykőrösi balladái (10. szvgy.) - Időutazó
+2. Arany János nagykőrösi balladái (10. szvgy.) - [[2. Arany János nagykőrösi balladái|Vázlat]]
 	- [A walesi bárdok](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_001?w=A%20walesi%20bárdok#section-76921819985)
 	- [Ágnes asszony](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_001?w=Ágnes%20asszony#section-76921819982)
 	- [V. László](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_001?w=V.%20László#section-76921819983)
 	- [Szondi két apródja](https://nat2012.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny/lecke_01_002)
-3. Babits Mihály: [Jónás könyve](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_003?w=Jónás%20könyve#section-76993530624) (11. szvgy.)
+3. Babits Mihály: [Jónás könyve](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_003?w=Jónás%20könyve#section-76993530624) (11. szvgy.) - [[3. Babits Mihály - Jónás Könyve|Vázlat]]
 4. Herczeg Ferenc: [Az élet kapuja](https://mek.oszk.hu/02500/02523/02523.htm) (Kötelező olvasmány) - [[4. Herczeg Ferenc - Az élet kapuja|Vázlat]]
-5. Jókai Mór: [Az arany ember](https://mek.oszk.hu/00600/00688/html/index.htm) (Kötelező olvasmány)
+5. Jókai Mór: [Az arany ember](https://mek.oszk.hu/00600/00688/html/index.htm) (Kötelező olvasmány) - [[5. Jókai Mór - Az arany ember|Vázlat]]
 6. József Attila utolsó vershármasa (12. szvgy.) - [[6. József Attila utolsó vershármasa|Vázlat]]
 	- [(Karóval jöttél...)](https://www.nkp.hu/tankonyv/irodalom_12_szoveggyujtemeny_nat2020/lecke_03_007?w=(Karóval%20jöttél...)#section-93691519300)
 	- [(Talán eltünök hirtelen...)](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/jozsef-attila-1EE20/versek-1EE25/1937-1FC5C/talan-eltunok-hirtelen-1FDE1/)
