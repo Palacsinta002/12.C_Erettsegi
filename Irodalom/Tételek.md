@@ -18,9 +18,9 @@
 	- [(Ime, hát megleltem hazámat...)](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/jozsef-attila-1EE20/versek-1EE25/1937-1FC5C/ime-hat-megleltem-hazamat-1FDF2/)
 7. Kosztolányi Dezső: [Édes Anna](https://mek.oszk.hu/04700/04772/04772.htm) (Kötelező olvasmány) - [[7. Kosztolányi Dezső - Édes Anna|Vázlat]]
 	- lélektani regény jellemzői
-8. Mikszáth Kálmán: [Az a fekete folt](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_002?w=Az%20a%20fekete%20folt#section-76990868898) (11. szvgy.)
-9. Petőfi Sándor: [Az apostol](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/petofi-sandor-DFB2/1848-F625/az-apostol-F9A0/) (Kötelező olvasmány)
-10. Vörösmarti Mihály költészete a szabadságharc bukása után (10. szvgy.)
+8. Mikszáth Kálmán: [Az a fekete folt](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_002?w=Az%20a%20fekete%20folt#section-76990868898) (11. szvgy.) - [[8. Mikszáth Kálmán - Az a fekete folt|Vázlat]]
+9. Petőfi Sándor: [Az apostol](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/petofi-sandor-DFB2/1848-F625/az-apostol-F9A0/) (Kötelező olvasmány) - [[9. Petőfi Sándor - Az apostol|Vázlat]]
+10. Vörösmarti Mihály költészete a szabadságharc bukása után (10. szvgy.) - [[10. Vörösmarti Mihály költészete a szabadságharc bukása után|Vázlat]]
 	- [Előszó](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_07_001?w=Előszó#section-62731123976)
 	- [A vén cigány](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_07_001?w=A%20vén%20cigány#section-62731123977)
 
@@ -34,7 +34,7 @@
 
 ## III. Portrék, látásmódok
 
-12. Móricz Zsigmond paraszti témájú novellái (11. szvgy.)
+12. Móricz Zsigmond paraszti témájú novellái (11. szvgy.) - [[12. Móricz Zsigmond paraszti témájú novellái|Vázlat]]
 	- [Tragédia](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_005?w=Tragédia#section-80667749866)
 	- [Barbárok](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_005?w=Barbárok#section-80667749867)
 13. Radnóti Miklós ekloga költészete (12. szvgy. (Csak a Hetedik ekloga van benne)) - [[13. Radnóti Miklós Ecloga költészete|Vázlat]]
@@ -49,21 +49,21 @@
 
 ## V. Művek a kortárs magyar irodalomból
 
-15. Grecsó Krisztián: Harminc év napsütés (Kötelező olvasmány)
+15. Grecsó Krisztián: Harminc év napsütés (Kötelező olvasmány) - [[15. Grecsó Krisztián - Harminc év napsütés|Vázlat]]
 
 ## VI. Művek a világirodalomból
 
 16. Puskin: [Anyegin](https://mek.oszk.hu/00400/00467/00467.htm) (Kötelező olvasmány) - [[16. Puskin - Anyegin|Vázlat]]
-17. Thomas Mann: [Mario és a varázsló](https://mek.oszk.hu/00400/00438/00438.htm) (Kötelező olvasmány)
+17. Thomas Mann: [Mario és a varázsló](https://mek.oszk.hu/00400/00438/00438.htm) (Kötelező olvasmány) - [[17. Thomas Mann - Márió és a varázsló|Vázlat]]
 
 ## VII. Színház és dráma
 
-18. Shakespeare: [Rómeó és Júlia](https://mek.oszk.hu/00400/00492/00492.htm) (Kötelező olvasmány) - [[18. Shakespear - Rómeó és Júlia|Vázlat]]
+18. Shakespeare: [Rómeó és Júlia](https://mek.oszk.hu/00400/00492/00492.htm) (Kötelező olvasmány) - [[18. Shakespeare - Rómeó és Júlia|Vázlat]]
 19. Örkény István: [Tóték](https://mek.oszk.hu/06300/06350/06350.htm) (Kötelező olvasmány) - [[19. Örkény István - Tóték|Vázlat]]
 
 ## VIII. Regionális irodalom
 
-20. A Bárka című folyóirat bemutatása
+20. A Bárka című folyóirat bemutatása - [[20. A Bárka című folyóirat bemutatása|Vázlat]]
 
 
 [EXCEL](https://docs.google.com/spreadsheets/d/1K5xwfsoG6ySl_b9XUyrsScRTrm6zf2jc0u6_GXfR5hM/edit#gid=0)
