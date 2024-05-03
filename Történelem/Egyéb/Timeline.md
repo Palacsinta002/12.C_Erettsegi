@@ -26,8 +26,8 @@
 > [!timeline] 👑
 > 1000. december 25.
 > I. István megkoronázása
-
-[A keresztény magyar államalapítás](https://www.nkp.hu/tankonyv/tortenelem_9_nat2020/lecke_05_016)
+> [[15. Az államalapítás]]
+> [A keresztény magyar államalapítás](https://www.nkp.hu/tankonyv/tortenelem_9_nat2020/lecke_05_016)
 # Magyar Királyság
 
 > [!timeline|yellow] Orseolo Péter
@@ -140,6 +140,7 @@
 
 > [!timeline|white] Hunyadi Mátyás
 > 1458 - 1490
+> [[16. A hunyadiak]]
 > [NKP](https://www.nkp.hu/tankonyv/tortenelem_9_nat2020/lecke_06_021)
 
 > [!timeline|cyan] II. Ulászló
@@ -296,6 +297,8 @@
 > 1825
 > Pozsonyi országgyűlés
 
+[[8. Reformkor]]
+
 > [!timeline|orange] V. Fredinánd
 > 1835 - 1848
 
@@ -349,6 +352,8 @@
 
 # Dualista kétközpontú monarchia
 
+[[9. Társadalmi változások a dualizmus korában]]
+
 > [!timeline] ✏
 > 1868
 > Horvát-magyar kiegyezés
@@ -394,6 +399,7 @@
 > [!timeline] 🎓
 > 1919. november. 16.
 > Horthy Miklós átveszi a hatalmat
+> [[12. A Horthy korszak]]
 
 > [!timeline] 🕊
 > 1920. június. 4.
@@ -537,6 +543,8 @@
 > 1956. november
 > Kádár János főtitkár
 > Munkás-Paraszt Kormány
+
+[[7. A Kádár-korszak mindennapjai]]
 
 > [!timeline] 💸
 > 1973
