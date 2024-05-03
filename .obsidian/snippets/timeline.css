@@ -7,7 +7,7 @@ source: https://discord.com/channels/686053708261228577/702656734631821413/11568
 body {
   --timeline-title-color: var(--text-normal);
   --timeline-title-size: var(--h2-size);
-  --timeline-title-width: 150px;
+  --timeline-title-width: 170px;
 
   --timeline-line-color: var(--color-base-35);
   --timeline-line-margin: 16px;
