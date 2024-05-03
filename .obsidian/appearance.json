@@ -1,6 +1,7 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
-    "mermaid"
+    "mermaid",
+    "timeline"
   ]
 }
