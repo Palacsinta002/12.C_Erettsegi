@@ -131,6 +131,8 @@
 
 > [!timeline|orange] I. Albert
 > 1437 - 1439
+  
+# Rendi Monarchia
 
 > [!timeline|cyan] I. Ulászló
 > 1440 - 1444
@@ -322,6 +324,12 @@
 > [!timeline] ⚔
 > [Szabadságharc](https://www.nkp.hu/tankonyv/tortenelem_10_nat2020/lecke_07_021)
 
+> [!timeline] ✏
+> 1848. április 11.
+> Áprilisi törvények
+
+# Alkotmányos Monarchia
+
 > [!timeline|orange] I. Ferenc József
 > 1848 december - 1916
 
@@ -369,10 +377,10 @@
 > 1918. október. 30 - 31.
 > Őszirózsás forradalom
 
-> [!timeline] 🎓
-> 1918. október. 31
-> Károlyi Mihály miniszterelnök
-# Népköztársaság (1918. nov. 16.)
+> [!timeline] ✏
+> 1918. november 16.
+Magyar népköztársaság kikiáltása
+# Népköztársaság
 
 > [!timeline] 🎓
 > 1919. január
@@ -416,6 +424,24 @@
 > [!timeline] 🎓
 > 1921 - 1931
 > Bethlen István miniszterelnök
+
+> [!timeline] ✏
+> Bethlen-Peyer paktum
+
+> [!timeline] ✏
+> 1922
+> Magyarország belép a Népszövetségbe
+
+> [!timeline] 💵
+> 1924
+> Népszövetségi Kölcsön
+
+> [!timeline] 💵
+> 1927
+> Pengő bevezetése
+
+> [!timeline] 💸
+> Gazdasági világválság
 
 > [!timeline] 🎓
 > 1932- 1936
@@ -469,9 +495,7 @@
 
 > [!timeline] 🎓
 > 1944 - 1945
-> Szálasi Ferenc
-
-# Ideiglenes Kormány (1944. dec.)
+> Szálasi Ferenc nemzetvezető (teljhatalom)
 
 > [!timeline] 🧨
 > 1945
@@ -481,6 +505,20 @@
 > 1945. november
 > Választások
 > **FKgP** győz
+
+> [!timeline] ✏
+> 1946
+> Magyar köztársaság kikiáltása
+
+# Köztársaság
+
+> [!timeline] 🎓
+> Tildy Zoltán köztársasági elnök
+> Nagy Ferenc miniszterelnök
+
+> [!timeline] 🎓
+> 1947
+> Dinnyés Lajos miniszterelnök
 
 > [!timeline] ✏
 > 1947
@@ -495,7 +533,8 @@
 > 1948. június
 > Rákosi Mátyás főtitkár
 
-# Rákosi-korszak
+# Népköztársaság
+## Rákosi-korszak
 
 > [!timeline] ✏
 > 1949. augusztus 20.
@@ -537,7 +576,7 @@
 > [!timeline] 💥
 > Intervenció (SU. tankok bevonulása)
 
-# Kádár-korszak
+## Kádár-korszak
 
 > [!timeline] 🎓
 > 1956. november
@@ -560,9 +599,17 @@
 > 1988
 > Grósz Károly főtitkár
 
+> [!timeline] 💀
+> 1959
+> Kádár meghal
+
 > [!timeline] ✏
 > 1989. október 23.
-> Magyar népköztársaság kikiáltása
+> Magyar köztársaság kikiáltása
+
+> [!timeline] 🎓
+> Szűrös Mátyás köztársasági elnök
+> Németh Miklós miniszterelnök
 
 > [!timeline] ✏
 > 1990
@@ -570,6 +617,7 @@
 > **MDF** győz
 
 > [!timeline] 🎓
+> Göncz Árpád köztársasági elnök
 > Antall József miniszterelnök
 
 > [!timeline] ✏
