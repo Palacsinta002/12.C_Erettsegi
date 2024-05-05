@@ -1,0 +1,30 @@
+.callout[data-callout="hey"] {
+	--callout-color: 111, 111, 111;
+	--callout-icon: lucide-help-circle;
+	border: 1px solid #404040;
+	background-color: #222;
+}
+
+
+.callout[data-callout="hey"] svg {
+	stroke: white;
+}
+
+.callout[data-callout="hey"] .callout-title-inner {
+	color: #EEE;
+	margin-left: 10px;
+}
+
+.theme-light .callout[data-callout="hey"] {
+	border: 1px solid #e5e5e5;
+	background-color: #f6f6f6;
+}
+
+.theme-light .callout[data-callout="hey"] .callout-title-inner {
+	color: #343434;
+	margin-left: 10px;
+}
+
+.theme-light .callout[data-callout="hey"] svg {
+	stroke: rgb(0, 0, 0);
+}

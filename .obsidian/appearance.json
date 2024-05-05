@@ -2,6 +2,7 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "mermaid",
-    "timeline"
+    "timeline",
+    "hey"
   ]
 }
