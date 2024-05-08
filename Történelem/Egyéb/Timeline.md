@@ -417,6 +417,11 @@ Magyar népköztársaság kikiáltása
 > 1920 - 1921
 > Teleki Pál miniszterelnök
 
+> [!timeline] ✏
+> - Rend törvény
+> - Numerus Clausus
+> - Földtörvény
+
 > [!timeline] 🛑
 > 1921. november
 > Habsburg-ház trónfosztása
@@ -448,16 +453,36 @@ Magyar népköztársaság kikiáltása
 > Gömbös Gyula miniszterelnök
 
 > [!timeline] 🎓
+> 1936- 1938
+> Darányi Kálmán miniszterelnök
+
+> [!timeline] ✏
+> - Győri program
+
+> [!timeline] 🎓
 > 1938 - 1939
 > Imrédy Béla miniszterelnök
 
 > [!timeline] ✏
-> 1939
-> Nyilas Keresztespárt - Szálasi Ferenc
+> - 1\. bécsi döntés
+> - 1\. zsidótörvény
 
 > [!timeline] 🎓
 > 1939 - 1941
 > Teleki Pál miniszterelnök
+
+> [!timeline] ✏
+> - 2\. zsidótörvény
+> - 2\. bécsi döntés
+> - Kárpátaljai bevonulás
+
+> [!timeline] 🤝
+> 1940. december
+> Örök barátsági szerződés Jugoszláviával
+
+> [!timeline] 💀
+> 1941 április 2.
+> Teleki Pál öngyilkos lett
 
 > [!timeline] 🎓
 > 1941 - 1942
@@ -470,6 +495,9 @@ Magyar népköztársaság kikiáltása
 > [!timeline] ✏
 > 1941. június 27.
 > Hadiállapot bejelentése
+
+> [!timeline] ✏
+> - 3\. zsidótörvény (fajvédelmi törvény)
 
 > [!timeline] 🎓
 > 1942 - 1944
@@ -502,13 +530,25 @@ Magyar népköztársaság kikiáltása
 > Magyarország szovjet megszállása
 
 > [!timeline] ✏
+> - Földreform
+> - Választójogi törvény
+
+> [!timeline] ✏
 > 1945. november
 > Választások
 > **FKgP** győz
 
+> [!timeline] 💵
+> 1946. augusztus
+> Forint bevezetése
+
 > [!timeline] ✏
 > 1946
 > Magyar köztársaság kikiáltása
+
+> [!timeline] 🕊
+> 1947
+> Párizsi békeszerződés
 
 # Köztársaság
 
@@ -527,7 +567,7 @@ Magyar népköztársaság kikiáltása
 
 > [!timeline] ✏
 > 1948. június
-> MKP + SZDP = Magyar Dolgozók Pártja
+> MKP + SZDP = **Magyar Dolgozók Pártja**
 
 > [!timeline] 🎓
 > 1948. június
