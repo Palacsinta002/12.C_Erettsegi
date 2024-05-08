@@ -483,14 +483,14 @@ Magyar népköztársaság kikiáltása
 
 > [!timeline] ✏
 > - 1\. bécsi döntés
-> - 1\. zsidótörvény
+> - 1\. zsidótörvény (értelmiségi pályákon 20%)
 
 > [!timeline] 🎓
 > 1939 - 1941
 > Teleki Pál miniszterelnök
 
 > [!timeline] ✏
-> - 2\. zsidótörvény
+> - 2\. zsidótörvény (faji alap, mindenhol 6%)
 > - 2\. bécsi döntés
 > - Kárpátaljai bevonulás
 
