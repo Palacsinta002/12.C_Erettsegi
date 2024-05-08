@@ -570,7 +570,6 @@ Magyar népköztársaság kikiáltása
 > MKP + SZDP = **Magyar Dolgozók Pártja**
 
 > [!timeline] 🎓
-> 1948. június
 > Rákosi Mátyás főtitkár
 
 # Népköztársaság
