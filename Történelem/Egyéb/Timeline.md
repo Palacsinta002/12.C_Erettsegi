@@ -377,6 +377,10 @@
 > 1918. október. 30 - 31.
 > Őszirózsás forradalom
 
+> [!timeline] 🩸
+> 1918. október. 31.
+> Tisza István meggyilkolása
+
 > [!timeline] ✏
 > 1918. november 16.
 Magyar népköztársaság kikiáltása
@@ -384,8 +388,11 @@ Magyar népköztársaság kikiáltása
 
 > [!timeline] 🎓
 > 1919. január
-> Károlyi Mihály köztársasági elnök
+> Károlyi Mihály miniszterelnök
 
+> [!timeline] ✏
+> - Földtörvény
+> - Választójogi törvény
 # Tanácsköztársaság (1919. márc. 21.)
 
 > [!timeline] 🎓
@@ -395,6 +402,10 @@ Magyar népköztársaság kikiáltása
 > 1919. június. 18.
 > Versailess-i békeszerződés
 
+> [!timeline] ✏
+> - Antant távirat
+> - A románok átlépik a Tiszát
+
 > [!timeline] 🎓
 > 1919. augusztus. 1.
 > Köztársaság lemond
@@ -403,10 +414,9 @@ Magyar népköztársaság kikiáltása
 
 ## Horthy-korszak
 
-
 > [!timeline] 🎓
-> 1919. november. 16.
-> Horthy Miklós átveszi a hatalmat
+> 1919. november. 16. - 1944
+> Horthy Miklós kormányzó
 > [[12. A Horthy korszak]]
 
 > [!timeline] 🕊
@@ -422,13 +432,21 @@ Magyar népköztársaság kikiáltása
 > - Numerus Clausus
 > - Földtörvény
 
-> [!timeline] 🛑
-> 1921. november
-> Habsburg-ház trónfosztása
+> [!timeline] ❓
+> 1941. tavasz
+> IV. Károly 1. királypuccs
 
 > [!timeline] 🎓
 > 1921 - 1931
 > Bethlen István miniszterelnök
+
+> [!timeline] ❓
+> 1941. ősz
+> IV. Károly 2. királypuccs
+
+> [!timeline] 🛑
+> 1921. november
+> Habsburg-ház trónfosztása
 
 > [!timeline] ✏
 > Bethlen-Peyer paktum
