@@ -467,11 +467,11 @@ Magyar népköztársaság kikiáltása
 > Gazdasági világválság
 
 > [!timeline] 🎓
-> 1932- 1936
+> 1932 - 1936
 > Gömbös Gyula miniszterelnök
 
 > [!timeline] 🎓
-> 1936- 1938
+> 1936 - 1938
 > Darányi Kálmán miniszterelnök
 
 > [!timeline] ✏
