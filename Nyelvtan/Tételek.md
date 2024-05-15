@@ -12,7 +12,7 @@
 ## III. Ember és nyelvhasználat
 
 7. A nyelv mint jelrendszer - [[7. A nyelv mint jelrendszer|Vázlat]]
-8. Anyanyelvünk rétegződése I. Csoportnyelvek, szaknyelvek, rétegnyelvek, hobbinyelvek, a szleng és az argó - [[8. Anyanyelvünk rétegződése I. Csoportnyelvek, szaknyelvek, rétegnyelvek, hobbinyelvek, a szleng és az argó|Vázlat]]
+8. Anyanyelvünk rétegződése I. Csoportnyelvek, szaknyelvek, rétegnyelvek, hobbinyelvek, a szleng és az argó - [[8. Anyanyelvünk rétegződése|Vázlat]]
 9. Nyelvünk helyzete a Kárpát-medencében - [[9. Nyelvünk helyzete a Kárpát-medencében|Vázlat]]
 10. A mai magyar nyelvművelés - [[10. A mai magyar nyelvművelés|Vázlat]]
 
