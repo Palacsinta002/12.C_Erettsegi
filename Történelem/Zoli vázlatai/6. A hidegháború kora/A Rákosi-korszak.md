@@ -63,9 +63,9 @@
 	- termelés visszaesés, ==hiánygazdaság==
 	- hamisított adatok	
 - munkaversenyek, sztahanovizmus, élmunkás, brigádverseny
-		- munkaerő kizsákmányolása
-			- nem kapsz több pénzt
-		- kiváltságokkal jár --> irreális eredmények
+	- munkaerő kizsákmányolása
+		- nem kapsz több pénzt
+	- kiváltságokkal jár --> irreális eredmények
 - nehézipar erőszakos fejlesztése
 	- cél: "A vas és acél ország"
 	- nyersanyaghiány, gyártókapacitás hiánya
