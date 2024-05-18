@@ -4,7 +4,7 @@
 	- [Héja-nász az avaron](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_002?w=Héja-nász%20az%20avaron#section-76993480904)
 	- [Lédával a bálban](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_002?w=Lédával%20a%20bálban#section-76993480914)
 	- [Elbocsátó szép üzenet](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_002?w=Elbocsátó%20szép%20üzenet#section-76993480918)
-2. Arany János nagykőrösi balladái (10. szvgy.) - [[2. Arany János nagykőrösi balladái|Vázlat]]
+2. Arany János nagykőrösi balladái (10. szvgy.) - [[Irodalom/Tételek/2. Arany János nagykőrösi balladái|Vázlat]]
 	- [A walesi bárdok](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_001?w=A%20walesi%20bárdok#section-76921819985)
 	- [Ágnes asszony](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_001?w=Ágnes%20asszony#section-76921819982)
 	- [V. László](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_001?w=V.%20László#section-76921819983)
