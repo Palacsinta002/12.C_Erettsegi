@@ -12,13 +12,13 @@
 3. Babits Mihály: [Jónás könyve](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_003?w=Jónás%20könyve#section-76993530624) (11. szvgy.) - [[3. Babits Mihály - Jónás Könyve|Vázlat]]
 4. Herczeg Ferenc: [Az élet kapuja](https://mek.oszk.hu/02500/02523/02523.htm) (Kötelező olvasmány) - [[4. Herczeg Ferenc - Az élet kapuja|Vázlat]]
 5. Jókai Mór: [Az arany ember](https://mek.oszk.hu/00600/00688/html/index.htm) (Kötelező olvasmány) - [[5. Jókai Mór - Az arany ember|Vázlat]]
-6. József Attila utolsó vershármasa (12. szvgy.) - [[6. József Attila utolsó vershármasa|Vázlat]]
+6. József Attila utolsó vershármasa (12. szvgy.) - [[Irodalom/Tételek/6. József Attila utolsó vershármasa|Vázlat]]
 	- [(Karóval jöttél...)](https://www.nkp.hu/tankonyv/irodalom_12_szoveggyujtemeny_nat2020/lecke_03_007?w=(Karóval%20jöttél...)#section-93691519300)
 	- [(Talán eltünök hirtelen...)](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/jozsef-attila-1EE20/versek-1EE25/1937-1FC5C/talan-eltunok-hirtelen-1FDE1/)
 	- [(Ime, hát megleltem hazámat...)](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/jozsef-attila-1EE20/versek-1EE25/1937-1FC5C/ime-hat-megleltem-hazamat-1FDF2/)
 7. Kosztolányi Dezső: [Édes Anna](https://mek.oszk.hu/04700/04772/04772.htm) (Kötelező olvasmány) - [[Irodalom/Tételek/7. Kosztolányi Dezső - Édes Anna|Vázlat]]
 	- lélektani regény jellemzői
-8. Mikszáth Kálmán: [Az a fekete folt](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_002?w=Az%20a%20fekete%20folt#section-76990868898) (11. szvgy.) - [[8. Mikszáth Kálmán - Az a fekete folt|Vázlat]]
+8. Mikszáth Kálmán: [Az a fekete folt](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_002?w=Az%20a%20fekete%20folt#section-76990868898) (11. szvgy.) - [[Irodalom/Tételek/8. Mikszáth Kálmán - Az a fekete folt|Vázlat]]
 9. Petőfi Sándor: [Az apostol](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/petofi-sandor-DFB2/1848-F625/az-apostol-F9A0/) (Kötelező olvasmány) - [[9. Petőfi Sándor - Az apostol|Vázlat]]
 10. Vörösmarti Mihály költészete a szabadságharc bukása után (10. szvgy.) - [[10. Vörösmarti Mihály költészete a szabadságharc bukása után|Vázlat]]
 	- [Előszó](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_07_001?w=Előszó#section-62731123976)
@@ -62,7 +62,7 @@
 18. Shakespeare: [Rómeó és Júlia](https://mek.oszk.hu/00400/00492/00492.htm) (Kötelező olvasmány) - [[18. Shakespear - Rómeó és Júlia|Vázlat]]
 19. Örkény István: [Tóték](https://mek.oszk.hu/06300/06350/06350.htm) (Kötelező olvasmány) - [[Irodalom/Tételek/19. Örkény István - Tóték|Vázlat]]
 =======
-18. Shakespeare: [Rómeó és Júlia](https://mek.oszk.hu/00400/00492/00492.htm) (Kötelező olvasmány) - [[18. Shakespeare - Rómeó és Júlia|Vázlat]]
+18. Shakespeare: [Rómeó és Júlia](https://mek.oszk.hu/00400/00492/00492.htm) (Kötelező olvasmány) - [[Irodalom/Tételek/18. Shakespeare - Rómeó és Júlia|Vázlat]]
 19. Örkény István: [Tóték](https://mek.oszk.hu/06300/06350/06350.htm) (Kötelező olvasmány) - [[19. Örkény István - Tóték|Vázlat]]
 >>>>>>> b662f5675b5df5bed139070e1688ee80889bfe75
 
