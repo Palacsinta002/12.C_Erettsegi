@@ -26,7 +26,7 @@
 
 ## II. Szerzők, művek, korszakok a régi magyar irodalomból a 18. század végéig
 
-11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (klasszicizmus, szentimentalizmus, rokokó, népiesség) (10. szvgy.) - [[11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (Reményhez, Tartózkodó Kérelem, Az estve, A boldogság)|Vázlat]]
+11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (klasszicizmus, szentimentalizmus, rokokó, népiesség) (10. szvgy.) - [[Irodalom/Tételek/11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (Reményhez, Tartózkodó Kérelem, Az estve, A boldogság)|Vázlat]]
 	- [A reményhez](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=A%20reményhez#section-62728497260)
 	- [Tartózkodó kérelem](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=Tartózkodó%20kérelem#section-62728497258)
 	- [Az estve](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=Az%20estve#section-62727272442)
@@ -37,24 +37,24 @@
 12. Móricz Zsigmond paraszti témájú novellái (11. szvgy.) - [[12. Móricz Zsigmond paraszti témájú novellái|Vázlat]]
 	- [Tragédia](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_005?w=Tragédia#section-80667749866)
 	- [Barbárok](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_005?w=Barbárok#section-80667749867)
-13. Radnóti Miklós ekloga költészete (12. szvgy. (Csak a Hetedik ekloga van benne)) - [[13. Radnóti Miklós Ecloga költészete|Vázlat]]
+13. Radnóti Miklós ekloga költészete (12. szvgy. (Csak a Hetedik ekloga van benne)) - [[Irodalom/Tételek/13. Radnóti Miklós Ecloga költészete|Vázlat]]
 	- [Első ecloga](https://www.arcanum.com/hu/online-kiadvanyok/Szoveggyujtemeny-szoveggyujtemeny-1/a-xx-szazad-irodalma-9C3D/radnoti-miklos-1909-1944-A5A2/versei-A5A3/elso-ecloga-A601/)
 	- [Hetedik ecloga](https://www.arcanum.com/hu/online-kiadvanyok/Szoveggyujtemeny-szoveggyujtemeny-1/a-xx-szazad-irodalma-9C3D/radnoti-miklos-1909-1944-A5A2/versei-A5A3/hetedik-ecloga-A66D/)
 
 ## IV. Metszetek - XX. század
 
-14. Dsida Jenő költészete (12. szvgy.) - [[14. Dsida Jenő költészete|Vázlat]]
+14. Dsida Jenő költészete (12. szvgy.) - [[Irodalom/Tételek/14. Dsida Jenő költészete|Vázlat]]
 	- [Nagycsütörtök](https://www.nkp.hu/tankonyv/irodalom_12_szoveggyujtemeny_nat2020/lecke_03_003?w=Nagycsütörtök#section-93691410312)
 	- [Arany és kék szavakkal](https://www.nkp.hu/tankonyv/irodalom_12_szoveggyujtemeny_nat2020/lecke_03_003?w=Arany%20és%20kék%20szavakkal#section-93691410313)
 
 ## V. Művek a kortárs magyar irodalomból
 
-15. Grecsó Krisztián: Harminc év napsütés (Kötelező olvasmány) - [[15. Grecsó Krisztián - Harminc év napsütés|Vázlat]]
+15. Grecsó Krisztián: Harminc év napsütés (Kötelező olvasmány) - [[Irodalom/Tételek/15. Grecsó Krisztián - Harminc év napsütés|Vázlat]]
 
 ## VI. Művek a világirodalomból
 
 16. Puskin: [Anyegin](https://mek.oszk.hu/00400/00467/00467.htm) (Kötelező olvasmány) - [[Irodalom/Tételek/16. Puskin - Anyegin|Vázlat]]
-17. Thomas Mann: [Mario és a varázsló](https://mek.oszk.hu/00400/00438/00438.htm) (Kötelező olvasmány) - [[17. Thomas Mann - Márió és a varázsló|Vázlat]]
+17. Thomas Mann: [Mario és a varázsló](https://mek.oszk.hu/00400/00438/00438.htm) (Kötelező olvasmány) - [[Irodalom/Tételek/17. Thomas Mann - Márió és a varázsló|Vázlat]]
 
 ## VII. Színház és dráma
 
