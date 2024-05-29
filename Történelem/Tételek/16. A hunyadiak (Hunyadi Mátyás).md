@@ -1,5 +1,3 @@
-**(Hunyadi Mátyás)**
-
 Hunyadi János halála 1456 után hatalmi harc, Lászlóé lett a hatalmas örökség, megtartaná a tisztségeket és hozzájuk tartozó birtokokat, és elfogatta V. Lászlót, majd megölette Cillei Ulrikot.
 V. László szabadulása után, ígérete ellenére bosszút állt, Hunyadi Lászlót lefejeztette, Mátyást Prágába vitte, azonban V. László váratlanul meghalt.
 
