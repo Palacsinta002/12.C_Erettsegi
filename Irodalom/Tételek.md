@@ -10,8 +10,8 @@
 	- [V. László](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_001?w=V.%20László#section-76921819983)
 	- [Szondi két apródja](https://nat2012.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny/lecke_01_002)
 3. Babits Mihály: [Jónás könyve](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_003?w=Jónás%20könyve#section-76993530624) (11. szvgy.) - [[3. Babits Mihály - Jónás Könyve|Vázlat]]
-4. Herczeg Ferenc: [Az élet kapuja](https://mek.oszk.hu/02500/02523/02523.htm) (Kötelező olvasmány) - [[4. Herczeg Ferenc - Az élet kapuja|Vázlat]]
-5. Jókai Mór: [Az arany ember](https://mek.oszk.hu/00600/00688/html/index.htm) (Kötelező olvasmány) - [[5. Jókai Mór - Az arany ember|Vázlat]]
+4. Herczeg Ferenc: [Az élet kapuja](https://mek.oszk.hu/02500/02523/02523.htm) (Kötelező olvasmány) - [[Irodalom/Tételek/4. Herczeg Ferenc - Az élet kapuja|Vázlat]]
+5. Jókai Mór: [Az arany ember](https://mek.oszk.hu/00600/00688/html/index.htm) (Kötelező olvasmány) - [[Irodalom/Tételek/5. Jókai Mór - Az arany ember|Vázlat]]
 6. József Attila utolsó vershármasa (12. szvgy.) - [[Irodalom/Tételek/6. József Attila utolsó vershármasa|Vázlat]]
 	- [(Karóval jöttél...)](https://www.nkp.hu/tankonyv/irodalom_12_szoveggyujtemeny_nat2020/lecke_03_007?w=(Karóval%20jöttél...)#section-93691519300)
 	- [(Talán eltünök hirtelen...)](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/jozsef-attila-1EE20/versek-1EE25/1937-1FC5C/talan-eltunok-hirtelen-1FDE1/)
@@ -19,7 +19,7 @@
 7. Kosztolányi Dezső: [Édes Anna](https://mek.oszk.hu/04700/04772/04772.htm) (Kötelező olvasmány) - [[Irodalom/Tételek/7. Kosztolányi Dezső - Édes Anna|Vázlat]]
 	- lélektani regény jellemzői
 8. Mikszáth Kálmán: [Az a fekete folt](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_002?w=Az%20a%20fekete%20folt#section-76990868898) (11. szvgy.) - [[Irodalom/Tételek/8. Mikszáth Kálmán - Az a fekete folt|Vázlat]]
-9. Petőfi Sándor: [Az apostol](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/petofi-sandor-DFB2/1848-F625/az-apostol-F9A0/) (Kötelező olvasmány) - [[9. Petőfi Sándor - Az apostol|Vázlat]]
+9. Petőfi Sándor: [Az apostol](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/petofi-sandor-DFB2/1848-F625/az-apostol-F9A0/) (Kötelező olvasmány) - [[Irodalom/Tételek/9. Petőfi Sándor - Az apostol|Vázlat]]
 10. Vörösmarti Mihály költészete a szabadságharc bukása után (10. szvgy.) - [[10. Vörösmarti Mihály költészete a szabadságharc bukása után|Vázlat]]
 	- [Előszó](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_07_001?w=Előszó#section-62731123976)
 	- [A vén cigány](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_07_001?w=A%20vén%20cigány#section-62731123977)
@@ -34,7 +34,7 @@
 
 ## III. Portrék, látásmódok
 
-12. Móricz Zsigmond paraszti témájú novellái (11. szvgy.) - [[12. Móricz Zsigmond paraszti témájú novellái|Vázlat]]
+12. Móricz Zsigmond paraszti témájú novellái (11. szvgy.) - [[Irodalom/Tételek/12. Móricz Zsigmond paraszti témájú novellái|Vázlat]]
 	- [Tragédia](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_005?w=Tragédia#section-80667749866)
 	- [Barbárok](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_005?w=Barbárok#section-80667749867)
 13. Radnóti Miklós ekloga költészete (12. szvgy. (Csak a Hetedik ekloga van benne)) - [[Irodalom/Tételek/13. Radnóti Miklós Ecloga költészete|Vázlat]]
@@ -68,7 +68,7 @@
 
 ## VIII. Regionális irodalom
 
-20. A Bárka című folyóirat bemutatása - [[20. A Bárka című folyóirat bemutatása|Vázlat]]
+20. A Bárka című folyóirat bemutatása - [[Irodalom/Tételek/20. A Bárka című folyóirat bemutatása|Vázlat]]
 
 
 [EXCEL](https://docs.google.com/spreadsheets/d/1K5xwfsoG6ySl_b9XUyrsScRTrm6zf2jc0u6_GXfR5hM/edit#gid=0)
