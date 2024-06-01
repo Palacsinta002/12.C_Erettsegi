@@ -58,13 +58,10 @@
 
 ## VII. Színház és dráma
 
-<<<<<<< HEAD
 18. Shakespeare: [Rómeó és Júlia](https://mek.oszk.hu/00400/00492/00492.htm) (Kötelező olvasmány) - [[18. Shakespear - Rómeó és Júlia|Vázlat]]
 19. Örkény István: [Tóték](https://mek.oszk.hu/06300/06350/06350.htm) (Kötelező olvasmány) - [[Irodalom/Tételek/19. Örkény István - Tóték|Vázlat]]
-=======
 18. Shakespeare: [Rómeó és Júlia](https://mek.oszk.hu/00400/00492/00492.htm) (Kötelező olvasmány) - [[Irodalom/Tételek/18. Shakespeare - Rómeó és Júlia|Vázlat]]
 19. Örkény István: [Tóték](https://mek.oszk.hu/06300/06350/06350.htm) (Kötelező olvasmány) - [[19. Örkény István - Tóték|Vázlat]]
->>>>>>> b662f5675b5df5bed139070e1688ee80889bfe75
 
 ## VIII. Regionális irodalom
 

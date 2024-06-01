@@ -25,7 +25,7 @@
 ## V. A szöveg
 
 14. A szóbeli és írott szövegek szerepe, eltérő jegyei - [[14. A szóbeli és írott szövegek szerepe, eltérő jegyei|Vázlat]]
-15. A továbbtanuláshoz, illetve a munka világában szükséges szövegtípusok: különböző típusú önéletrajzok, motivációs levél; hivatalos levelek (panaszos levél, kérvény) - [[15. A továbbtanuláshoz, illetve a munka világában szükséges szövegtípusok -  különböző típusú önéletrajzok, motivációs levél; hivatalos levelek (panaszos levél, kérvény)|Vázlat]]
+15. A továbbtanuláshoz, illetve a munka világában szükséges szövegtípusok: különböző típusú önéletrajzok, motivációs levél; hivatalos levelek (panaszos levél, kérvény) - [[15. A továbbtanuláshoz, illetve a munka világában szükséges szövegtípusok -  különböző típusú önéletrajzok, motivációs levél, hivatalos levelek (panaszos levél, kérvény)|Vázlat]]
 
 ## VI. A rektorok alapjai
 

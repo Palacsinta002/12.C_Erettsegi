@@ -142,7 +142,7 @@
 
 > [!timeline|white] Hunyadi Mátyás
 > 1458 - 1490
-> [[16. A hunyadiak]]
+> [[A hunyadiak (Hunyadi Mátyás)]]
 > [NKP](https://www.nkp.hu/tankonyv/tortenelem_9_nat2020/lecke_06_021)
 
 > [!timeline|cyan] II. Ulászló
@@ -417,7 +417,7 @@ Magyar népköztársaság kikiáltása
 > [!timeline] 🎓
 > 1919. november. 16. - 1944
 > Horthy Miklós kormányzó
-> [[12. A Horthy korszak]]
+> [[12. Bethlen konszolidáció]]
 
 > [!timeline] 🕊
 > 1920. június. 4.
