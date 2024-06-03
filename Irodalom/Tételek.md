@@ -9,7 +9,7 @@
 	- [Ágnes asszony](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_001?w=Ágnes%20asszony#section-76921819982)
 	- [V. László](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_001?w=V.%20László#section-76921819983)
 	- [Szondi két apródja](https://nat2012.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny/lecke_01_002)
-3. Babits Mihály: [Jónás könyve](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_003?w=Jónás%20könyve#section-76993530624) (11. szvgy.) - [[3. Babits Mihály - Jónás Könyve|Vázlat]]
+3. Babits Mihály: [Jónás könyve](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_003?w=Jónás%20könyve#section-76993530624) (11. szvgy.) - [[Irodalom/Tételek/3. Babits Mihály - Jónás Könyve|Vázlat]]
 4. Herczeg Ferenc: [Az élet kapuja](https://mek.oszk.hu/02500/02523/02523.htm) (Kötelező olvasmány) - [[Irodalom/Tételek/4. Herczeg Ferenc - Az élet kapuja|Vázlat]]
 5. Jókai Mór: [Az arany ember](https://mek.oszk.hu/00600/00688/html/index.htm) (Kötelező olvasmány) - [[Irodalom/Tételek/5. Jókai Mór - Az arany ember|Vázlat]]
 6. József Attila utolsó vershármasa (12. szvgy.) - [[Irodalom/Tételek/6. József Attila utolsó vershármasa|Vázlat]]
