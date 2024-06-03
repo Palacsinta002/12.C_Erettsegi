@@ -20,7 +20,7 @@
 	- lélektani regény jellemzői
 8. Mikszáth Kálmán: [Az a fekete folt](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_002?w=Az%20a%20fekete%20folt#section-76990868898) (11. szvgy.) - [[Irodalom/Tételek/8. Mikszáth Kálmán - Az a fekete folt|Vázlat]]
 9. Petőfi Sándor: [Az apostol](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/petofi-sandor-DFB2/1848-F625/az-apostol-F9A0/) (Kötelező olvasmány) - [[Irodalom/Tételek/9. Petőfi Sándor - Az apostol|Vázlat]]
-10. Vörösmarti Mihály költészete a szabadságharc bukása után (10. szvgy.) - [[10. Vörösmarti Mihály költészete a szabadságharc bukása után|Vázlat]]
+10. Vörösmarti Mihály költészete a szabadságharc bukása után (10. szvgy.) - [[Irodalom/Tételek/10. Vörösmarty Mihály költészete a szabadságharc bukása után|Vázlat]]
 	- [Előszó](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_07_001?w=Előszó#section-62731123976)
 	- [A vén cigány](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_07_001?w=A%20vén%20cigány#section-62731123977)
 
