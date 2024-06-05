@@ -142,7 +142,7 @@
 
 > [!timeline|white] Hunyadi Mátyás
 > 1458 - 1490
-> [[A hunyadiak (Hunyadi Mátyás)]]
+> [[Történelem/Tételek szövegesen/16. A hunyadiak (Hunyadi Mátyás)]]
 > [NKP](https://www.nkp.hu/tankonyv/tortenelem_9_nat2020/lecke_06_021)
 
 > [!timeline|cyan] II. Ulászló
