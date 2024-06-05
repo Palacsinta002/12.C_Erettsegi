@@ -595,7 +595,7 @@ Magyar népköztársaság kikiáltása
 
 > [!timeline] ✏
 > 1949. augusztus 20.
-> Alkotmány elfogadása → Népköztársaság
+> Alkotmány elfogadása —> Népköztársaság
 
 > [!timeline] 💀
 > 1953
