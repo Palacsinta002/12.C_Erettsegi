@@ -4,7 +4,7 @@
 	- [Héja-nász az avaron](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_002?w=Héja-nász%20az%20avaron#section-76993480904)
 	- [Lédával a bálban](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_002?w=Lédával%20a%20bálban#section-76993480914)
 	- [Elbocsátó szép üzenet](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_002?w=Elbocsátó%20szép%20üzenet#section-76993480918)
-2. Arany János nagykőrösi balladái (10. szvgy.) - [[Irodalom/Tételek/2. Arany János nagykőrösi balladái|Vázlat]]
+2. Arany János nagykőrösi balladái (11. szvgy.) - [[Irodalom/Tételek/2. Arany János nagykőrösi balladái|Vázlat]]
 	- [A walesi bárdok](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_001?w=A%20walesi%20bárdok#section-76921819985)
 	- [Ágnes asszony](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_001?w=Ágnes%20asszony#section-76921819982)
 	- [V. László](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_001?w=V.%20László#section-76921819983)
@@ -27,10 +27,12 @@
 ## II. Szerzők, művek, korszakok a régi magyar irodalomból a 18. század végéig
 
 11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (klasszicizmus, szentimentalizmus, rokokó, népiesség) (10. szvgy.) - [[Irodalom/Tételek/11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (Reményhez, Tartózkodó Kérelem, Az estve, A boldogság)|Vázlat]]
-	- [A reményhez](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=A%20reményhez#section-62728497260)
-	- [Tartózkodó kérelem](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=Tartózkodó%20kérelem#section-62728497258)
-	- [Az estve](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=Az%20estve#section-62727272442)
-	- [A boldogság](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=A%20boldogság#section-62737700734)
+	- [A reményhez](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=A%20reményhez#section-62728497260) (meg lehet említeni)
+	- [Tartózkodó kérelem](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=Tartózkodó%20kérelem#section-62728497258) (rokokó)
+	- [Az estve](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=Az%20estve#section-62727272442) (meg lehet említeni)
+	- [A boldogság](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=A%20boldogság#section-62737700734) (rokokó)
+	- A magánossághoz (szentimentalizmus)
+	- Szerelem dala csikóbőrös kulacshoz (népies)
 
 ## III. Portrék, látásmódok
 
