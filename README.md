@@ -11,18 +11,19 @@ Mindenek előtt: Telepítsd a [Git](https://git-scm.com/download/win)et
 2. File —> Clone repository …
 3. Vagy a *GitHub.com* menüpont alatt kiválasztod a *Palacsinta002/12.C_Erettsegi*t, vagy a *URL* menüpont alatt beírod ezt: https://github.com/Palacsinta002/12.C_Erettsegi.git
 4. Nyomj a *Clone* gombra
-Alapesetben ide rakta: `C:/Users/USER/Documents/GitHub/12.C_Erettsegi`
+
+Alapesetben ide tölti le: `C:/Users/USER/Documents/GitHub/12.C_Erettsegi`
 
 ## Method 2
 
-1. [Töltsd le a repositoryt](https://github.com/Palacsinta002/12.C_Erettsegi/archive/refs/heads/main.zip)
+1. Töltsd le a repositoryt [innen](https://github.com/Palacsinta002/12.C_Erettsegi/archive/refs/heads/main.zip)
 2. Csomagold ki
 
 ## Method 3
 
 1. Nyiss egy cmd-t ott, ahova szeretnéd letölteni a repositoryt
 > [!TIP]
-> Windowson írd be a fájlkezelő címsorába, hogy "cmd", így a megnyitott mappába nyitja meg a parancssort
+> Windowson írd be a fájlkezelő címsorába hogy "cmd", ezzel a megnyitott mappába nyitja meg a parancssort
 2. Írd be ezt: `git clone https://github.com/Palacsinta002/12.C_Erettsegi.git`
 
 > [!TIP]
