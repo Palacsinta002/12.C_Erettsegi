@@ -13,12 +13,12 @@ Mindenek előtt: Telepítsd a [Git](https://git-scm.com/download/win)et
 4. Nyomj a *Clone* gombra
 Alapesetben ide rakta: `C:/Users/USER/Documents/GitHub/12.C_Erettsegi`
 
-## Method 1
+## Method 2
 
 1. [Töltsd le a repositoryt](https://github.com/Palacsinta002/12.C_Erettsegi/archive/refs/heads/main.zip)
 2. Csomagold ki
 
-## Method 2
+## Method 3
 
 1. Nyiss egy cmd-t ott, ahova szeretnéd letölteni a repositoryt
 > [!TIP]
