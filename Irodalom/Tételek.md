@@ -26,7 +26,7 @@
 
 ## II. Szerzők, művek, korszakok a régi magyar irodalomból a 18. század végéig
 
-11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (klasszicizmus, szentimentalizmus, rokokó, népiesség) (10. szvgy.) - [[Irodalom/Tételek/11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (Reményhez, Tartózkodó Kérelem, Az estve, A boldogság)|Vázlat]]
+11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (klasszicizmus, szentimentalizmus, rokokó, népiesség) (10. szvgy.) - [[Irodalom/Tételek/11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (Rokokó, szentimentalizmus, népies stílusjegyek)|Vázlat]]
 	- [A reményhez](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=A%20reményhez#section-62728497260) (meg lehet említeni)
 	- [Tartózkodó kérelem](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=Tartózkodó%20kérelem#section-62728497258) (rokokó)
 	- [Az estve](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=Az%20estve#section-62727272442) (meg lehet említeni)
