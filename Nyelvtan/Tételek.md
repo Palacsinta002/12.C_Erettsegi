@@ -19,23 +19,23 @@
 ## IV. A nyelvi rendszer
 
 11. A hangkapcsolódási szabályosságok típusai és a helyesírás összefüggése - [[11. A hangkapcsolódási szabályosságok típusai és a helyesírás összefüggése|Vázlat]]
-12. A szószerkezet fogalma, a szintagmák típusai, szerepük a mondat felépítésében, mondatbeli viszonyaik - [[12. A szószerkezet fogalma, a szintagmák típusai, szerepük a mondat felépítésében, mondatbeli viszonyaik|Vázlat]]
-13. Az egyszerű és összetett mondatok felismerése. Mondatok elemzése szerkezeti vázlattal - [[13. Az egyszerű és összetett mondatok felismerése. Mondatok elemzése szerkezeti vázlattal|Vázlat]]
+12. A szószerkezet fogalma, a szintagmák típusai, szerepük a mondat felépítésében, mondatbeli viszonyaik - [[12. A szószerkezet - szintagma|Vázlat]]
+13. Az egyszerű és összetett mondatok felismerése. Mondatok elemzése szerkezeti vázlattal - [[13. Az egyszerű és összetett mondatok|Vázlat]]
 
 ## V. A szöveg
 
 14. A szóbeli és írott szövegek szerepe, eltérő jegyei - [[14. A szóbeli és írott szövegek szerepe, eltérő jegyei|Vázlat]]
-15. A továbbtanuláshoz, illetve a munka világában szükséges szövegtípusok: különböző típusú önéletrajzok, motivációs levél; hivatalos levelek (panaszos levél, kérvény) - [[15. A továbbtanuláshoz, illetve a munka világában szükséges szövegtípusok -  különböző típusú önéletrajzok, motivációs levél, hivatalos levelek (panaszos levél, kérvény)|Vázlat]]
+15. A továbbtanuláshoz, illetve a munka világában szükséges szövegtípusok: különböző típusú önéletrajzok, motivációs levél; hivatalos levelek (panaszos levél, kérvény) - [[15. A továbbtanuláshoz, illetve a munka világában szükséges szövegtípusok|Vázlat]]
 
 ## VI. A rektorok alapjai
 
-16. A beszéd felépítése, a beszéd megszerkesztésének menete az anyaggyűjtéstől a megszólalásig - [[16. A beszéd felépítése, a beszéd megszerkesztésének menete az anyaggyűjtéstől a megszólalásig|Vázlat]]
-17. A kulturált véleménynyilvánítás és vita szabályai, gyakorlata. A befolyásolás módszerei - [[17. A kulturált véleménynyilvánítás és vita szabályai, gyakorlata. A befolyásolás módszerei|Vázlat]]
+16. A beszéd felépítése, a beszéd megszerkesztésének menete az anyaggyűjtéstől a megszólalásig - [[16. A beszéd felépítése|Vázlat]]
+17. A kulturált véleménynyilvánítás és vita szabályai, gyakorlata. A befolyásolás módszerei - [[17. A kulturált véleménynyilvánítás és vita|Vázlat]]
 
 ## VII. Stílus és jelentés
 
 18. A nyelvi jelek csoportjai hangalak és jelentés viszonya alapján - [[18. A nyelvi jelek csoportjai hangalak és jelentés viszonya alapján|Vázlat]]
-19. A tudományos és szakmai stílus sajátosságai - [[19. A tudományos és szakmai stílus sajátosságai|Vázlat]]
+19. A tudományos és szakmai stílus sajátosságai - [[19. A tudományos és szakmai stílus|Vázlat]]
 
 ## VIII. Digitális kommunikáció
 
