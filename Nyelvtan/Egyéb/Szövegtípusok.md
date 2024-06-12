@@ -1,0 +1,21 @@
+Meghatározott célú helyzetben használt tipikus szerkezetű és stílusú szöveg
+
+# Kommunikáció iránya szerint
+
+- Dialogikus —> kétirányú
+- Monologikus —> egyirányú
+
+# Funkció szerint
+
+- Elbeszélő szövegtípus:
+	- Történetet mond el, cselekménye van
+	- Általában időbeliségre épül
+- Leíró szövegek —> jellemzés, bemutatás
+- Érvelő szövegtípus —> cél a meggyőzés, tételeinket alátámasztjuk érvekkel
+
+# Kommunikációs kapcsolat fajtája szerint
+
+- Szóbeli —> rögtönzött
+- Írásbeli —> tervezett
+
+> [!CHECK] Source: füzet

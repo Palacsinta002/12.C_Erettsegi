@@ -1,15 +1,15 @@
-### Szerkezeti egységek
+# Szerkezeti egységek
 
-| VERS       | PRÓZA                           | DRÁMA    |
+| Vers       | Próza                           | Dráma    |
 | ---------- | ------------------------------- | -------- |
 | verssor    | mondat                          | jelenet  |
 | versmondat | mondattömb                      | szín     |
 | versszak   | bekezdés                        | felvonás |
 | (strófa)   | bevezetés, tárgyalás, befejezés |          |
 
-### Szövegösszetartó erő
+# Szövegösszetartó erő
 
-| JELENTÉSBELI KAPCSOLÓELEMEK                   | GRAMMATIKAI KAPCSOLÓELEMEK              |
+| Jelentésbeli kapcsolóelemek                   | Grammatikai kapcsolóelemek              |
 | --------------------------------------------- | --------------------------------------- |
 | Kulcsszavak                                   | **Névmások:**                           |
 | Cím                                           | - anafora <-                            |
@@ -23,3 +23,5 @@
 | - ellentét                                    | Kötőszavak                              |
 | - összekapcsolás                              | Szórend                                 |
 | - magyarázat                                  |                                         |
+
+> [!CHECK] Source: füzet

@@ -5,10 +5,8 @@
 	- [Lédával a bálban](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_002?w=Lédával%20a%20bálban#section-76993480914)
 	- [Elbocsátó szép üzenet](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_002?w=Elbocsátó%20szép%20üzenet#section-76993480918)
 2. Arany János nagykőrösi balladái (11. szvgy.) - [[Irodalom/Tételek/2. Arany János nagykőrösi balladái|Vázlat]]
-	- [A walesi bárdok](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_001?w=A%20walesi%20bárdok#section-76921819985)
 	- [Ágnes asszony](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_001?w=Ágnes%20asszony#section-76921819982)
 	- [V. László](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_03_001?w=V.%20László#section-76921819983)
-	- [Szondi két apródja](https://nat2012.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny/lecke_01_002)
 3. Babits Mihály: [Jónás könyve](https://www.nkp.hu/tankonyv/irodalom_11_szoveggyujtemeny_nat2020/lecke_04_003?w=Jónás%20könyve#section-76993530624) (11. szvgy.) - [[Irodalom/Tételek/3. Babits Mihály - Jónás Könyve|Vázlat]]
 4. Herczeg Ferenc: [Az élet kapuja](https://mek.oszk.hu/02500/02523/02523.htm) (Kötelező olvasmány) - [[Irodalom/Tételek/4. Herczeg Ferenc - Az élet kapuja|Vázlat]]
 5. Jókai Mór: [Az arany ember](https://mek.oszk.hu/00600/00688/html/index.htm) (Kötelező olvasmány) - [[Irodalom/Tételek/5. Jókai Mór - Az arany ember|Vázlat]]

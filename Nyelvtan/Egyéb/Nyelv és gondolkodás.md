@@ -1,23 +1,27 @@
-## Kontextus
+# Kontextus
+
 - Beszédhelyzet: tér, idő
 - Résztvevők száma, személye, egymásra való viszonya
 - Résztvevők közös tudása / kollektív tudat
 
-## Beszédtípus-elmélet
+# Beszédtípus-elmélet
+
 - Lokúció
 	pl.: Hú! de hideg van! (azt akarja hogy csukd be a ablakot)
 - Illokúció
 	pl.: Csukd be a ablakot! (konkrétan)
 - Perlokúció (idk)
 
-## Típusai
+# Típusai
+
 - Konkrét megállapítás
 - Kérés, parancs
 - Ígéret, fenyegetés
 - Érzelem kifejezése
 - Megváltoztató megnyilatkozások
 
-## Kommunikációs zavar
+# Kommunikációs zavar
+
 - Egyén szempontjából
 	- társas környezet nyelvi viselkedése (pl.: ismeretlen szavak)
 	- kultúrára vonatkozó ismeretek hiánya
@@ -33,13 +37,15 @@
 	- elhallgatás, torzítás, hazugság
 	- túlzott kitárulkozás
 
-## A maximák
+# A maximák
+
 - Minőség: ne hazudj
 - Mennyiség: csak annyit dumálj amennyit kell
 - Modor: világos, pontos
 - Kapcsolódás: kapcsolódjon a beszélgetéshez
 
-## Udvariassági elvek
+# Udvariassági elvek
+
 - Tapintat
 - Nagylelkűség
 - Megerősítés
@@ -49,3 +55,5 @@
 - Fatikus elv (kerüld a csöndet)
 
 deixis = rámutatás
+
+> [!CHECK] Source: Kitti & füzet
