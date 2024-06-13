@@ -37,19 +37,19 @@ Meghatározott területen és helyzetben használt nyelvi stilisztikai eszközö
 ### Szókincs
 
 - gazdag
-- szakkifejezések
-- terminus technikus (jelentése: műszó, műkifejezés, szakkifejezés)
+- **szakkifejezések** / terminus technikus
 - idegen szavak (latin, angol, görög)
 
 ### Mondatszerkesztés
 
 - összetett mondatok
 - modalitás: kijelentő
-- érzelemmentesség
+- **érzelemmentesség**
 - nincsenek hiányos mondatok (hogy ne legyen félreértelmezhető)
 - sok új ismeretelem
 - a szórend és a mondatszerkesztés egyértelmű
 - nem használja a képszerűség eszközeit (pl: metafora)
+- **következtető, magyarázó mondatok**
 
 ### Szövegszerkesztés
 
@@ -57,7 +57,7 @@ Meghatározott területen és helyzetben használt nyelvi stilisztikai eszközö
 - cím (segít kijelölni a témát)
 - idézetek, illusztrációk, fotók
 - diagramok, adatok
-- hivatkozások (lábjegyzet)
+- **hivatkozások (lábjegyzet)**
 - logikai rendre épül
 - közérthető
 - átlátható
@@ -185,5 +185,7 @@ A különbféle intézmények, hatóságok használják egymás között és az 
 - cím
 - szóképek, alakzatok (színesíti a szöveget)
 - a hossza függ a műfajtól is
+
+# Szépirodalmi
 
 > [!CHECK] Source: füzet
