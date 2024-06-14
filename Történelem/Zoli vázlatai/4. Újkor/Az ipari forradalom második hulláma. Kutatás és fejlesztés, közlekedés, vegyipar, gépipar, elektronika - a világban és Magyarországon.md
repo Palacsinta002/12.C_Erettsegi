@@ -32,7 +32,7 @@
 - repülőgép - Wright - testvérek
 #### Vegyipar
 - üzemanyaggyártás
-- gógyszergyártás
+- gyógyszergyártás
 - műtrágya- és növényvédő szerek gyártása -> mezőgazdaság
 	- népesség növekedés
 #### Hadiipar
