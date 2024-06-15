@@ -7,6 +7,7 @@
 - Stílus: szimbolizmus
 - Műfajok: újság #FIXME 
 - Téma: szerelem; létkérdés; hit; mulandóság; szülőföld
+- Ambivalens
 - Fontosabb művei:
 	- Vér és arany
 	- Az Illés szekerén
@@ -22,7 +23,7 @@
 - Meghalt: 1882
 - Stílus: népiesség
 - Műfajok: elbeszélő költemény; dal; ballada
-- Téma: #FIXME
+- Téma: szabadságharc, bűn és bűnhődés
 - Fontosabb művei:
 	- Az elveszett alkotmány
 	- Toldi
@@ -123,6 +124,7 @@ poéta doctus
 - Stílus: realizmus
 - Műfajok: próza; újság
 - Téma: felvidék paraszti világa
+- Anekdotázás
 - Fontosabb művei:
 	- Beszterce ostroma
 	- Különös házasság
@@ -152,7 +154,7 @@ poéta doctus
 - Született: 1800
 - Meghalt: 1855
 - Stílus: romantika
-- Műfajok: lírai költemény; elbeszélő költemény; dráma
+- Műfajok: rabszódia; lírai költemény; elbeszélő költemény; dráma
 - Téma: #FIXME
 - Fontosabb művei:
 	- Zalán futása
@@ -187,9 +189,10 @@ poéta doctus
 
 - Született: 1879
 - Meghalt: 1942
-- Stílus: #FIXME
+- Stílus: naturalizmus; realizmus
 - Műfajok: #FIXME
-- Téma: paraszti világ, szegény emberek szívvóssága
+- Téma: paraszti élet, jellegzetessége; boldogasszony & szépasszony
+- Élőbeszéd
 - Fontosabb művei: #FIXME
 	- [[Irodalom/Tételek - Vázlatok/12. Móricz Zsigmond paraszti témájú novellái#Tragédia|Tragédia]]
 	- [[Irodalom/Tételek - Vázlatok/12. Móricz Zsigmond paraszti témájú novellái#Barbárok (1931)|Barbárok]]
@@ -201,7 +204,8 @@ poéta doctus
 - Meghalt: 1944
 - Stílus: avantgárd —> expresszionista; újklasszicista
 - Műfajok: #FIXME
-- Téma: halál; szerelem
+- Téma: halál; szerelem; szívósság
+- Posztomusz
 - Fontosabb művei: #FIXME
 	- [[Irodalom/Tételek - Vázlatok/13. Radnóti Miklós Ecloga költészete#Radnóti eclogái (1939-1944)|Eclogák]]
 
@@ -212,7 +216,7 @@ poéta doctus
 - Született: 1907
 - Meghalt: 1938
 - Stílus: #FIXME
-- Műfajok: #FIXME
+- Műfajok: újság; #FIXME
 - Téma: hazaszeretet; vallásosság; szerelem; halálfélelem
 - Fontosabb művei:
 	- Psalmus Hungaricus
