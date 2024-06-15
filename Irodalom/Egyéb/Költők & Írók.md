@@ -13,6 +13,9 @@
 	- Az Illés szekerén
 	- Szeretném, ha szeretnének
 	- A halottak élén
+	- [[Irodalom/Tételek - Vázlatok/1. Ady Endre - Léda versek#Héja-nász az avaron|Héja-nász az avaron]]
+	- [[Irodalom/Tételek - Vázlatok/1. Ady Endre - Léda versek#Lédával a bálban|Lédával a bálban]]
+	- [[Irodalom/Tételek - Vázlatok/1. Ady Endre - Léda versek#Elbocsátó, szép üzenet - [Elemzés](https //blog.verselemzes.hu/jegyzet/ady-endre-elbocsato-szep-uzenet-elemzes/5/)|Elbocsátó, szép üzenet]]
 
 # Arany János
 „a ballada Shakespeare-je”
