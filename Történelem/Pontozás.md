@@ -6,3 +6,5 @@
 - 3 konkrét, 3 általános fogalom
 - 2 tér
 - 2 idő
+
+> [!ERROR] Source: emlékezet

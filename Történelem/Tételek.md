@@ -23,3 +23,5 @@
 [Történelem 10. ](https://www.tankonyvkatalogus.hu/pdf/OH-TOR10TB__teljes.pdf) 
 [Történelem 11. ](https://www.tankonyvkatalogus.hu/pdf/OH-TOR11TB__teljes.pdf) 
 [Történelem 12. ](https://www.tankonyvkatalogus.hu/pdf/OH-TOR12TB__teljes.pdf) 
+
+[[Pontozás]]
