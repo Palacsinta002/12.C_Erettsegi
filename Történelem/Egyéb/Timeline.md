@@ -24,10 +24,10 @@
 > kb 997 - 1038
 
 > [!timeline] 👑
-> 1000. december 25.
+> 1000\. december 25.
 > I. István megkoronázása
-> [[15. Az államalapítás]]
-> [A keresztény magyar államalapítás](https://www.nkp.hu/tankonyv/tortenelem_9_nat2020/lecke_05_016)
+> [[15. Az államalapítás|Vázlat]]
+> [NKP](https://www.nkp.hu/tankonyv/tortenelem_9_nat2020/lecke_05_016)
 # Magyar Királyság
 
 > [!timeline|yellow] Orseolo Péter
@@ -91,7 +91,8 @@
 
 > [!timeline|yellow] IV. Béla
 > 1235 - 1270
-> [[5. IV. Béla és a tatárjárás]]
+> [[5. IV. Béla és a tatárjárás|Vázlat 1]]
+> [[IV. Béla uralkodása, tatárjárás és újjáépítés|Vázlat 2]]
 
 > [!timeline] ⚔
 > 1241
@@ -110,7 +111,7 @@
 
 > [!timeline|green] Károly Róbert
 > 1301 - 1342
-> [[1. Károly Róbert gazdaságpolitikája]]
+> [[1. Károly Róbert gazdaságpolitikája|Károly Róbert gazdaságpolitikája]]
 
 > [!timeline] ⚔
 > 1312
@@ -142,7 +143,7 @@
 
 > [!timeline|white] Hunyadi Mátyás
 > 1458 - 1490
-> [[Történelem/Tételek szövegesen/16. A hunyadiak (Hunyadi Mátyás)]]
+> [[Történelem/Tételek szövegesen/16. A hunyadiak (Hunyadi Mátyás)|Vázlat]]
 > [NKP](https://www.nkp.hu/tankonyv/tortenelem_9_nat2020/lecke_06_021)
 
 > [!timeline|cyan] II. Ulászló
@@ -156,7 +157,7 @@
 > I. Szulejmán trónra lépése
 
 > [!timeline] ⚔
-> 1521. augusztus 29.
+> 1521\. augusztus 29.
 > Nándorfehérvár elesik
 
 > [!timeline] ⚔
@@ -182,7 +183,7 @@
 > Váradi béke
 
 > [!timeline] ⚔
-> 1541. augusztus 29.
+> 1541\. augusztus 29.
 > Buda eleste
 > Az ország 3 részre szakadása
 
@@ -281,11 +282,12 @@
 
 > [!timeline|orange] Mária Terézia
 > 1740 - 1780
-> [[13. Magyarország a 18. századi Habsburg Birodalomban]]
+> [[13. Magyarország a 18. századi Habsburg Birodalomban#Mária Terézia (1740-1780)|Vázlat]]
 > [A felvilágosult abszolutizmus reformjai](https://www.nkp.hu/tankonyv/tortenelem_10_nat2020/lecke_04_014)
 
 > [!timeline|orange] II. József
 > 1780 - 1790
+> [[13. Magyarország a 18. századi Habsburg Birodalomban#II. József (1780-90)|Vázlat]]
 
 > [!timeline|orange] II. Lipót
 > 1790 - 1792
@@ -299,7 +301,7 @@
 > 1825
 > Pozsonyi országgyűlés
 
-[[8. Reformkor]]
+[[8. Reformkor|Reformkor]]
 
 > [!timeline|orange] V. Fredinánd
 > 1835 - 1848
@@ -322,10 +324,12 @@
 > [Forradalom](https://www.nkp.hu/tankonyv/tortenelem_10_nat2020/lecke_07_020)
 
 > [!timeline] ⚔
-> [Szabadságharc](https://www.nkp.hu/tankonyv/tortenelem_10_nat2020/lecke_07_021)
+> Szabadságharc
+> [NKP](https://www.nkp.hu/tankonyv/tortenelem_10_nat2020/lecke_07_021)
+> [[17. A szabadságharc (48-49)|Vázlat]]
 
 > [!timeline] ✏
-> 1848. április 11.
+> 1848\. április 11.
 > Áprilisi törvények
 
 # Alkotmányos Monarchia
@@ -351,55 +355,59 @@
 > Egy bizottság összeül a közös ügyek megtárgyalására **Andrássy Gyula** vezetésével
 
 > [!timeline] 🎓
-> 1867. február
+> 1867\. február
 > Andrássy miniszterelnök
 
 > [!timeline] 👑
-> 1867. július. 8.
+> 1867\. július. 8.
 > Ferenc József megkoronázása
 
 # Dualista kétközpontú monarchia
 
-[[9. Társadalmi változások a dualizmus korában]]
+[[9. Társadalmi változások a dualizmus korában|Társadalmi változások a dualizmus korában]]
 
 > [!timeline] ✏
 > 1868
 > Horvát-magyar kiegyezés
 
 > [!timeline] 🩸
-> 1914. június 28.
+> 1914\. június 28.
 > Szarajevó: Ferenc Ferdinánd meggyilkolása
 
 > [!timeline|orange] IV. Károly
 > 1916 - 1918
 
 > [!timeline] 🔥
-> 1918. október. 30 - 31.
+> 1918\. október. 30 - 31.
 > Őszirózsás forradalom
+> [[A forradalmi átalakulás kísérlete, (tanácsköztársaság), ellenforradalom Magyarországon 1918-1920-ban#Őszirózsás forradalom|Vázlat]]
 
 > [!timeline] 🩸
-> 1918. október. 31.
+> 1918\. október. 31.
 > Tisza István meggyilkolása
 
 > [!timeline] ✏
-> 1918. november 16.
+> 1918\. november 16.
 Magyar népköztársaság kikiáltása
 # Népköztársaság
 
 > [!timeline] 🎓
-> 1919. január
+> 1919\. január
 > Károlyi Mihály miniszterelnök
+> [[A forradalmi átalakulás kísérlete, (tanácsköztársaság), ellenforradalom Magyarországon 1918-1920-ban#Károlyi Mihály kormányzása|Vázlat]]
 
 > [!timeline] ✏
 > - Földtörvény
 > - Választójogi törvény
 # Tanácsköztársaság (1919. márc. 21.)
 
+> [[A forradalmi átalakulás kísérlete, (tanácsköztársaság), ellenforradalom Magyarországon 1918-1920-ban#Forradalomi Kormányzó Tanács (Tanácsköztársaság)|Vázlat]]
+
 > [!timeline] 🎓
 > Kun Béla külügyi népbiztos
 
 > [!timeline] 🕊
-> 1919. június. 18.
+> 1919\. június. 18.
 > Versailess-i békeszerződés
 
 > [!timeline] ✏
@@ -407,21 +415,25 @@ Magyar népköztársaság kikiáltása
 > - A románok átlépik a Tiszát
 
 > [!timeline] 🎓
-> 1919. augusztus. 1.
+> 1919\. augusztus. 1.
 > Köztársaság lemond
 
 # Király nélküli királyság
 
 ## Horthy-korszak
 
+[[A forradalmi átalakulás kísérlete, (tanácsköztársaság), ellenforradalom Magyarországon 1918-1920-ban#Ellenforradalom|Vázlat 1]]
+[[Politikai és gazdasági konszolidáció Magyarország az 1920-as években|Vázlat 2]]
+
 > [!timeline] 🎓
-> 1919. november. 16. - 1944
+> 1919\. november. 16. - 1944
 > Horthy Miklós kormányzó
-> [[12. Bethlen konszolidáció]]
 
 > [!timeline] 🕊
-> 1920. június. 4.
+> 1920\. június. 4.
 > Aláirattják a békeszerződést
+> [[10. A trianoni békediktátum következményei|Vázlat 1]]
+> [[A trianoni békediktátum születése, tartalma és következményei|Vázlat 2]]
 
 > [!timeline] 🎓
 > 1920 - 1921
@@ -433,23 +445,26 @@ Magyar népköztársaság kikiáltása
 > - Földtörvény
 
 > [!timeline] ❓
-> 1941. tavasz
+> 1941\. tavasz
 > IV. Károly 1. királypuccs
 
 > [!timeline] 🎓
 > 1921 - 1931
 > Bethlen István miniszterelnök
+> [[12. Bethlen konszolidáció|Bethlen konszolidáció]]
 
 > [!timeline] ❓
-> 1941. ősz
+> 1941\. ősz
 > IV. Károly 2. királypuccs
 
 > [!timeline] 🛑
-> 1921. november
+> 1921\. november
 > Habsburg-ház trónfosztása
 
 > [!timeline] ✏
 > Bethlen-Peyer paktum
+
+[[Oktatás és kultúrpolitika Magyarországon]]
 
 > [!timeline] ✏
 > 1922
@@ -489,13 +504,15 @@ Magyar népköztársaság kikiáltása
 > 1939 - 1941
 > Teleki Pál miniszterelnök
 
+[[A területi revízió lépései és az ország hadba sodródásának folyamata]]
+
 > [!timeline] ✏
 > - 2\. zsidótörvény (faji alap, mindenhol 6%)
 > - 2\. bécsi döntés
 > - Kárpátaljai bevonulás
 
 > [!timeline] 🤝
-> 1940. december
+> 1940\. december
 > Örök barátsági szerződés Jugoszláviával
 
 > [!timeline] 💀
@@ -507,11 +524,11 @@ Magyar népköztársaság kikiáltása
 > Bárdossy László miniszterelnök
 
 > [!timeline] 💣
-> 1941. június 26.
+> 1941\. június 26.
 > Kassa bombázása
 
 > [!timeline] ✏
-> 1941. június 27.
+> 1941\. június 27.
 > Hadiállapot bejelentése
 
 > [!timeline] ✏
@@ -522,8 +539,11 @@ Magyar népköztársaság kikiáltása
 > Kállay Miklós miniszterelnök
 
 > [!timeline] 🧨
-> 1944. március 19.
+> 1944\. március 19.
 > Magyarország német megszállása
+> [[Német megszállás, nyilas diktatúra - a hadszintérré vált ország, deportálások a Szovjetunióba|Vázlat]]
+
+[[A zsidóság jogfosztásának folyamata és a holokauszt Európában és Magyarországon|Holokauszt]]
 
 > [!timeline] 🎓
 > 1944
@@ -534,7 +554,7 @@ Magyar népköztársaság kikiáltása
 > Lakatos Géza miniszterelnök
 
 > [!timeline] ✏
-> 1944. október 15.
+> 1944\. október 15.
 > Horthy lemond
 
 ## Nyilaskeresztes Párt
@@ -552,12 +572,12 @@ Magyar népköztársaság kikiáltása
 > - Választójogi törvény
 
 > [!timeline] ✏
-> 1945. november
+> 1945\. november
 > Választások
 > **FKgP** győz
 
 > [!timeline] 💵
-> 1946. augusztus
+> 1946\. augusztus
 > Forint bevezetése
 
 > [!timeline] ✏
@@ -584,7 +604,7 @@ Magyar népköztársaság kikiáltása
 > **MKP** koalícióba lép és győz
 
 > [!timeline] ✏
-> 1948. június
+> 1948\. június
 > MKP + SZDP = **Magyar Dolgozók Pártja**
 
 > [!timeline] 🎓
@@ -593,8 +613,10 @@ Magyar népköztársaság kikiáltása
 # Népköztársaság
 ## Rákosi-korszak
 
+[[A Rákosi-korszak|Vázlat]]
+
 > [!timeline] ✏
-> 1949. augusztus 20.
+> 1949\. augusztus 20.
 > Alkotmány elfogadása —> Népköztársaság
 
 > [!timeline] 💀
@@ -616,18 +638,19 @@ Magyar népköztársaság kikiáltása
 > Gerő Ernő főtitkár
 
 > [!timeline] ⚰
-> 1956. október 6.
+> 1956\. október 6.
 > Rajk László újratemetése
 
 > [!timeline] 🔥
 > Tüntetés
 
 > [!timeline] 💥
-> 1956. október 23.
+> 1956\. október 23.
 > A rádiónál fegyveres harc kezdődik
+[[A forradalom okai és céljai, a kormánypolitika változásai, a szabadságharc és leverése, a megtorlás|Vázlat]]
 
 > [!timeline] 🎓
-> 1956. október 24.
+> 1956\. október 24.
 > Nagy Imre miniszterelnök
 
 > [!timeline] 💥
@@ -635,18 +658,24 @@ Magyar népköztársaság kikiáltása
 
 ## Kádár-korszak
 
+[[A pártállam, a téeszesítés, a tervgazdaság, a kultúrpolitika, az elnyomás változó formái - a kádári alku|Vázlat]]
+
 > [!timeline] 🎓
-> 1956. november
+> 1956\. november
 > Kádár János főtitkár
 > Munkás-Paraszt Kormány
 
-[[7. A Kádár-korszak mindennapjai]]
+[[7. A Kádár-korszak mindennapjai|A Kádár-korszak mindennapjai]]
 
 > [!timeline] 💸
 > 1973
 > Olaj-árrobbanás
 
 ## Rendszerváltás
+
+[[Rendszerváltás|Vázlat 1]]
+[[A rendszerváltoztatás (1989-1991)|Vázlat 2]]
+[[A piacgazdaságra való áttérés, gazdasági szerkezetváltás, privatizáció, a külföldi tőke szerepe, a külkereskedelem átalakulása|Vázlat 3]]
 
 > [!timeline] 🗣
 > 1985
@@ -661,7 +690,7 @@ Magyar népköztársaság kikiáltása
 > Kádár meghal
 
 > [!timeline] ✏
-> 1989. október 23.
+> 1989\. október 23.
 > Magyar köztársaság kikiáltása
 
 > [!timeline] 🎓

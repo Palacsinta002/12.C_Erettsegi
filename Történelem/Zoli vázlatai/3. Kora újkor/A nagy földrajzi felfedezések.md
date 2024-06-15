@@ -1,10 +1,10 @@
 # A felfedezések okai
 #### - 15. századi európai gazdaság
-	- nemesfém / vert pénz igény (aranyéhség)
-	- a magyar és cseh nemesfémbányák kimerültek
-	- keletről : áru, cserébe nemesfém pénz = "szivattyú" az arabok által
-	- Oszmán-török hódítás a térségben = kereskedelem drágult (Velence! uralma)
-	- Reconquista lezárult - Ibériai-félsziget felszabadítása az arab uralom alól
+- nemesfém / vert pénz igény (aranyéhség)
+- a magyar és cseh nemesfémbányák kimerültek
+- keletről : áru, cserébe nemesfém pénz = "szivattyú" az arabok által
+- Oszmán-török hódítás a térségben = kereskedelem drágult (Velence! uralma)
+- Reconquista lezárult - Ibériai-félsziget felszabadítása az arab uralom alól
 
 ![[Pasted image 20231120164130.png|300]]
 ## A földrajztudomány fejlődése
