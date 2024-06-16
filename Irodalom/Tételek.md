@@ -25,12 +25,11 @@
 ## II. Szerzők, művek, korszakok a régi magyar irodalomból a 18. század végéig
 
 11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (klasszicizmus, szentimentalizmus, rokokó, népiesség) (10. szvgy.) - [[Irodalom/Tételek - Vázlatok/11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (Rokokó, szentimentalizmus, népies stílusjegyek)|Vázlat]] [[Irodalom/Tételek - Esszék/11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (Rokokó, szentimentalizmus, népies stílusjegyek)|Esszé]]
-	- [A reményhez](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=A%20reményhez#section-62728497260) (meg lehet említeni)
-	- [Tartózkodó kérelem](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=Tartózkodó%20kérelem#section-62728497258) (rokokó)
-	- [Az estve](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=Az%20estve#section-62727272442) (meg lehet említeni)
-	- [A boldogság](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=A%20boldogság#section-62737700734) (rokokó)
+	- [A boldogság](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=A%20boldogság#section-62737700734) / [Tartózkodó kérelem](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=Tartózkodó%20kérelem#section-62728497258) (rokokó)
 	- [A magánossághoz](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/csokonai-vitez-mihaly-5088/1798-57D1/a-maganossaghoz-58DC/) — [Elemzés](https://blog.verselemzes.hu/jegyzet/csokonai-vitez-mihaly-a-maganossaghoz-elemzes/) (szentimentalizmus)
 	- [Szerelem dala csikóbőrös kulacshoz](https://www.arcanum.com/hu/online-kiadvanyok/Verstar-verstar-otven-kolto-osszes-verse-2/csokonai-vitez-mihaly-5088/1802-5AC3/szerelemdal-5AFB/) (népies)
+	- [Az estve](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=Az%20estve#section-62727272442) (meg lehet említeni)
+	- [A reményhez](https://www.nkp.hu/tankonyv/irodalom_10_szoveggyujtemeny_nat2020/lecke_04_003?w=A%20reményhez#section-62728497260) (meg lehet említeni)
 
 ## III. Portrék, látásmódok
 
