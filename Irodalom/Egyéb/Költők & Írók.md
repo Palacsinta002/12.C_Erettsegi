@@ -6,9 +6,9 @@
 
 - Született: 1877
 - Meghalt: 1919
-- Stílus: szimbolizmus
-- Műfajok: újság #FIXME 
-- Téma: szerelem; létkérdés; hit; mulandóság; szülőföld
+- Stílus: szimbolizmus; szecesszió
+- Műfajok: újság; vers
+- Téma: szerelem; létkérdés; hit; mulandóság; szülőföld; látomás
 - Ambivalens
 - Fontosabb művei:
 	- Vér és arany
@@ -67,14 +67,16 @@ poéta doctus
 
 - Született: 1863
 - Meghalt: 1954
-- Stílus: #FIXME
-- Műfajok: regény
-- Téma: #FIXME
+- Stílus: anekdotikus elbeszélés
+- Műfajok: regény; dráma
+- Téma: trianon; történelem
+- Országgyűlési képviselő (Herczeg ❤ Tisza István)
 - Fontosabb művei:
 	- A Gyurkovics-fiúk
 	- Ocskay brigadéros
 	- A kék róka
 	- Pro libertate!
+	- Bizánc (dráma)
 	- [[Irodalom/Tételek - Vázlatok/4. Herczeg Ferenc - Az élet kapuja#Az élet kapuja|Az élet kapuja]]
 
 # Jókai Mór
@@ -83,7 +85,7 @@ poéta doctus
 
 - Született: 1825
 - Meghalt: 1904
-- Stílus: romantika, realizmus
+- Stílus: romantika, realizmus; anekdotázás; szélsőséges jellemek
 - Műfajok: regény
 	- kaland r.
 	- heroikus r.
@@ -105,10 +107,22 @@ poéta doctus
 
 - Született: 1905. ápr. 11.
 - Meghalt: 1937
-- Stílus: #FIXME
-- Műfajok: #FIXME
-- Téma: közösség; szerelem; filozófia
-- Fontosabb művei: #FIXME
+- Stílus: klasszikus modernség; avantgárd; tárgyias tájvers
+- Műfajok: vers;
+- Téma: közösség; szerelem; filozófia; pszichológia
+- Fontosabb kötetei:
+	- Szépség koldusa
+	- Nem én kiáltok
+	- Nincsen apám, se anyám
+	- Döntsd a tőkét, ne siránkozz (kommunista eszme)
+	- Külvárosi éj
+	- Medvetánc
+	- Nagyon fáj
+- Fontosabb művei:
+	- Tiszta szívvel
+	- [[Irodalom/Tételek - Vázlatok/6. József Attila utolsó vershármasa#Karóval jöttél...(koróval)|Karóval jöttél …]]
+	- [[Irodalom/Tételek - Vázlatok/6. József Attila utolsó vershármasa#Talán eltűnök hirtelen…|Talán eltűnök hirtelen …|]]
+	- [[Irodalom/Tételek - Vázlatok/6. József Attila utolsó vershármasa#Íme, hát megleltem hazámat…|Íme, hát megleltem hazámat …|]]
 
 # Kosztolányi Dezső
 
@@ -116,13 +130,21 @@ poéta doctus
 
 - Született: 1885
 - Meghalt: 1936
-- Stílus: #FIXME
-- Műfajok: vers; regény; elbeszélés
-- Téma: #FIXME
-- Fontosabb művei: #FIXME
+- Stílus: szecesszió
+- Műfajok: vers; regény; elbeszélés; novella
+	- lélektani regény
+- Téma: nagyvárosi magány
+- Fontosabb kötetei:
+	- Négy fal között
+	- Tengerszem
+	- Esti Kornél
+- Fontosabb művei:
+	- A szegény kisgyermek panaszai
 	- [[Irodalom/Tételek - Vázlatok/7. Kosztolányi Dezső - Édes Anna|Édes Anna]]
 
 # Mikszáth Kálmán
+
+<img width=200 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Miksz%C3%A1th_fot%C3%B3.jpg/375px-Miksz%C3%A1th_fot%C3%B3.jpg" />
 
 - Született: 1847
 - Meghalt: 1910
@@ -160,7 +182,7 @@ poéta doctus
 - Meghalt: 1855
 - Stílus: romantika
 - Műfajok: rabszódia; lírai költemény; elbeszélő költemény; dráma
-- Téma: #FIXME
+- Téma: szabadságharc; #FIXME
 - Fontosabb művei:
 	- Zalán futása
 	- A rom
@@ -178,7 +200,7 @@ poéta doctus
 - Meghalt: 1805 (?)
 - Stílus: klasszicizmus; rokokó; szentimentalizmus; népies
 - Műfajok: dal; óda; elégia
-- Téma: #FIXME
+- Téma: szerelem; magány; #FIXME
 - Fontosabb művei:
 	- [[Irodalom/Tételek - Vázlatok/11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (Rokokó, szentimentalizmus, népies stílusjegyek)#A tihanyi Ekhóhoz (122-123.o.)|A tihanyi ekhóhoz]]
 	- [[Irodalom/Tételek - Vázlatok/11. Csokonai Vitéz Mihály költészetének stílusbeli sokszínűsége (Rokokó, szentimentalizmus, népies stílusjegyek)#Tartózkodó kérelem|Tartózkodó kérelem]]
@@ -233,6 +255,7 @@ poéta doctus
 <img width=200 src="data:image/jpeg;base64,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" />
 
 - Született: 1976
+- Kortárs
 - Stílus: #FIXME
 - Műfajok: #FIXME
 - Téma: #FIXME
