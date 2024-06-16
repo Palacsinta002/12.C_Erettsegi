@@ -1,6 +1,7 @@
 
 Közvetlen előzményei: Ady Endre — Új versek, A Holnap
 [Weboldal](https://epa.oszk.hu/00000/00022/nyugat.htm)
+[[36. A Nyugat|Vázlat]]
 
 # Első nemzedék
 

@@ -16,9 +16,8 @@
 | **Realizmus**                                                                                                                                    |                                                                                                                                                                                                                   |
 |                                                                                                                                                  | [[32. Mikszáth Kálmán - Szegény Gélyi János lovai]]<br>Gárdonyi Géza<br>[[39. Moricz Zsigmond - Tragédia, Uri Muri]]<br>[[45. József Attila (FÉLKÉSZ)]] (?)                                                       |
 
-### Kategorizálatlan
+### Kategorizálatlan költők
 
-- [[01. Bevezetés az irodalomba – művészet, irodalom]]
 - [[24. Katona József Bánk Bán]]
 - Arany János ???
 - Eötvös József ???
@@ -31,6 +30,12 @@
 - Madách Imre ???
 - Herczeg Ferenc ???
 - [[34. Orosz irodalom, Dosztolyeszkij- Bűn és Bűnhődés]]
-- [[44. Avantgarde irányzatok]]
 - [[52. Gyóni - Csak egy éjszakéra]]
+
+### Egyéb
+
+- [[01. Bevezetés az irodalomba – művészet, irodalom]]
 - [[33. Stílusirányzatok]]
+- [[44. Avantgarde irányzatok]]
+- [[Alakzatok, szóképek példákkal]]
+- [[Műnemek & Műfajok]]

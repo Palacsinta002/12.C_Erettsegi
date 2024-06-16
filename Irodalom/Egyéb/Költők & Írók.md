@@ -1,3 +1,5 @@
+[[Magyar költők timeline]]
+
 # Ady Endre
 
 <img width=200 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ady_Endre_%C3%A1ll%C3%B3_portr%C3%A9ja_%28Sz%C3%A9kely_Alad%C3%A1r_felv%C3%A9tele%29.jpg/371px-Ady_Endre_%C3%A1ll%C3%B3_portr%C3%A9ja_%28Sz%C3%A9kely_Alad%C3%A1r_felv%C3%A9tele%29.jpg" />

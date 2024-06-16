@@ -21,7 +21,7 @@
 [[Honfoglalás és okai és menete, a kalandozások, támadó hadjáratok]]
 [[Géza és I. (Szent) István államszervező tevékenysége, a földbírtokrendszer és a vármegyeszervezet]]
 [[Az Aranybulla legfontosabb elemei]]
-[[IV. Béla uralkodása: tatárjárás és újjáépítés]]
+[[IV. Béla uralkodása, tatárjárás és újjáépítés]]
 [[A királyi hatalom újbóli megszilárdítása Anjou I. Károly idején, a visegrádi királytalálkozó]]
 [[Luxemburgi Zsigmond, Hunyadi János és Hunyadi Mátyás törökellenes harcai]]
 [[Hunyadi Mátyás a központosított királyi hatalom, jövedelmek és kiadások, birodalom építő tervek]]
